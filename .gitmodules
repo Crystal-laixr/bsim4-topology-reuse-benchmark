@@ -1,0 +1,4 @@
+[submodule "upstream/ngspice_for_sizing"]
+	path = upstream/ngspice_for_sizing
+	url = https://github.com/MEOW23333/ngspice_for_sizing.git
+

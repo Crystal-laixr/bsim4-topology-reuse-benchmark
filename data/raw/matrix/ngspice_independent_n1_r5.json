@@ -1,0 +1,62 @@
+{
+  "batch_profile": {},
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 10956,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.06,
+      "wall_s": 0.07
+    }
+  ],
+  "cpu": 0,
+  "finished_at": "2026-07-26T01:25:32+0800",
+  "logs_archive": "data/raw/logs/matrix_ngspice_independent_n1_r5.tar.gz",
+  "max_rss_kb": 10956,
+  "method": "ngspice_independent",
+  "observed_wall_s": 0.07247859402559698,
+  "points": [
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.5385151373937234e-10,
+          "low_v": 1.7999997294207644,
+          "power_w": 0.03879061899554585,
+          "threshold_v": 0.8999999999999999
+        },
+        "l07": {
+          "high_v": 2.2540535546822976e-10,
+          "low_v": 1.7999997665918845,
+          "power_w": 0.03879061899554585,
+          "threshold_v": 0.8999999999999999
+        },
+        "l13": {
+          "high_v": 2.039484058008156e-10,
+          "low_v": 1.799999794796325,
+          "power_w": 0.03879061899554585,
+          "threshold_v": 0.8999999999999999
+        },
+        "l19": {
+          "high_v": 1.8720210329570654e-10,
+          "low_v": 1.7999998169266778,
+          "power_w": 0.03879061899554585,
+          "threshold_v": 0.8999999999999999
+        },
+        "l25": {
+          "high_v": 1.7377776408333216e-10,
+          "low_v": 1.7999998347528496,
+          "power_w": 0.03879061899554585,
+          "threshold_v": 0.8999999999999999
+        }
+      },
+      "point_id": "p000000"
+    }
+  ],
+  "rep": 5,
+  "schema_version": 1,
+  "simulation_wall_s": 0.07,
+  "size": 1,
+  "started_at": "2026-07-26T01:25:32+0800",
+  "tag": "matrix"
+}

@@ -1,0 +1,377 @@
+{
+  "batch_profile": {},
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58728,
+      "returncode": 0,
+      "system_s": 0.06,
+      "user_s": 1.63,
+      "wall_s": 1.7
+    }
+  ],
+  "cpu": 0,
+  "finished_at": "2026-07-26T01:25:26+0800",
+  "logs_archive": "data/raw/logs/gate_hspice_alter_n10_r0.tar.gz",
+  "max_rss_kb": 58728,
+  "method": "hspice_alter",
+  "observed_wall_s": 1.7084020460024476,
+  "points": [
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.5e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l07": {
+          "high_v": 2.214e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l13": {
+          "high_v": 1.998e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l19": {
+          "high_v": 1.83e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9105
+        },
+        "l25": {
+          "high_v": 1.695e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9104
+        }
+      },
+      "point_id": "p000000"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.154e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8927
+        },
+        "l07": {
+          "high_v": 1.89e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8928
+        },
+        "l13": {
+          "high_v": 1.691e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8928
+        },
+        "l19": {
+          "high_v": 1.535e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8927
+        },
+        "l25": {
+          "high_v": 1.41e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8926
+        }
+      },
+      "point_id": "p000001"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.434e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9235
+        },
+        "l07": {
+          "high_v": 2.128e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9234
+        },
+        "l13": {
+          "high_v": 1.896e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9234
+        },
+        "l19": {
+          "high_v": 1.715e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9232
+        },
+        "l25": {
+          "high_v": 1.569e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9231
+        }
+      },
+      "point_id": "p000002"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.662e-10,
+          "low_v": 1.8,
+          "power_w": 0.0346,
+          "threshold_v": 0.8898
+        },
+        "l07": {
+          "high_v": 2.312e-10,
+          "low_v": 1.8,
+          "power_w": 0.0346,
+          "threshold_v": 0.8898
+        },
+        "l13": {
+          "high_v": 2.047e-10,
+          "low_v": 1.8,
+          "power_w": 0.0346,
+          "threshold_v": 0.8898
+        },
+        "l19": {
+          "high_v": 1.839e-10,
+          "low_v": 1.8,
+          "power_w": 0.0346,
+          "threshold_v": 0.8897
+        },
+        "l25": {
+          "high_v": 1.672e-10,
+          "low_v": 1.8,
+          "power_w": 0.0346,
+          "threshold_v": 0.8895
+        }
+      },
+      "point_id": "p000003"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.163e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.8668
+        },
+        "l07": {
+          "high_v": 1.905e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.8668
+        },
+        "l13": {
+          "high_v": 1.709e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.8668
+        },
+        "l19": {
+          "high_v": 1.557e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.8668
+        },
+        "l25": {
+          "high_v": 1.434e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.8668
+        }
+      },
+      "point_id": "p000004"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.621e-10,
+          "low_v": 1.8,
+          "power_w": 0.0335,
+          "threshold_v": 0.8812
+        },
+        "l07": {
+          "high_v": 2.276e-10,
+          "low_v": 1.8,
+          "power_w": 0.0335,
+          "threshold_v": 0.8814
+        },
+        "l13": {
+          "high_v": 2.015e-10,
+          "low_v": 1.8,
+          "power_w": 0.0335,
+          "threshold_v": 0.8815
+        },
+        "l19": {
+          "high_v": 1.81e-10,
+          "low_v": 1.8,
+          "power_w": 0.0335,
+          "threshold_v": 0.8815
+        },
+        "l25": {
+          "high_v": 1.646e-10,
+          "low_v": 1.8,
+          "power_w": 0.0335,
+          "threshold_v": 0.8815
+        }
+      },
+      "point_id": "p000005"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.763e-10,
+          "low_v": 1.8,
+          "power_w": 0.02042,
+          "threshold_v": 0.9331
+        },
+        "l07": {
+          "high_v": 2.5e-10,
+          "low_v": 1.8,
+          "power_w": 0.02042,
+          "threshold_v": 0.9332
+        },
+        "l13": {
+          "high_v": 2.302e-10,
+          "low_v": 1.8,
+          "power_w": 0.02042,
+          "threshold_v": 0.9332
+        },
+        "l19": {
+          "high_v": 2.149e-10,
+          "low_v": 1.8,
+          "power_w": 0.02042,
+          "threshold_v": 0.9332
+        },
+        "l25": {
+          "high_v": 2.026e-10,
+          "low_v": 1.8,
+          "power_w": 0.02042,
+          "threshold_v": 0.9332
+        }
+      },
+      "point_id": "p000006"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.399e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9272
+        },
+        "l07": {
+          "high_v": 2.125e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9272
+        },
+        "l13": {
+          "high_v": 1.919e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9271
+        },
+        "l19": {
+          "high_v": 1.757e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.927
+        },
+        "l25": {
+          "high_v": 1.628e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9269
+        }
+      },
+      "point_id": "p000007"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.649e-10,
+          "low_v": 1.8,
+          "power_w": 0.01634,
+          "threshold_v": 0.9424
+        },
+        "l07": {
+          "high_v": 2.375e-10,
+          "low_v": 1.8,
+          "power_w": 0.01634,
+          "threshold_v": 0.9424
+        },
+        "l13": {
+          "high_v": 2.169e-10,
+          "low_v": 1.8,
+          "power_w": 0.01634,
+          "threshold_v": 0.9424
+        },
+        "l19": {
+          "high_v": 2.008e-10,
+          "low_v": 1.8,
+          "power_w": 0.01634,
+          "threshold_v": 0.9423
+        },
+        "l25": {
+          "high_v": 1.879e-10,
+          "low_v": 1.8,
+          "power_w": 0.01634,
+          "threshold_v": 0.9423
+        }
+      },
+      "point_id": "p000008"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.824e-10,
+          "low_v": 1.8,
+          "power_w": 0.01433,
+          "threshold_v": 0.936
+        },
+        "l07": {
+          "high_v": 2.466e-10,
+          "low_v": 1.8,
+          "power_w": 0.01433,
+          "threshold_v": 0.9361
+        },
+        "l13": {
+          "high_v": 2.194e-10,
+          "low_v": 1.8,
+          "power_w": 0.01433,
+          "threshold_v": 0.9361
+        },
+        "l19": {
+          "high_v": 1.981e-10,
+          "low_v": 1.8,
+          "power_w": 0.01433,
+          "threshold_v": 0.936
+        },
+        "l25": {
+          "high_v": 1.811e-10,
+          "low_v": 1.8,
+          "power_w": 0.01433,
+          "threshold_v": 0.936
+        }
+      },
+      "point_id": "p000009"
+    }
+  ],
+  "rep": 0,
+  "schema_version": 1,
+  "simulation_wall_s": 1.7,
+  "size": 10,
+  "started_at": "2026-07-26T01:25:25+0800",
+  "tag": "gate"
+}

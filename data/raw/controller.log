@@ -1,0 +1,134 @@
+generated 500 points, 550 MOSFETs, and 14 varying parameters under /home/LaiXinran/bsim4-topology-reuse-benchmark
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/warmup/hspice_independent_n1_r0.json", "points": 1, "rep": 0, "size": 1, "wall_s": 0.31986062601208687}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/warmup/hspice_alter_n1_r0.json", "points": 1, "rep": 0, "size": 1, "wall_s": 0.2541301359888166}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/warmup/ngspice_independent_n1_r0.json", "points": 1, "rep": 0, "size": 1, "wall_s": 0.08178248105105013}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/warmup/ngspice_reuse_n1_r0.json", "points": 1, "rep": 0, "size": 1, "wall_s": 0.09551525395363569}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/smoke/hspice_independent_n3_r0.json", "points": 3, "rep": 0, "size": 3, "wall_s": 0.7496614040574059}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/smoke/hspice_alter_n3_r0.json", "points": 3, "rep": 0, "size": 3, "wall_s": 0.5830650550778955}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/smoke/ngspice_independent_n3_r0.json", "points": 3, "rep": 0, "size": 3, "wall_s": 0.21387707197573036}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/smoke/ngspice_reuse_n3_r0.json", "points": 3, "rep": 0, "size": 3, "wall_s": 0.22411775204818696}
+{
+  "size": 3,
+  "status": "pass",
+  "pairs": [
+    {
+      "pair": "hspice_independent_vs_hspice_alter",
+      "comparisons": 60,
+      "max_voltage_abs_v": 0.0,
+      "max_power_abs_w": 0.0,
+      "max_power_relative": 0.0
+    },
+    {
+      "pair": "ngspice_independent_vs_ngspice_reuse",
+      "comparisons": 60,
+      "max_voltage_abs_v": 4.440892098500626e-16,
+      "max_power_abs_w": 1.8665624601510444e-15,
+      "max_power_relative": 4.5687337351453966e-14
+    }
+  ]
+}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/gate/hspice_independent_n10_r0.json", "points": 10, "rep": 0, "size": 10, "wall_s": 2.4453237960115075}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/gate/hspice_alter_n10_r0.json", "points": 10, "rep": 0, "size": 10, "wall_s": 1.7084020460024476}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/gate/ngspice_independent_n10_r0.json", "points": 10, "rep": 0, "size": 10, "wall_s": 0.7355451879557222}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/gate/ngspice_reuse_n10_r0.json", "points": 10, "rep": 0, "size": 10, "wall_s": 0.6754090399481356}
+{
+  "size": 10,
+  "status": "pass",
+  "pairs": [
+    {
+      "pair": "hspice_independent_vs_hspice_alter",
+      "comparisons": 200,
+      "max_voltage_abs_v": 0.0,
+      "max_power_abs_w": 0.0,
+      "max_power_relative": 0.0
+    },
+    {
+      "pair": "ngspice_independent_vs_ngspice_reuse",
+      "comparisons": 200,
+      "max_voltage_abs_v": 4.440892098500626e-16,
+      "max_power_abs_w": 2.338407245616736e-15,
+      "max_power_relative": 6.985595448783079e-14
+    }
+  ]
+}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n1_r1.json", "points": 1, "rep": 1, "size": 1, "wall_s": 0.24679169990122318}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n1_r1.json", "points": 1, "rep": 1, "size": 1, "wall_s": 0.08291682600975037}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n1_r1.json", "points": 1, "rep": 1, "size": 1, "wall_s": 0.08525318489409983}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n1_r1.json", "points": 1, "rep": 1, "size": 1, "wall_s": 0.2411406710743904}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n1_r2.json", "points": 1, "rep": 2, "size": 1, "wall_s": 0.07278351800050586}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n1_r2.json", "points": 1, "rep": 2, "size": 1, "wall_s": 0.09446726203896105}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n1_r2.json", "points": 1, "rep": 2, "size": 1, "wall_s": 0.2468630550429225}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n1_r2.json", "points": 1, "rep": 2, "size": 1, "wall_s": 0.2355311600258574}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n1_r3.json", "points": 1, "rep": 3, "size": 1, "wall_s": 0.09569745697081089}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n1_r3.json", "points": 1, "rep": 3, "size": 1, "wall_s": 0.2487515800166875}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n1_r3.json", "points": 1, "rep": 3, "size": 1, "wall_s": 0.24008354998659343}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n1_r3.json", "points": 1, "rep": 3, "size": 1, "wall_s": 0.08068805001676083}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n1_r4.json", "points": 1, "rep": 4, "size": 1, "wall_s": 0.23719626502133906}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n1_r4.json", "points": 1, "rep": 4, "size": 1, "wall_s": 0.23348967707715929}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n1_r4.json", "points": 1, "rep": 4, "size": 1, "wall_s": 0.07223518600221723}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n1_r4.json", "points": 1, "rep": 4, "size": 1, "wall_s": 0.08764745201915503}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n1_r5.json", "points": 1, "rep": 5, "size": 1, "wall_s": 0.23825556901283562}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n1_r5.json", "points": 1, "rep": 5, "size": 1, "wall_s": 0.07247859402559698}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n1_r5.json", "points": 1, "rep": 5, "size": 1, "wall_s": 0.09360174194443971}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n1_r5.json", "points": 1, "rep": 5, "size": 1, "wall_s": 0.23717465403024107}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n10_r1.json", "points": 10, "rep": 1, "size": 10, "wall_s": 0.7011493000900373}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n10_r1.json", "points": 10, "rep": 1, "size": 10, "wall_s": 0.6687639290466905}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n10_r1.json", "points": 10, "rep": 1, "size": 10, "wall_s": 2.3912434990052134}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n10_r1.json", "points": 10, "rep": 1, "size": 10, "wall_s": 1.6781095849582925}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n10_r2.json", "points": 10, "rep": 2, "size": 10, "wall_s": 0.6841923260362819}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n10_r2.json", "points": 10, "rep": 2, "size": 10, "wall_s": 2.42956205108203}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n10_r2.json", "points": 10, "rep": 2, "size": 10, "wall_s": 1.716335193021223}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n10_r2.json", "points": 10, "rep": 2, "size": 10, "wall_s": 0.7041059170151129}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n10_r3.json", "points": 10, "rep": 3, "size": 10, "wall_s": 2.4351174499606714}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n10_r3.json", "points": 10, "rep": 3, "size": 10, "wall_s": 1.6802690309705213}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n10_r3.json", "points": 10, "rep": 3, "size": 10, "wall_s": 0.7136457569431514}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n10_r3.json", "points": 10, "rep": 3, "size": 10, "wall_s": 0.6800774990115315}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n50_r1.json", "points": 50, "rep": 1, "size": 50, "wall_s": 3.30950859002769}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n50_r1.json", "points": 50, "rep": 1, "size": 50, "wall_s": 12.043041429948062}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n50_r1.json", "points": 50, "rep": 1, "size": 50, "wall_s": 5.085135739995167}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n50_r1.json", "points": 50, "rep": 1, "size": 50, "wall_s": 3.4817935170140117}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n50_r2.json", "points": 50, "rep": 2, "size": 50, "wall_s": 12.084166434942745}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n50_r2.json", "points": 50, "rep": 2, "size": 50, "wall_s": 5.082085417001508}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n50_r2.json", "points": 50, "rep": 2, "size": 50, "wall_s": 3.48329109698534}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n50_r2.json", "points": 50, "rep": 2, "size": 50, "wall_s": 3.3204671510029584}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n50_r3.json", "points": 50, "rep": 3, "size": 50, "wall_s": 5.051034138072282}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n50_r3.json", "points": 50, "rep": 3, "size": 50, "wall_s": 3.4857690120115876}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n50_r3.json", "points": 50, "rep": 3, "size": 50, "wall_s": 3.3099847059929743}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n50_r3.json", "points": 50, "rep": 3, "size": 50, "wall_s": 12.043944989913143}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n100_r1.json", "points": 100, "rep": 1, "size": 100, "wall_s": 23.890989982057363}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n100_r1.json", "points": 100, "rep": 1, "size": 100, "wall_s": 9.498990893014707}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n100_r1.json", "points": 100, "rep": 1, "size": 100, "wall_s": 6.9405488420743495}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n100_r1.json", "points": 100, "rep": 1, "size": 100, "wall_s": 6.6806079760426655}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n100_r2.json", "points": 100, "rep": 2, "size": 100, "wall_s": 9.417994693038054}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n100_r2.json", "points": 100, "rep": 2, "size": 100, "wall_s": 6.9928972870111465}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n100_r2.json", "points": 100, "rep": 2, "size": 100, "wall_s": 6.603404105990194}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n100_r2.json", "points": 100, "rep": 2, "size": 100, "wall_s": 24.009713059058413}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n100_r3.json", "points": 100, "rep": 3, "size": 100, "wall_s": 7.064497357001528}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n100_r3.json", "points": 100, "rep": 3, "size": 100, "wall_s": 6.655633406946436}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n100_r3.json", "points": 100, "rep": 3, "size": 100, "wall_s": 24.078333779005334}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n100_r3.json", "points": 100, "rep": 3, "size": 100, "wall_s": 9.413797521032393}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n200_r1.json", "points": 200, "rep": 1, "size": 200, "wall_s": 19.035478539997712}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n200_r1.json", "points": 200, "rep": 1, "size": 200, "wall_s": 14.08496639400255}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n200_r1.json", "points": 200, "rep": 1, "size": 200, "wall_s": 13.283549079904333}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n200_r1.json", "points": 200, "rep": 1, "size": 200, "wall_s": 47.792495490051806}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n200_r2.json", "points": 200, "rep": 2, "size": 200, "wall_s": 13.816164545016363}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n200_r2.json", "points": 200, "rep": 2, "size": 200, "wall_s": 13.196557974093594}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n200_r2.json", "points": 200, "rep": 2, "size": 200, "wall_s": 47.8372341679642}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n200_r2.json", "points": 200, "rep": 2, "size": 200, "wall_s": 18.981093039968982}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n200_r3.json", "points": 200, "rep": 3, "size": 200, "wall_s": 13.25627421005629}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n200_r3.json", "points": 200, "rep": 3, "size": 200, "wall_s": 47.9531728529837}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n200_r3.json", "points": 200, "rep": 3, "size": 200, "wall_s": 19.01178987196181}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n200_r3.json", "points": 200, "rep": 3, "size": 200, "wall_s": 13.843252192949876}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n500_r1.json", "points": 500, "rep": 1, "size": 500, "wall_s": 34.56336964201182}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n500_r1.json", "points": 500, "rep": 1, "size": 500, "wall_s": 33.01697982195765}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n500_r1.json", "points": 500, "rep": 1, "size": 500, "wall_s": 119.42181345599238}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n500_r1.json", "points": 500, "rep": 1, "size": 500, "wall_s": 54.59365646797232}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n500_r2.json", "points": 500, "rep": 2, "size": 500, "wall_s": 33.14238815102726}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n500_r2.json", "points": 500, "rep": 2, "size": 500, "wall_s": 119.38956439995673}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n500_r2.json", "points": 500, "rep": 2, "size": 500, "wall_s": 54.501101374975406}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n500_r2.json", "points": 500, "rep": 2, "size": 500, "wall_s": 34.544211550964974}
+{"method": "hspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_independent_n500_r3.json", "points": 500, "rep": 3, "size": 500, "wall_s": 119.52985147805884}
+{"method": "hspice_alter", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/hspice_alter_n500_r3.json", "points": 500, "rep": 3, "size": 500, "wall_s": 54.57879004906863}
+{"method": "ngspice_independent", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_independent_n500_r3.json", "points": 500, "rep": 3, "size": 500, "wall_s": 34.571176077006385}
+{"method": "ngspice_reuse", "output": "/home/LaiXinran/bsim4-topology-reuse-benchmark/data/raw/matrix/ngspice_reuse_n500_r3.json", "points": 500, "rep": 3, "size": 500, "wall_s": 33.093500910908915}
+wrote summaries, figure, and /home/LaiXinran/bsim4-topology-reuse-benchmark/REPORT.md

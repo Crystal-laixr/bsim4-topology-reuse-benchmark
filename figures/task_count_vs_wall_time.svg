@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450" y="24" text-anchor="middle" font-family="sans-serif" font-size="18">Task count vs median wall time</text>
+<line x1="90" y1="480.00" x2="870" y2="480.00" stroke="#dddddd"/>
+<text x="80" y="485.00" text-anchor="end" font-family="sans-serif" font-size="12">0.00</text>
+<line x1="90" y1="392.00" x2="870" y2="392.00" stroke="#dddddd"/>
+<text x="80" y="397.00" text-anchor="end" font-family="sans-serif" font-size="12">25.80</text>
+<line x1="90" y1="304.00" x2="870" y2="304.00" stroke="#dddddd"/>
+<text x="80" y="309.00" text-anchor="end" font-family="sans-serif" font-size="12">51.59</text>
+<line x1="90" y1="216.00" x2="870" y2="216.00" stroke="#dddddd"/>
+<text x="80" y="221.00" text-anchor="end" font-family="sans-serif" font-size="12">77.39</text>
+<line x1="90" y1="128.00" x2="870" y2="128.00" stroke="#dddddd"/>
+<text x="80" y="133.00" text-anchor="end" font-family="sans-serif" font-size="12">103.18</text>
+<line x1="90" y1="40.00" x2="870" y2="40.00" stroke="#dddddd"/>
+<text x="80" y="45.00" text-anchor="end" font-family="sans-serif" font-size="12">128.98</text>
+<line x1="90.00" y1="40" x2="90.00" y2="480" stroke="#eeeeee"/>
+<text x="90.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">1</text>
+<line x1="379.00" y1="40" x2="379.00" y2="480" stroke="#eeeeee"/>
+<text x="379.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">10</text>
+<line x1="581.00" y1="40" x2="581.00" y2="480" stroke="#eeeeee"/>
+<text x="581.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">50</text>
+<line x1="668.00" y1="40" x2="668.00" y2="480" stroke="#eeeeee"/>
+<text x="668.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">100</text>
+<line x1="755.00" y1="40" x2="755.00" y2="480" stroke="#eeeeee"/>
+<text x="755.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">200</text>
+<line x1="870.00" y1="40" x2="870.00" y2="480" stroke="#eeeeee"/>
+<text x="870.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">500</text>
+<polyline points="90.00,479.18 379.00,471.71 581.00,438.91 668.00,398.09 755.00,316.80 870.00,72.59" fill="none" stroke="#d95f02" stroke-width="3"/>
+<circle cx="90.00" cy="479.18" r="4" fill="#d95f02"/>
+<circle cx="379.00" cy="471.71" r="4" fill="#d95f02"/>
+<circle cx="581.00" cy="438.91" r="4" fill="#d95f02"/>
+<circle cx="668.00" cy="398.09" r="4" fill="#d95f02"/>
+<circle cx="755.00" cy="316.80" r="4" fill="#d95f02"/>
+<circle cx="870.00" cy="72.59" r="4" fill="#d95f02"/>
+<line x1="620" y1="55" x2="650" y2="55" stroke="#d95f02" stroke-width="3"/>
+<text x="660" y="60" font-family="sans-serif" font-size="12">hspice_independent</text>
+<polyline points="90.00,479.19 379.00,474.27 581.00,462.66 668.00,447.87 755.00,415.14 870.00,293.80" fill="none" stroke="#e6ab02" stroke-width="3"/>
+<circle cx="90.00" cy="479.19" r="4" fill="#e6ab02"/>
+<circle cx="379.00" cy="474.27" r="4" fill="#e6ab02"/>
+<circle cx="581.00" cy="462.66" r="4" fill="#e6ab02"/>
+<circle cx="668.00" cy="447.87" r="4" fill="#e6ab02"/>
+<circle cx="755.00" cy="415.14" r="4" fill="#e6ab02"/>
+<circle cx="870.00" cy="293.80" r="4" fill="#e6ab02"/>
+<line x1="620" y1="79" x2="650" y2="79" stroke="#e6ab02" stroke-width="3"/>
+<text x="660" y="84" font-family="sans-serif" font-size="12">hspice_alter</text>
+<polyline points="90.00,479.75 379.00,477.60 581.00,468.12 668.00,456.14 755.00,432.77 870.00,362.09" fill="none" stroke="#7570b3" stroke-width="3"/>
+<circle cx="90.00" cy="479.75" r="4" fill="#7570b3"/>
+<circle cx="379.00" cy="477.60" r="4" fill="#7570b3"/>
+<circle cx="581.00" cy="468.12" r="4" fill="#7570b3"/>
+<circle cx="668.00" cy="456.14" r="4" fill="#7570b3"/>
+<circle cx="755.00" cy="432.77" r="4" fill="#7570b3"/>
+<circle cx="870.00" cy="362.09" r="4" fill="#7570b3"/>
+<line x1="620" y1="103" x2="650" y2="103" stroke="#7570b3" stroke-width="3"/>
+<text x="660" y="108" font-family="sans-serif" font-size="12">ngspice_independent</text>
+<polyline points="90.00,479.68 379.00,477.68 581.00,468.71 668.00,457.29 755.00,434.78 870.00,367.10" fill="none" stroke="#1b9e77" stroke-width="3"/>
+<circle cx="90.00" cy="479.68" r="4" fill="#1b9e77"/>
+<circle cx="379.00" cy="477.68" r="4" fill="#1b9e77"/>
+<circle cx="581.00" cy="468.71" r="4" fill="#1b9e77"/>
+<circle cx="668.00" cy="457.29" r="4" fill="#1b9e77"/>
+<circle cx="755.00" cy="434.78" r="4" fill="#1b9e77"/>
+<circle cx="870.00" cy="367.10" r="4" fill="#1b9e77"/>
+<line x1="620" y1="127" x2="650" y2="127" stroke="#1b9e77" stroke-width="3"/>
+<text x="660" y="132" font-family="sans-serif" font-size="12">ngspice_reuse</text>
+<text x="450.0" y="540" text-anchor="middle" font-family="sans-serif" font-size="14">Task count (log scale)</text>
+<text x="20" y="280.0" transform="rotate(-90 20 280.0)" text-anchor="middle" font-family="sans-serif" font-size="14">Wall time (s)</text>
+</svg>

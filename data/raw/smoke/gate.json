@@ -1,0 +1,20 @@
+{
+  "size": 3,
+  "status": "pass",
+  "pairs": [
+    {
+      "pair": "hspice_independent_vs_hspice_alter",
+      "comparisons": 60,
+      "max_voltage_abs_v": 0.0,
+      "max_power_abs_w": 0.0,
+      "max_power_relative": 0.0
+    },
+    {
+      "pair": "ngspice_independent_vs_ngspice_reuse",
+      "comparisons": 60,
+      "max_voltage_abs_v": 4.440892098500626e-16,
+      "max_power_abs_w": 1.8665624601510444e-15,
+      "max_power_relative": 4.5687337351453966e-14
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "batch_profile": {},
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.21,
+      "wall_s": 0.25
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    }
+  ],
+  "cpu": 0,
+  "finished_at": "2026-07-26T01:25:21+0800",
+  "logs_archive": "data/raw/logs/smoke_hspice_independent_n3_r0.tar.gz",
+  "max_rss_kb": 58080,
+  "method": "hspice_independent",
+  "observed_wall_s": 0.7496614040574059,
+  "points": [
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.5e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l07": {
+          "high_v": 2.214e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l13": {
+          "high_v": 1.998e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l19": {
+          "high_v": 1.83e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9105
+        },
+        "l25": {
+          "high_v": 1.695e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9104
+        }
+      },
+      "point_id": "p000000"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.154e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8927
+        },
+        "l07": {
+          "high_v": 1.89e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8928
+        },
+        "l13": {
+          "high_v": 1.691e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8928
+        },
+        "l19": {
+          "high_v": 1.535e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8927
+        },
+        "l25": {
+          "high_v": 1.41e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8926
+        }
+      },
+      "point_id": "p000001"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.434e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9235
+        },
+        "l07": {
+          "high_v": 2.128e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9234
+        },
+        "l13": {
+          "high_v": 1.896e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9234
+        },
+        "l19": {
+          "high_v": 1.715e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9232
+        },
+        "l25": {
+          "high_v": 1.569e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9231
+        }
+      },
+      "point_id": "p000002"
+    }
+  ],
+  "rep": 0,
+  "schema_version": 1,
+  "simulation_wall_s": 0.73,
+  "size": 3,
+  "started_at": "2026-07-26T01:25:20+0800",
+  "tag": "smoke"
+}

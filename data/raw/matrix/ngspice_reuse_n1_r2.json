@@ -1,0 +1,95 @@
+{
+  "batch_profile": {
+    "alter_calls": 0,
+    "alter_eval_time": 0,
+    "alter_parse_time": 0,
+    "alter_setparam_calls": 0,
+    "alter_setparam_time": 0,
+    "alter_time": 0,
+    "batch_fallbacks": 0,
+    "batch_rejected": 0,
+    "batch_values": 10,
+    "direct_param_bindings": 560,
+    "direct_param_calls": 14,
+    "direct_param_time": 0.00037987809628248215,
+    "direct_param_writes": 560,
+    "fast_alter_cache_hits": 0,
+    "fast_alter_cache_misses": 0,
+    "fast_alter_calls": 0,
+    "fast_alter_time": 0,
+    "load_calls": 82,
+    "load_time": 0.05119177978485823,
+    "lufac_calls": 80,
+    "lufac_time": 0.0005475295474752784,
+    "preorder_calls": 1,
+    "preorder_time": 4.5465072616934776e-05,
+    "reorder_calls": 2,
+    "reorder_time": 5.402299575507641e-05,
+    "setup_calls": 1,
+    "setup_reuse": 0,
+    "setup_time": 0.0023085669381543994,
+    "solve_calls": 82,
+    "solve_time": 0.000397168449126184,
+    "solver": "klu",
+    "symbolic_reuse": 0
+  },
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11252,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 0.07,
+      "wall_s": 0.09
+    }
+  ],
+  "cpu": 0,
+  "finished_at": "2026-07-26T01:25:29+0800",
+  "logs_archive": "data/raw/logs/matrix_ngspice_reuse_n1_r2.tar.gz",
+  "max_rss_kb": 11252,
+  "method": "ngspice_reuse",
+  "observed_wall_s": 0.09446726203896105,
+  "points": [
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.5385151373937275e-10,
+          "low_v": 1.7999997294207644,
+          "power_w": 0.03879061899554698,
+          "threshold_v": 0.8999999999999999
+        },
+        "l07": {
+          "high_v": 2.2540547098290877e-10,
+          "low_v": 1.7999997665918845,
+          "power_w": 0.03879061899554698,
+          "threshold_v": 0.8999999999999999
+        },
+        "l13": {
+          "high_v": 2.0394851831996053e-10,
+          "low_v": 1.7999997947963255,
+          "power_w": 0.03879061899554698,
+          "threshold_v": 0.8999999999999999
+        },
+        "l19": {
+          "high_v": 1.8720210329570695e-10,
+          "low_v": 1.799999816926678,
+          "power_w": 0.03879061899554698,
+          "threshold_v": 0.8999999999999999
+        },
+        "l25": {
+          "high_v": 1.7377776408333216e-10,
+          "low_v": 1.7999998347528499,
+          "power_w": 0.03879061899554698,
+          "threshold_v": 0.8999999999999999
+        }
+      },
+      "point_id": "p000000"
+    }
+  ],
+  "rep": 2,
+  "schema_version": 1,
+  "simulation_wall_s": 0.09,
+  "size": 1,
+  "started_at": "2026-07-26T01:25:29+0800",
+  "tag": "matrix"
+}

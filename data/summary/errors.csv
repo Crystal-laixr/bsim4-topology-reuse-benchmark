@@ -1,0 +1,4 @@
+left,right,comparisons,max_abs,median_abs,p95_abs,max_relative
+ngspice_independent,ngspice_reuse,10000,1.3836154444391013e-14,0.0,1.3010426069826053e-15,8.320257578693453e-07
+hspice_independent,hspice_alter,10000,0.0,0.0,0.0,0.0
+hspice_independent,ngspice_independent,10000,0.049699999999999855,2.9551728930599097e-07,0.040100000000000136,0.051833122629582944

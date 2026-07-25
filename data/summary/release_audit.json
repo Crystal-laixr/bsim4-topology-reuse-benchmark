@@ -1,0 +1,10 @@
+{
+  "status": "pass",
+  "mosfet_count": 550,
+  "varying_parameters": 14,
+  "parameter_points": 500,
+  "matrix_json_files": 80,
+  "archives_scanned": 92,
+  "large_files": [],
+  "failures": []
+}

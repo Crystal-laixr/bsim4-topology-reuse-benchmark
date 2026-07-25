@@ -1,0 +1,8619 @@
+{
+  "batch_profile": {},
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.05,
+      "user_s": 0.2,
+      "wall_s": 0.25
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58084,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58084,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.05,
+      "user_s": 0.2,
+      "wall_s": 0.26
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.26,
+      "wall_s": 0.31
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2,
+      "wall_s": 0.25
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58084,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.21,
+      "wall_s": 0.25
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.21,
+      "wall_s": 0.25
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.18,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.18,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58084,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58084,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58084,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58084,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.22,
+      "wall_s": 0.25
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.18,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58084,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.18,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58084,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58084,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.18,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.18,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58088,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.18,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.18,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 0.2,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.18,
+      "wall_s": 0.22
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19,
+      "wall_s": 0.23
+    }
+  ],
+  "cpu": 0,
+  "finished_at": "2026-07-26T01:33:38+0800",
+  "logs_archive": "data/raw/logs/matrix_hspice_independent_n200_r3.tar.gz",
+  "max_rss_kb": 58088,
+  "method": "hspice_independent",
+  "observed_wall_s": 47.9531728529837,
+  "points": [
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.5e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l07": {
+          "high_v": 2.214e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l13": {
+          "high_v": 1.998e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l19": {
+          "high_v": 1.83e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9105
+        },
+        "l25": {
+          "high_v": 1.695e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9104
+        }
+      },
+      "point_id": "p000000"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.154e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8927
+        },
+        "l07": {
+          "high_v": 1.89e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8928
+        },
+        "l13": {
+          "high_v": 1.691e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8928
+        },
+        "l19": {
+          "high_v": 1.535e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8927
+        },
+        "l25": {
+          "high_v": 1.41e-10,
+          "low_v": 1.8,
+          "power_w": 0.04085,
+          "threshold_v": 0.8926
+        }
+      },
+      "point_id": "p000001"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.434e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9235
+        },
+        "l07": {
+          "high_v": 2.128e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9234
+        },
+        "l13": {
+          "high_v": 1.896e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9234
+        },
+        "l19": {
+          "high_v": 1.715e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9232
+        },
+        "l25": {
+          "high_v": 1.569e-10,
+          "low_v": 1.8,
+          "power_w": 0.02325,
+          "threshold_v": 0.9231
+        }
+      },
+      "point_id": "p000002"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.662e-10,
+          "low_v": 1.8,
+          "power_w": 0.0346,
+          "threshold_v": 0.8898
+        },
+        "l07": {
+          "high_v": 2.312e-10,
+          "low_v": 1.8,
+          "power_w": 0.0346,
+          "threshold_v": 0.8898
+        },
+        "l13": {
+          "high_v": 2.047e-10,
+          "low_v": 1.8,
+          "power_w": 0.0346,
+          "threshold_v": 0.8898
+        },
+        "l19": {
+          "high_v": 1.839e-10,
+          "low_v": 1.8,
+          "power_w": 0.0346,
+          "threshold_v": 0.8897
+        },
+        "l25": {
+          "high_v": 1.672e-10,
+          "low_v": 1.8,
+          "power_w": 0.0346,
+          "threshold_v": 0.8895
+        }
+      },
+      "point_id": "p000003"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.163e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.8668
+        },
+        "l07": {
+          "high_v": 1.905e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.8668
+        },
+        "l13": {
+          "high_v": 1.709e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.8668
+        },
+        "l19": {
+          "high_v": 1.557e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.8668
+        },
+        "l25": {
+          "high_v": 1.434e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.8668
+        }
+      },
+      "point_id": "p000004"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.621e-10,
+          "low_v": 1.8,
+          "power_w": 0.0335,
+          "threshold_v": 0.8812
+        },
+        "l07": {
+          "high_v": 2.276e-10,
+          "low_v": 1.8,
+          "power_w": 0.0335,
+          "threshold_v": 0.8814
+        },
+        "l13": {
+          "high_v": 2.015e-10,
+          "low_v": 1.8,
+          "power_w": 0.0335,
+          "threshold_v": 0.8815
+        },
+        "l19": {
+          "high_v": 1.81e-10,
+          "low_v": 1.8,
+          "power_w": 0.0335,
+          "threshold_v": 0.8815
+        },
+        "l25": {
+          "high_v": 1.646e-10,
+          "low_v": 1.8,
+          "power_w": 0.0335,
+          "threshold_v": 0.8815
+        }
+      },
+      "point_id": "p000005"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.763e-10,
+          "low_v": 1.8,
+          "power_w": 0.02042,
+          "threshold_v": 0.9331
+        },
+        "l07": {
+          "high_v": 2.5e-10,
+          "low_v": 1.8,
+          "power_w": 0.02042,
+          "threshold_v": 0.9332
+        },
+        "l13": {
+          "high_v": 2.302e-10,
+          "low_v": 1.8,
+          "power_w": 0.02042,
+          "threshold_v": 0.9332
+        },
+        "l19": {
+          "high_v": 2.149e-10,
+          "low_v": 1.8,
+          "power_w": 0.02042,
+          "threshold_v": 0.9332
+        },
+        "l25": {
+          "high_v": 2.026e-10,
+          "low_v": 1.8,
+          "power_w": 0.02042,
+          "threshold_v": 0.9332
+        }
+      },
+      "point_id": "p000006"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.399e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9272
+        },
+        "l07": {
+          "high_v": 2.125e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9272
+        },
+        "l13": {
+          "high_v": 1.919e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9271
+        },
+        "l19": {
+          "high_v": 1.757e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.927
+        },
+        "l25": {
+          "high_v": 1.628e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9269
+        }
+      },
+      "point_id": "p000007"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.649e-10,
+          "low_v": 1.8,
+          "power_w": 0.01634,
+          "threshold_v": 0.9424
+        },
+        "l07": {
+          "high_v": 2.375e-10,
+          "low_v": 1.8,
+          "power_w": 0.01634,
+          "threshold_v": 0.9424
+        },
+        "l13": {
+          "high_v": 2.169e-10,
+          "low_v": 1.8,
+          "power_w": 0.01634,
+          "threshold_v": 0.9424
+        },
+        "l19": {
+          "high_v": 2.008e-10,
+          "low_v": 1.8,
+          "power_w": 0.01634,
+          "threshold_v": 0.9423
+        },
+        "l25": {
+          "high_v": 1.879e-10,
+          "low_v": 1.8,
+          "power_w": 0.01634,
+          "threshold_v": 0.9423
+        }
+      },
+      "point_id": "p000008"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.824e-10,
+          "low_v": 1.8,
+          "power_w": 0.01433,
+          "threshold_v": 0.936
+        },
+        "l07": {
+          "high_v": 2.466e-10,
+          "low_v": 1.8,
+          "power_w": 0.01433,
+          "threshold_v": 0.9361
+        },
+        "l13": {
+          "high_v": 2.194e-10,
+          "low_v": 1.8,
+          "power_w": 0.01433,
+          "threshold_v": 0.9361
+        },
+        "l19": {
+          "high_v": 1.981e-10,
+          "low_v": 1.8,
+          "power_w": 0.01433,
+          "threshold_v": 0.936
+        },
+        "l25": {
+          "high_v": 1.811e-10,
+          "low_v": 1.8,
+          "power_w": 0.01433,
+          "threshold_v": 0.936
+        }
+      },
+      "point_id": "p000009"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.564e-10,
+          "low_v": 1.8,
+          "power_w": 0.02614,
+          "threshold_v": 0.9241
+        },
+        "l07": {
+          "high_v": 2.257e-10,
+          "low_v": 1.8,
+          "power_w": 0.02614,
+          "threshold_v": 0.924
+        },
+        "l13": {
+          "high_v": 2.025e-10,
+          "low_v": 1.8,
+          "power_w": 0.02614,
+          "threshold_v": 0.924
+        },
+        "l19": {
+          "high_v": 1.843e-10,
+          "low_v": 1.8,
+          "power_w": 0.02614,
+          "threshold_v": 0.9239
+        },
+        "l25": {
+          "high_v": 1.698e-10,
+          "low_v": 1.8,
+          "power_w": 0.02614,
+          "threshold_v": 0.9237
+        }
+      },
+      "point_id": "p000010"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.747e-10,
+          "low_v": 1.8,
+          "power_w": 0.01673,
+          "threshold_v": 0.9345
+        },
+        "l07": {
+          "high_v": 2.436e-10,
+          "low_v": 1.8,
+          "power_w": 0.01673,
+          "threshold_v": 0.9345
+        },
+        "l13": {
+          "high_v": 2.202e-10,
+          "low_v": 1.8,
+          "power_w": 0.01673,
+          "threshold_v": 0.9344
+        },
+        "l19": {
+          "high_v": 2.019e-10,
+          "low_v": 1.8,
+          "power_w": 0.01673,
+          "threshold_v": 0.9343
+        },
+        "l25": {
+          "high_v": 1.873e-10,
+          "low_v": 1.8,
+          "power_w": 0.01673,
+          "threshold_v": 0.9342
+        }
+      },
+      "point_id": "p000011"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.864e-10,
+          "low_v": 1.8,
+          "power_w": 0.0181,
+          "threshold_v": 0.933
+        },
+        "l07": {
+          "high_v": 2.538e-10,
+          "low_v": 1.8,
+          "power_w": 0.0181,
+          "threshold_v": 0.9331
+        },
+        "l13": {
+          "high_v": 2.292e-10,
+          "low_v": 1.8,
+          "power_w": 0.0181,
+          "threshold_v": 0.933
+        },
+        "l19": {
+          "high_v": 2.1e-10,
+          "low_v": 1.8,
+          "power_w": 0.0181,
+          "threshold_v": 0.933
+        },
+        "l25": {
+          "high_v": 1.946e-10,
+          "low_v": 1.8,
+          "power_w": 0.0181,
+          "threshold_v": 0.9329
+        }
+      },
+      "point_id": "p000012"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.332e-10,
+          "low_v": 1.8,
+          "power_w": 0.02114,
+          "threshold_v": 0.9297
+        },
+        "l07": {
+          "high_v": 2.08e-10,
+          "low_v": 1.8,
+          "power_w": 0.02114,
+          "threshold_v": 0.9297
+        },
+        "l13": {
+          "high_v": 1.889e-10,
+          "low_v": 1.8,
+          "power_w": 0.02114,
+          "threshold_v": 0.9297
+        },
+        "l19": {
+          "high_v": 1.741e-10,
+          "low_v": 1.8,
+          "power_w": 0.02114,
+          "threshold_v": 0.9297
+        },
+        "l25": {
+          "high_v": 1.621e-10,
+          "low_v": 1.8,
+          "power_w": 0.02114,
+          "threshold_v": 0.9296
+        }
+      },
+      "point_id": "p000013"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.793e-10,
+          "low_v": 1.8,
+          "power_w": 0.03366,
+          "threshold_v": 0.9208
+        },
+        "l07": {
+          "high_v": 2.492e-10,
+          "low_v": 1.8,
+          "power_w": 0.03366,
+          "threshold_v": 0.9209
+        },
+        "l13": {
+          "high_v": 2.266e-10,
+          "low_v": 1.8,
+          "power_w": 0.03366,
+          "threshold_v": 0.9208
+        },
+        "l19": {
+          "high_v": 2.089e-10,
+          "low_v": 1.8,
+          "power_w": 0.03366,
+          "threshold_v": 0.9208
+        },
+        "l25": {
+          "high_v": 1.948e-10,
+          "low_v": 1.8,
+          "power_w": 0.03366,
+          "threshold_v": 0.9207
+        }
+      },
+      "point_id": "p000014"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.081e-10,
+          "low_v": 1.8,
+          "power_w": 0.01593,
+          "threshold_v": 0.8602
+        },
+        "l07": {
+          "high_v": 1.808e-10,
+          "low_v": 1.8,
+          "power_w": 0.01593,
+          "threshold_v": 0.8602
+        },
+        "l13": {
+          "high_v": 1.601e-10,
+          "low_v": 1.8,
+          "power_w": 0.01593,
+          "threshold_v": 0.8603
+        },
+        "l19": {
+          "high_v": 1.439e-10,
+          "low_v": 1.8,
+          "power_w": 0.01593,
+          "threshold_v": 0.8603
+        },
+        "l25": {
+          "high_v": 1.308e-10,
+          "low_v": 1.8,
+          "power_w": 0.01593,
+          "threshold_v": 0.8602
+        }
+      },
+      "point_id": "p000015"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.664e-10,
+          "low_v": 1.8,
+          "power_w": 0.01611,
+          "threshold_v": 0.9452
+        },
+        "l07": {
+          "high_v": 2.349e-10,
+          "low_v": 1.8,
+          "power_w": 0.01611,
+          "threshold_v": 0.9452
+        },
+        "l13": {
+          "high_v": 2.112e-10,
+          "low_v": 1.8,
+          "power_w": 0.01611,
+          "threshold_v": 0.9452
+        },
+        "l19": {
+          "high_v": 1.926e-10,
+          "low_v": 1.8,
+          "power_w": 0.01611,
+          "threshold_v": 0.9452
+        },
+        "l25": {
+          "high_v": 1.777e-10,
+          "low_v": 1.8,
+          "power_w": 0.01611,
+          "threshold_v": 0.9452
+        }
+      },
+      "point_id": "p000016"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.574e-10,
+          "low_v": 1.8,
+          "power_w": 0.01953,
+          "threshold_v": 0.9345
+        },
+        "l07": {
+          "high_v": 2.293e-10,
+          "low_v": 1.8,
+          "power_w": 0.01953,
+          "threshold_v": 0.9345
+        },
+        "l13": {
+          "high_v": 2.082e-10,
+          "low_v": 1.8,
+          "power_w": 0.01953,
+          "threshold_v": 0.9344
+        },
+        "l19": {
+          "high_v": 1.916e-10,
+          "low_v": 1.8,
+          "power_w": 0.01953,
+          "threshold_v": 0.9344
+        },
+        "l25": {
+          "high_v": 1.784e-10,
+          "low_v": 1.8,
+          "power_w": 0.01953,
+          "threshold_v": 0.9343
+        }
+      },
+      "point_id": "p000017"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.447e-10,
+          "low_v": 1.8,
+          "power_w": 0.01655,
+          "threshold_v": 0.9337
+        },
+        "l07": {
+          "high_v": 2.128e-10,
+          "low_v": 1.8,
+          "power_w": 0.01655,
+          "threshold_v": 0.9337
+        },
+        "l13": {
+          "high_v": 1.886e-10,
+          "low_v": 1.8,
+          "power_w": 0.01655,
+          "threshold_v": 0.9337
+        },
+        "l19": {
+          "high_v": 1.697e-10,
+          "low_v": 1.8,
+          "power_w": 0.01655,
+          "threshold_v": 0.9336
+        },
+        "l25": {
+          "high_v": 1.545e-10,
+          "low_v": 1.8,
+          "power_w": 0.01655,
+          "threshold_v": 0.9336
+        }
+      },
+      "point_id": "p000018"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.64e-10,
+          "low_v": 1.8,
+          "power_w": 0.0179,
+          "threshold_v": 0.9293
+        },
+        "l07": {
+          "high_v": 2.308e-10,
+          "low_v": 1.8,
+          "power_w": 0.0179,
+          "threshold_v": 0.9293
+        },
+        "l13": {
+          "high_v": 2.056e-10,
+          "low_v": 1.8,
+          "power_w": 0.0179,
+          "threshold_v": 0.9292
+        },
+        "l19": {
+          "high_v": 1.859e-10,
+          "low_v": 1.8,
+          "power_w": 0.0179,
+          "threshold_v": 0.9291
+        },
+        "l25": {
+          "high_v": 1.701e-10,
+          "low_v": 1.8,
+          "power_w": 0.0179,
+          "threshold_v": 0.9289
+        }
+      },
+      "point_id": "p000019"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 1.997e-10,
+          "low_v": 1.8,
+          "power_w": 0.01759,
+          "threshold_v": 0.8643
+        },
+        "l07": {
+          "high_v": 1.737e-10,
+          "low_v": 1.8,
+          "power_w": 0.01759,
+          "threshold_v": 0.8644
+        },
+        "l13": {
+          "high_v": 1.541e-10,
+          "low_v": 1.8,
+          "power_w": 0.01759,
+          "threshold_v": 0.8644
+        },
+        "l19": {
+          "high_v": 1.387e-10,
+          "low_v": 1.8,
+          "power_w": 0.01759,
+          "threshold_v": 0.8643
+        },
+        "l25": {
+          "high_v": 1.263e-10,
+          "low_v": 1.8,
+          "power_w": 0.01759,
+          "threshold_v": 0.8643
+        }
+      },
+      "point_id": "p000020"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.448e-10,
+          "low_v": 1.8,
+          "power_w": 0.02996,
+          "threshold_v": 0.8831
+        },
+        "l07": {
+          "high_v": 2.127e-10,
+          "low_v": 1.8,
+          "power_w": 0.02996,
+          "threshold_v": 0.8832
+        },
+        "l13": {
+          "high_v": 1.884e-10,
+          "low_v": 1.8,
+          "power_w": 0.02996,
+          "threshold_v": 0.8833
+        },
+        "l19": {
+          "high_v": 1.693e-10,
+          "low_v": 1.8,
+          "power_w": 0.02996,
+          "threshold_v": 0.8833
+        },
+        "l25": {
+          "high_v": 1.54e-10,
+          "low_v": 1.8,
+          "power_w": 0.02996,
+          "threshold_v": 0.8832
+        }
+      },
+      "point_id": "p000021"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.486e-10,
+          "low_v": 1.8,
+          "power_w": 0.03191,
+          "threshold_v": 0.8805
+        },
+        "l07": {
+          "high_v": 2.16e-10,
+          "low_v": 1.8,
+          "power_w": 0.03191,
+          "threshold_v": 0.8806
+        },
+        "l13": {
+          "high_v": 1.913e-10,
+          "low_v": 1.8,
+          "power_w": 0.03191,
+          "threshold_v": 0.8807
+        },
+        "l19": {
+          "high_v": 1.719e-10,
+          "low_v": 1.8,
+          "power_w": 0.03191,
+          "threshold_v": 0.8807
+        },
+        "l25": {
+          "high_v": 1.564e-10,
+          "low_v": 1.8,
+          "power_w": 0.03191,
+          "threshold_v": 0.8807
+        }
+      },
+      "point_id": "p000022"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 3.141e-10,
+          "low_v": 1.8,
+          "power_w": 0.02279,
+          "threshold_v": 0.9266
+        },
+        "l07": {
+          "high_v": 2.805e-10,
+          "low_v": 1.8,
+          "power_w": 0.02279,
+          "threshold_v": 0.9266
+        },
+        "l13": {
+          "high_v": 2.552e-10,
+          "low_v": 1.8,
+          "power_w": 0.02279,
+          "threshold_v": 0.9266
+        },
+        "l19": {
+          "high_v": 2.356e-10,
+          "low_v": 1.8,
+          "power_w": 0.02279,
+          "threshold_v": 0.9266
+        },
+        "l25": {
+          "high_v": 2.198e-10,
+          "low_v": 1.8,
+          "power_w": 0.02279,
+          "threshold_v": 0.9265
+        }
+      },
+      "point_id": "p000023"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.201e-10,
+          "low_v": 1.8,
+          "power_w": 0.02482,
+          "threshold_v": 0.9263
+        },
+        "l07": {
+          "high_v": 1.928e-10,
+          "low_v": 1.8,
+          "power_w": 0.02482,
+          "threshold_v": 0.9264
+        },
+        "l13": {
+          "high_v": 1.721e-10,
+          "low_v": 1.8,
+          "power_w": 0.02482,
+          "threshold_v": 0.9264
+        },
+        "l19": {
+          "high_v": 1.559e-10,
+          "low_v": 1.8,
+          "power_w": 0.02482,
+          "threshold_v": 0.9263
+        },
+        "l25": {
+          "high_v": 1.429e-10,
+          "low_v": 1.8,
+          "power_w": 0.02482,
+          "threshold_v": 0.9263
+        }
+      },
+      "point_id": "p000024"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.358e-10,
+          "low_v": 1.8,
+          "power_w": 0.02081,
+          "threshold_v": 0.9247
+        },
+        "l07": {
+          "high_v": 2.053e-10,
+          "low_v": 1.8,
+          "power_w": 0.02081,
+          "threshold_v": 0.9247
+        },
+        "l13": {
+          "high_v": 1.822e-10,
+          "low_v": 1.8,
+          "power_w": 0.02081,
+          "threshold_v": 0.9247
+        },
+        "l19": {
+          "high_v": 1.64e-10,
+          "low_v": 1.8,
+          "power_w": 0.02081,
+          "threshold_v": 0.9247
+        },
+        "l25": {
+          "high_v": 1.495e-10,
+          "low_v": 1.8,
+          "power_w": 0.02081,
+          "threshold_v": 0.9246
+        }
+      },
+      "point_id": "p000025"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.38e-10,
+          "low_v": 1.8,
+          "power_w": 0.01578,
+          "threshold_v": 0.8609
+        },
+        "l07": {
+          "high_v": 2.065e-10,
+          "low_v": 1.8,
+          "power_w": 0.01578,
+          "threshold_v": 0.8609
+        },
+        "l13": {
+          "high_v": 1.826e-10,
+          "low_v": 1.8,
+          "power_w": 0.01578,
+          "threshold_v": 0.8609
+        },
+        "l19": {
+          "high_v": 1.639e-10,
+          "low_v": 1.8,
+          "power_w": 0.01578,
+          "threshold_v": 0.8609
+        },
+        "l25": {
+          "high_v": 1.488e-10,
+          "low_v": 1.8,
+          "power_w": 0.01578,
+          "threshold_v": 0.8609
+        }
+      },
+      "point_id": "p000026"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.257e-10,
+          "low_v": 1.8,
+          "power_w": 0.03701,
+          "threshold_v": 0.8933
+        },
+        "l07": {
+          "high_v": 1.987e-10,
+          "low_v": 1.8,
+          "power_w": 0.03701,
+          "threshold_v": 0.8934
+        },
+        "l13": {
+          "high_v": 1.782e-10,
+          "low_v": 1.8,
+          "power_w": 0.03701,
+          "threshold_v": 0.8933
+        },
+        "l19": {
+          "high_v": 1.623e-10,
+          "low_v": 1.8,
+          "power_w": 0.03701,
+          "threshold_v": 0.8933
+        },
+        "l25": {
+          "high_v": 1.494e-10,
+          "low_v": 1.8,
+          "power_w": 0.03701,
+          "threshold_v": 0.8931
+        }
+      },
+      "point_id": "p000027"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.423e-10,
+          "low_v": 1.8,
+          "power_w": 0.03398,
+          "threshold_v": 0.8873
+        },
+        "l07": {
+          "high_v": 2.134e-10,
+          "low_v": 1.8,
+          "power_w": 0.03398,
+          "threshold_v": 0.8874
+        },
+        "l13": {
+          "high_v": 1.915e-10,
+          "low_v": 1.8,
+          "power_w": 0.03398,
+          "threshold_v": 0.8874
+        },
+        "l19": {
+          "high_v": 1.744e-10,
+          "low_v": 1.8,
+          "power_w": 0.03398,
+          "threshold_v": 0.8873
+        },
+        "l25": {
+          "high_v": 1.607e-10,
+          "low_v": 1.8,
+          "power_w": 0.03398,
+          "threshold_v": 0.8872
+        }
+      },
+      "point_id": "p000028"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.642e-10,
+          "low_v": 1.8,
+          "power_w": 0.03695,
+          "threshold_v": 0.9112
+        },
+        "l07": {
+          "high_v": 2.326e-10,
+          "low_v": 1.8,
+          "power_w": 0.03695,
+          "threshold_v": 0.9113
+        },
+        "l13": {
+          "high_v": 2.087e-10,
+          "low_v": 1.8,
+          "power_w": 0.03695,
+          "threshold_v": 0.9113
+        },
+        "l19": {
+          "high_v": 1.901e-10,
+          "low_v": 1.8,
+          "power_w": 0.03695,
+          "threshold_v": 0.9112
+        },
+        "l25": {
+          "high_v": 1.751e-10,
+          "low_v": 1.8,
+          "power_w": 0.03695,
+          "threshold_v": 0.9111
+        }
+      },
+      "point_id": "p000029"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.489e-10,
+          "low_v": 1.8,
+          "power_w": 0.04209,
+          "threshold_v": 0.9128
+        },
+        "l07": {
+          "high_v": 2.188e-10,
+          "low_v": 1.8,
+          "power_w": 0.04209,
+          "threshold_v": 0.9129
+        },
+        "l13": {
+          "high_v": 1.961e-10,
+          "low_v": 1.8,
+          "power_w": 0.04209,
+          "threshold_v": 0.9129
+        },
+        "l19": {
+          "high_v": 1.783e-10,
+          "low_v": 1.8,
+          "power_w": 0.04209,
+          "threshold_v": 0.9129
+        },
+        "l25": {
+          "high_v": 1.64e-10,
+          "low_v": 1.8,
+          "power_w": 0.04209,
+          "threshold_v": 0.9128
+        }
+      },
+      "point_id": "p000030"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.334e-10,
+          "low_v": 1.8,
+          "power_w": 0.03568,
+          "threshold_v": 0.889
+        },
+        "l07": {
+          "high_v": 2.041e-10,
+          "low_v": 1.8,
+          "power_w": 0.03568,
+          "threshold_v": 0.8891
+        },
+        "l13": {
+          "high_v": 1.819e-10,
+          "low_v": 1.8,
+          "power_w": 0.03568,
+          "threshold_v": 0.8891
+        },
+        "l19": {
+          "high_v": 1.646e-10,
+          "low_v": 1.8,
+          "power_w": 0.03568,
+          "threshold_v": 0.889
+        },
+        "l25": {
+          "high_v": 1.506e-10,
+          "low_v": 1.8,
+          "power_w": 0.03568,
+          "threshold_v": 0.8889
+        }
+      },
+      "point_id": "p000031"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.667e-10,
+          "low_v": 1.8,
+          "power_w": 0.03673,
+          "threshold_v": 0.8921
+        },
+        "l07": {
+          "high_v": 2.339e-10,
+          "low_v": 1.8,
+          "power_w": 0.03673,
+          "threshold_v": 0.8923
+        },
+        "l13": {
+          "high_v": 2.091e-10,
+          "low_v": 1.8,
+          "power_w": 0.03673,
+          "threshold_v": 0.8923
+        },
+        "l19": {
+          "high_v": 1.897e-10,
+          "low_v": 1.8,
+          "power_w": 0.03673,
+          "threshold_v": 0.8923
+        },
+        "l25": {
+          "high_v": 1.741e-10,
+          "low_v": 1.8,
+          "power_w": 0.03673,
+          "threshold_v": 0.8922
+        }
+      },
+      "point_id": "p000032"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.398e-10,
+          "low_v": 1.8,
+          "power_w": 0.03378,
+          "threshold_v": 0.8861
+        },
+        "l07": {
+          "high_v": 2.083e-10,
+          "low_v": 1.8,
+          "power_w": 0.03378,
+          "threshold_v": 0.8864
+        },
+        "l13": {
+          "high_v": 1.844e-10,
+          "low_v": 1.8,
+          "power_w": 0.03378,
+          "threshold_v": 0.8865
+        },
+        "l19": {
+          "high_v": 1.656e-10,
+          "low_v": 1.8,
+          "power_w": 0.03378,
+          "threshold_v": 0.8866
+        },
+        "l25": {
+          "high_v": 1.505e-10,
+          "low_v": 1.8,
+          "power_w": 0.03378,
+          "threshold_v": 0.8866
+        }
+      },
+      "point_id": "p000033"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.463e-10,
+          "low_v": 1.8,
+          "power_w": 0.02652,
+          "threshold_v": 0.922
+        },
+        "l07": {
+          "high_v": 2.155e-10,
+          "low_v": 1.8,
+          "power_w": 0.02652,
+          "threshold_v": 0.9219
+        },
+        "l13": {
+          "high_v": 1.922e-10,
+          "low_v": 1.8,
+          "power_w": 0.02652,
+          "threshold_v": 0.9217
+        },
+        "l19": {
+          "high_v": 1.74e-10,
+          "low_v": 1.8,
+          "power_w": 0.02652,
+          "threshold_v": 0.9216
+        },
+        "l25": {
+          "high_v": 1.593e-10,
+          "low_v": 1.8,
+          "power_w": 0.02652,
+          "threshold_v": 0.9214
+        }
+      },
+      "point_id": "p000034"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.406e-10,
+          "low_v": 1.8,
+          "power_w": 0.01679,
+          "threshold_v": 0.8654
+        },
+        "l07": {
+          "high_v": 2.088e-10,
+          "low_v": 1.8,
+          "power_w": 0.01679,
+          "threshold_v": 0.8655
+        },
+        "l13": {
+          "high_v": 1.847e-10,
+          "low_v": 1.8,
+          "power_w": 0.01679,
+          "threshold_v": 0.8655
+        },
+        "l19": {
+          "high_v": 1.659e-10,
+          "low_v": 1.8,
+          "power_w": 0.01679,
+          "threshold_v": 0.8655
+        },
+        "l25": {
+          "high_v": 1.507e-10,
+          "low_v": 1.8,
+          "power_w": 0.01679,
+          "threshold_v": 0.8655
+        }
+      },
+      "point_id": "p000035"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.468e-10,
+          "low_v": 1.8,
+          "power_w": 0.03873,
+          "threshold_v": 0.9075
+        },
+        "l07": {
+          "high_v": 2.171e-10,
+          "low_v": 1.8,
+          "power_w": 0.03873,
+          "threshold_v": 0.9075
+        },
+        "l13": {
+          "high_v": 1.946e-10,
+          "low_v": 1.8,
+          "power_w": 0.03873,
+          "threshold_v": 0.9075
+        },
+        "l19": {
+          "high_v": 1.771e-10,
+          "low_v": 1.8,
+          "power_w": 0.03873,
+          "threshold_v": 0.9075
+        },
+        "l25": {
+          "high_v": 1.63e-10,
+          "low_v": 1.8,
+          "power_w": 0.03873,
+          "threshold_v": 0.9073
+        }
+      },
+      "point_id": "p000036"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.494e-10,
+          "low_v": 1.8,
+          "power_w": 0.02184,
+          "threshold_v": 0.8716
+        },
+        "l07": {
+          "high_v": 2.179e-10,
+          "low_v": 1.8,
+          "power_w": 0.02184,
+          "threshold_v": 0.8717
+        },
+        "l13": {
+          "high_v": 1.941e-10,
+          "low_v": 1.8,
+          "power_w": 0.02184,
+          "threshold_v": 0.8718
+        },
+        "l19": {
+          "high_v": 1.754e-10,
+          "low_v": 1.8,
+          "power_w": 0.02184,
+          "threshold_v": 0.8718
+        },
+        "l25": {
+          "high_v": 1.604e-10,
+          "low_v": 1.8,
+          "power_w": 0.02184,
+          "threshold_v": 0.8717
+        }
+      },
+      "point_id": "p000037"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.255e-10,
+          "low_v": 1.8,
+          "power_w": 0.01572,
+          "threshold_v": 0.8574
+        },
+        "l07": {
+          "high_v": 1.957e-10,
+          "low_v": 1.8,
+          "power_w": 0.01572,
+          "threshold_v": 0.8574
+        },
+        "l13": {
+          "high_v": 1.731e-10,
+          "low_v": 1.8,
+          "power_w": 0.01572,
+          "threshold_v": 0.8574
+        },
+        "l19": {
+          "high_v": 1.554e-10,
+          "low_v": 1.8,
+          "power_w": 0.01572,
+          "threshold_v": 0.8574
+        },
+        "l25": {
+          "high_v": 1.412e-10,
+          "low_v": 1.8,
+          "power_w": 0.01572,
+          "threshold_v": 0.8574
+        }
+      },
+      "point_id": "p000038"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.676e-10,
+          "low_v": 1.8,
+          "power_w": 0.0178,
+          "threshold_v": 0.9422
+        },
+        "l07": {
+          "high_v": 2.399e-10,
+          "low_v": 1.8,
+          "power_w": 0.0178,
+          "threshold_v": 0.9422
+        },
+        "l13": {
+          "high_v": 2.19e-10,
+          "low_v": 1.8,
+          "power_w": 0.0178,
+          "threshold_v": 0.9421
+        },
+        "l19": {
+          "high_v": 2.027e-10,
+          "low_v": 1.8,
+          "power_w": 0.0178,
+          "threshold_v": 0.9421
+        },
+        "l25": {
+          "high_v": 1.896e-10,
+          "low_v": 1.8,
+          "power_w": 0.0178,
+          "threshold_v": 0.9421
+        }
+      },
+      "point_id": "p000039"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.386e-10,
+          "low_v": 1.8,
+          "power_w": 0.02347,
+          "threshold_v": 0.9273
+        },
+        "l07": {
+          "high_v": 2.119e-10,
+          "low_v": 1.8,
+          "power_w": 0.02347,
+          "threshold_v": 0.9272
+        },
+        "l13": {
+          "high_v": 1.917e-10,
+          "low_v": 1.8,
+          "power_w": 0.02347,
+          "threshold_v": 0.9271
+        },
+        "l19": {
+          "high_v": 1.76e-10,
+          "low_v": 1.8,
+          "power_w": 0.02347,
+          "threshold_v": 0.927
+        },
+        "l25": {
+          "high_v": 1.634e-10,
+          "low_v": 1.8,
+          "power_w": 0.02347,
+          "threshold_v": 0.9268
+        }
+      },
+      "point_id": "p000040"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.498e-10,
+          "low_v": 1.8,
+          "power_w": 0.01483,
+          "threshold_v": 0.939
+        },
+        "l07": {
+          "high_v": 2.183e-10,
+          "low_v": 1.8,
+          "power_w": 0.01483,
+          "threshold_v": 0.939
+        },
+        "l13": {
+          "high_v": 1.944e-10,
+          "low_v": 1.8,
+          "power_w": 0.01483,
+          "threshold_v": 0.939
+        },
+        "l19": {
+          "high_v": 1.758e-10,
+          "low_v": 1.8,
+          "power_w": 0.01483,
+          "threshold_v": 0.939
+        },
+        "l25": {
+          "high_v": 1.607e-10,
+          "low_v": 1.8,
+          "power_w": 0.01483,
+          "threshold_v": 0.9389
+        }
+      },
+      "point_id": "p000041"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.584e-10,
+          "low_v": 1.8,
+          "power_w": 0.01798,
+          "threshold_v": 0.8657
+        },
+        "l07": {
+          "high_v": 2.261e-10,
+          "low_v": 1.8,
+          "power_w": 0.01798,
+          "threshold_v": 0.8658
+        },
+        "l13": {
+          "high_v": 2.017e-10,
+          "low_v": 1.8,
+          "power_w": 0.01798,
+          "threshold_v": 0.8658
+        },
+        "l19": {
+          "high_v": 1.826e-10,
+          "low_v": 1.8,
+          "power_w": 0.01798,
+          "threshold_v": 0.8657
+        },
+        "l25": {
+          "high_v": 1.673e-10,
+          "low_v": 1.8,
+          "power_w": 0.01798,
+          "threshold_v": 0.8657
+        }
+      },
+      "point_id": "p000042"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.733e-10,
+          "low_v": 1.8,
+          "power_w": 0.01781,
+          "threshold_v": 0.9435
+        },
+        "l07": {
+          "high_v": 2.463e-10,
+          "low_v": 1.8,
+          "power_w": 0.01781,
+          "threshold_v": 0.9436
+        },
+        "l13": {
+          "high_v": 2.259e-10,
+          "low_v": 1.8,
+          "power_w": 0.01781,
+          "threshold_v": 0.9436
+        },
+        "l19": {
+          "high_v": 2.1e-10,
+          "low_v": 1.8,
+          "power_w": 0.01781,
+          "threshold_v": 0.9435
+        },
+        "l25": {
+          "high_v": 1.973e-10,
+          "low_v": 1.8,
+          "power_w": 0.01781,
+          "threshold_v": 0.9435
+        }
+      },
+      "point_id": "p000043"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.201e-10,
+          "low_v": 1.8,
+          "power_w": 0.02599,
+          "threshold_v": 0.8777
+        },
+        "l07": {
+          "high_v": 1.929e-10,
+          "low_v": 1.8,
+          "power_w": 0.02599,
+          "threshold_v": 0.8779
+        },
+        "l13": {
+          "high_v": 1.722e-10,
+          "low_v": 1.8,
+          "power_w": 0.02599,
+          "threshold_v": 0.8779
+        },
+        "l19": {
+          "high_v": 1.56e-10,
+          "low_v": 1.8,
+          "power_w": 0.02599,
+          "threshold_v": 0.8779
+        },
+        "l25": {
+          "high_v": 1.43e-10,
+          "low_v": 1.8,
+          "power_w": 0.02599,
+          "threshold_v": 0.8779
+        }
+      },
+      "point_id": "p000044"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.66e-10,
+          "low_v": 1.8,
+          "power_w": 0.01623,
+          "threshold_v": 0.9414
+        },
+        "l07": {
+          "high_v": 2.349e-10,
+          "low_v": 1.8,
+          "power_w": 0.01623,
+          "threshold_v": 0.9414
+        },
+        "l13": {
+          "high_v": 2.114e-10,
+          "low_v": 1.8,
+          "power_w": 0.01623,
+          "threshold_v": 0.9414
+        },
+        "l19": {
+          "high_v": 1.93e-10,
+          "low_v": 1.8,
+          "power_w": 0.01623,
+          "threshold_v": 0.9414
+        },
+        "l25": {
+          "high_v": 1.782e-10,
+          "low_v": 1.8,
+          "power_w": 0.01623,
+          "threshold_v": 0.9414
+        }
+      },
+      "point_id": "p000045"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.578e-10,
+          "low_v": 1.8,
+          "power_w": 0.03745,
+          "threshold_v": 0.8973
+        },
+        "l07": {
+          "high_v": 2.25e-10,
+          "low_v": 1.8,
+          "power_w": 0.03745,
+          "threshold_v": 0.8973
+        },
+        "l13": {
+          "high_v": 2.002e-10,
+          "low_v": 1.8,
+          "power_w": 0.03745,
+          "threshold_v": 0.8973
+        },
+        "l19": {
+          "high_v": 1.807e-10,
+          "low_v": 1.8,
+          "power_w": 0.03745,
+          "threshold_v": 0.8972
+        },
+        "l25": {
+          "high_v": 1.651e-10,
+          "low_v": 1.8,
+          "power_w": 0.03745,
+          "threshold_v": 0.897
+        }
+      },
+      "point_id": "p000046"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.427e-10,
+          "low_v": 1.8,
+          "power_w": 0.01819,
+          "threshold_v": 0.9319
+        },
+        "l07": {
+          "high_v": 2.128e-10,
+          "low_v": 1.8,
+          "power_w": 0.01819,
+          "threshold_v": 0.932
+        },
+        "l13": {
+          "high_v": 1.902e-10,
+          "low_v": 1.8,
+          "power_w": 0.01819,
+          "threshold_v": 0.9319
+        },
+        "l19": {
+          "high_v": 1.725e-10,
+          "low_v": 1.8,
+          "power_w": 0.01819,
+          "threshold_v": 0.9319
+        },
+        "l25": {
+          "high_v": 1.583e-10,
+          "low_v": 1.8,
+          "power_w": 0.01819,
+          "threshold_v": 0.9318
+        }
+      },
+      "point_id": "p000047"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 3.052e-10,
+          "low_v": 1.8,
+          "power_w": 0.01768,
+          "threshold_v": 0.9427
+        },
+        "l07": {
+          "high_v": 2.738e-10,
+          "low_v": 1.8,
+          "power_w": 0.01768,
+          "threshold_v": 0.9427
+        },
+        "l13": {
+          "high_v": 2.502e-10,
+          "low_v": 1.8,
+          "power_w": 0.01768,
+          "threshold_v": 0.9427
+        },
+        "l19": {
+          "high_v": 2.318e-10,
+          "low_v": 1.8,
+          "power_w": 0.01768,
+          "threshold_v": 0.9426
+        },
+        "l25": {
+          "high_v": 2.171e-10,
+          "low_v": 1.8,
+          "power_w": 0.01768,
+          "threshold_v": 0.9426
+        }
+      },
+      "point_id": "p000048"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.719e-10,
+          "low_v": 1.8,
+          "power_w": 0.0313,
+          "threshold_v": 0.8832
+        },
+        "l07": {
+          "high_v": 2.364e-10,
+          "low_v": 1.8,
+          "power_w": 0.0313,
+          "threshold_v": 0.8833
+        },
+        "l13": {
+          "high_v": 2.096e-10,
+          "low_v": 1.8,
+          "power_w": 0.0313,
+          "threshold_v": 0.8834
+        },
+        "l19": {
+          "high_v": 1.885e-10,
+          "low_v": 1.8,
+          "power_w": 0.0313,
+          "threshold_v": 0.8834
+        },
+        "l25": {
+          "high_v": 1.716e-10,
+          "low_v": 1.8,
+          "power_w": 0.0313,
+          "threshold_v": 0.8833
+        }
+      },
+      "point_id": "p000049"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.102e-10,
+          "low_v": 1.8,
+          "power_w": 0.03751,
+          "threshold_v": 0.9101
+        },
+        "l07": {
+          "high_v": 1.83e-10,
+          "low_v": 1.8,
+          "power_w": 0.03751,
+          "threshold_v": 0.9101
+        },
+        "l13": {
+          "high_v": 1.623e-10,
+          "low_v": 1.8,
+          "power_w": 0.03751,
+          "threshold_v": 0.91
+        },
+        "l19": {
+          "high_v": 1.462e-10,
+          "low_v": 1.8,
+          "power_w": 0.03751,
+          "threshold_v": 0.9099
+        },
+        "l25": {
+          "high_v": 1.332e-10,
+          "low_v": 1.8,
+          "power_w": 0.03751,
+          "threshold_v": 0.9097
+        }
+      },
+      "point_id": "p000050"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.423e-10,
+          "low_v": 1.8,
+          "power_w": 0.01842,
+          "threshold_v": 0.8647
+        },
+        "l07": {
+          "high_v": 2.104e-10,
+          "low_v": 1.8,
+          "power_w": 0.01842,
+          "threshold_v": 0.8648
+        },
+        "l13": {
+          "high_v": 1.862e-10,
+          "low_v": 1.8,
+          "power_w": 0.01842,
+          "threshold_v": 0.8648
+        },
+        "l19": {
+          "high_v": 1.673e-10,
+          "low_v": 1.8,
+          "power_w": 0.01842,
+          "threshold_v": 0.8648
+        },
+        "l25": {
+          "high_v": 1.52e-10,
+          "low_v": 1.8,
+          "power_w": 0.01842,
+          "threshold_v": 0.8648
+        }
+      },
+      "point_id": "p000051"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.795e-10,
+          "low_v": 1.8,
+          "power_w": 0.01569,
+          "threshold_v": 0.9446
+        },
+        "l07": {
+          "high_v": 2.481e-10,
+          "low_v": 1.8,
+          "power_w": 0.01569,
+          "threshold_v": 0.9446
+        },
+        "l13": {
+          "high_v": 2.244e-10,
+          "low_v": 1.8,
+          "power_w": 0.01569,
+          "threshold_v": 0.9446
+        },
+        "l19": {
+          "high_v": 2.059e-10,
+          "low_v": 1.8,
+          "power_w": 0.01569,
+          "threshold_v": 0.9446
+        },
+        "l25": {
+          "high_v": 1.91e-10,
+          "low_v": 1.8,
+          "power_w": 0.01569,
+          "threshold_v": 0.9446
+        }
+      },
+      "point_id": "p000052"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.504e-10,
+          "low_v": 1.8,
+          "power_w": 0.04499,
+          "threshold_v": 0.9059
+        },
+        "l07": {
+          "high_v": 2.192e-10,
+          "low_v": 1.8,
+          "power_w": 0.04499,
+          "threshold_v": 0.906
+        },
+        "l13": {
+          "high_v": 1.956e-10,
+          "low_v": 1.8,
+          "power_w": 0.04499,
+          "threshold_v": 0.9059
+        },
+        "l19": {
+          "high_v": 1.771e-10,
+          "low_v": 1.8,
+          "power_w": 0.04499,
+          "threshold_v": 0.9058
+        },
+        "l25": {
+          "high_v": 1.622e-10,
+          "low_v": 1.8,
+          "power_w": 0.04499,
+          "threshold_v": 0.9057
+        }
+      },
+      "point_id": "p000053"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.519e-10,
+          "low_v": 1.8,
+          "power_w": 0.02116,
+          "threshold_v": 0.8682
+        },
+        "l07": {
+          "high_v": 2.23e-10,
+          "low_v": 1.8,
+          "power_w": 0.02116,
+          "threshold_v": 0.8682
+        },
+        "l13": {
+          "high_v": 2.012e-10,
+          "low_v": 1.8,
+          "power_w": 0.02116,
+          "threshold_v": 0.8682
+        },
+        "l19": {
+          "high_v": 1.842e-10,
+          "low_v": 1.8,
+          "power_w": 0.02116,
+          "threshold_v": 0.8681
+        },
+        "l25": {
+          "high_v": 1.705e-10,
+          "low_v": 1.8,
+          "power_w": 0.02116,
+          "threshold_v": 0.8681
+        }
+      },
+      "point_id": "p000054"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.384e-10,
+          "low_v": 1.8,
+          "power_w": 0.03728,
+          "threshold_v": 0.8927
+        },
+        "l07": {
+          "high_v": 2.071e-10,
+          "low_v": 1.8,
+          "power_w": 0.03728,
+          "threshold_v": 0.8927
+        },
+        "l13": {
+          "high_v": 1.834e-10,
+          "low_v": 1.8,
+          "power_w": 0.03728,
+          "threshold_v": 0.8927
+        },
+        "l19": {
+          "high_v": 1.648e-10,
+          "low_v": 1.8,
+          "power_w": 0.03728,
+          "threshold_v": 0.8925
+        },
+        "l25": {
+          "high_v": 1.498e-10,
+          "low_v": 1.8,
+          "power_w": 0.03728,
+          "threshold_v": 0.8924
+        }
+      },
+      "point_id": "p000055"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.477e-10,
+          "low_v": 1.8,
+          "power_w": 0.04189,
+          "threshold_v": 0.8903
+        },
+        "l07": {
+          "high_v": 2.201e-10,
+          "low_v": 1.8,
+          "power_w": 0.04189,
+          "threshold_v": 0.8904
+        },
+        "l13": {
+          "high_v": 1.993e-10,
+          "low_v": 1.8,
+          "power_w": 0.04189,
+          "threshold_v": 0.8904
+        },
+        "l19": {
+          "high_v": 1.83e-10,
+          "low_v": 1.8,
+          "power_w": 0.04189,
+          "threshold_v": 0.8904
+        },
+        "l25": {
+          "high_v": 1.699e-10,
+          "low_v": 1.8,
+          "power_w": 0.04189,
+          "threshold_v": 0.8903
+        }
+      },
+      "point_id": "p000056"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.745e-10,
+          "low_v": 1.8,
+          "power_w": 0.01801,
+          "threshold_v": 0.9343
+        },
+        "l07": {
+          "high_v": 2.449e-10,
+          "low_v": 1.8,
+          "power_w": 0.01801,
+          "threshold_v": 0.9343
+        },
+        "l13": {
+          "high_v": 2.225e-10,
+          "low_v": 1.8,
+          "power_w": 0.01801,
+          "threshold_v": 0.9343
+        },
+        "l19": {
+          "high_v": 2.051e-10,
+          "low_v": 1.8,
+          "power_w": 0.01801,
+          "threshold_v": 0.9342
+        },
+        "l25": {
+          "high_v": 1.912e-10,
+          "low_v": 1.8,
+          "power_w": 0.01801,
+          "threshold_v": 0.9341
+        }
+      },
+      "point_id": "p000057"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.894e-10,
+          "low_v": 1.8,
+          "power_w": 0.01559,
+          "threshold_v": 0.9411
+        },
+        "l07": {
+          "high_v": 2.591e-10,
+          "low_v": 1.8,
+          "power_w": 0.01559,
+          "threshold_v": 0.9411
+        },
+        "l13": {
+          "high_v": 2.363e-10,
+          "low_v": 1.8,
+          "power_w": 0.01559,
+          "threshold_v": 0.941
+        },
+        "l19": {
+          "high_v": 2.185e-10,
+          "low_v": 1.8,
+          "power_w": 0.01559,
+          "threshold_v": 0.941
+        },
+        "l25": {
+          "high_v": 2.043e-10,
+          "low_v": 1.8,
+          "power_w": 0.01559,
+          "threshold_v": 0.9409
+        }
+      },
+      "point_id": "p000058"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.152e-10,
+          "low_v": 1.8,
+          "power_w": 0.04067,
+          "threshold_v": 0.8884
+        },
+        "l07": {
+          "high_v": 1.89e-10,
+          "low_v": 1.8,
+          "power_w": 0.04067,
+          "threshold_v": 0.8885
+        },
+        "l13": {
+          "high_v": 1.692e-10,
+          "low_v": 1.8,
+          "power_w": 0.04067,
+          "threshold_v": 0.8886
+        },
+        "l19": {
+          "high_v": 1.537e-10,
+          "low_v": 1.8,
+          "power_w": 0.04067,
+          "threshold_v": 0.8885
+        },
+        "l25": {
+          "high_v": 1.412e-10,
+          "low_v": 1.8,
+          "power_w": 0.04067,
+          "threshold_v": 0.8885
+        }
+      },
+      "point_id": "p000059"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.26e-10,
+          "low_v": 1.8,
+          "power_w": 0.03427,
+          "threshold_v": 0.886
+        },
+        "l07": {
+          "high_v": 1.983e-10,
+          "low_v": 1.8,
+          "power_w": 0.03427,
+          "threshold_v": 0.8861
+        },
+        "l13": {
+          "high_v": 1.774e-10,
+          "low_v": 1.8,
+          "power_w": 0.03427,
+          "threshold_v": 0.8862
+        },
+        "l19": {
+          "high_v": 1.611e-10,
+          "low_v": 1.8,
+          "power_w": 0.03427,
+          "threshold_v": 0.8861
+        },
+        "l25": {
+          "high_v": 1.479e-10,
+          "low_v": 1.8,
+          "power_w": 0.03427,
+          "threshold_v": 0.8861
+        }
+      },
+      "point_id": "p000060"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.557e-10,
+          "low_v": 1.8,
+          "power_w": 0.01643,
+          "threshold_v": 0.9415
+        },
+        "l07": {
+          "high_v": 2.259e-10,
+          "low_v": 1.8,
+          "power_w": 0.01643,
+          "threshold_v": 0.9416
+        },
+        "l13": {
+          "high_v": 2.033e-10,
+          "low_v": 1.8,
+          "power_w": 0.01643,
+          "threshold_v": 0.9416
+        },
+        "l19": {
+          "high_v": 1.857e-10,
+          "low_v": 1.8,
+          "power_w": 0.01643,
+          "threshold_v": 0.9416
+        },
+        "l25": {
+          "high_v": 1.715e-10,
+          "low_v": 1.8,
+          "power_w": 0.01643,
+          "threshold_v": 0.9415
+        }
+      },
+      "point_id": "p000061"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.047e-10,
+          "low_v": 1.8,
+          "power_w": 0.03122,
+          "threshold_v": 0.8806
+        },
+        "l07": {
+          "high_v": 1.785e-10,
+          "low_v": 1.8,
+          "power_w": 0.03122,
+          "threshold_v": 0.8806
+        },
+        "l13": {
+          "high_v": 1.587e-10,
+          "low_v": 1.8,
+          "power_w": 0.03122,
+          "threshold_v": 0.8806
+        },
+        "l19": {
+          "high_v": 1.432e-10,
+          "low_v": 1.8,
+          "power_w": 0.03122,
+          "threshold_v": 0.8806
+        },
+        "l25": {
+          "high_v": 1.307e-10,
+          "low_v": 1.8,
+          "power_w": 0.03122,
+          "threshold_v": 0.8805
+        }
+      },
+      "point_id": "p000062"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.73e-10,
+          "low_v": 1.8,
+          "power_w": 0.01607,
+          "threshold_v": 0.9378
+        },
+        "l07": {
+          "high_v": 2.383e-10,
+          "low_v": 1.8,
+          "power_w": 0.01607,
+          "threshold_v": 0.9378
+        },
+        "l13": {
+          "high_v": 2.121e-10,
+          "low_v": 1.8,
+          "power_w": 0.01607,
+          "threshold_v": 0.9377
+        },
+        "l19": {
+          "high_v": 1.916e-10,
+          "low_v": 1.8,
+          "power_w": 0.01607,
+          "threshold_v": 0.9377
+        },
+        "l25": {
+          "high_v": 1.751e-10,
+          "low_v": 1.8,
+          "power_w": 0.01607,
+          "threshold_v": 0.9376
+        }
+      },
+      "point_id": "p000063"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.609e-10,
+          "low_v": 1.8,
+          "power_w": 0.02486,
+          "threshold_v": 0.9267
+        },
+        "l07": {
+          "high_v": 2.303e-10,
+          "low_v": 1.8,
+          "power_w": 0.02486,
+          "threshold_v": 0.9267
+        },
+        "l13": {
+          "high_v": 2.071e-10,
+          "low_v": 1.8,
+          "power_w": 0.02486,
+          "threshold_v": 0.9267
+        },
+        "l19": {
+          "high_v": 1.89e-10,
+          "low_v": 1.8,
+          "power_w": 0.02486,
+          "threshold_v": 0.9266
+        },
+        "l25": {
+          "high_v": 1.745e-10,
+          "low_v": 1.8,
+          "power_w": 0.02486,
+          "threshold_v": 0.9265
+        }
+      },
+      "point_id": "p000064"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.357e-10,
+          "low_v": 1.8,
+          "power_w": 0.03556,
+          "threshold_v": 0.886
+        },
+        "l07": {
+          "high_v": 2.061e-10,
+          "low_v": 1.8,
+          "power_w": 0.03556,
+          "threshold_v": 0.8862
+        },
+        "l13": {
+          "high_v": 1.837e-10,
+          "low_v": 1.8,
+          "power_w": 0.03556,
+          "threshold_v": 0.8862
+        },
+        "l19": {
+          "high_v": 1.662e-10,
+          "low_v": 1.8,
+          "power_w": 0.03556,
+          "threshold_v": 0.8862
+        },
+        "l25": {
+          "high_v": 1.521e-10,
+          "low_v": 1.8,
+          "power_w": 0.03556,
+          "threshold_v": 0.8862
+        }
+      },
+      "point_id": "p000065"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.155e-10,
+          "low_v": 1.8,
+          "power_w": 0.065,
+          "threshold_v": 0.8993
+        },
+        "l07": {
+          "high_v": 1.89e-10,
+          "low_v": 1.8,
+          "power_w": 0.065,
+          "threshold_v": 0.8992
+        },
+        "l13": {
+          "high_v": 1.689e-10,
+          "low_v": 1.8,
+          "power_w": 0.065,
+          "threshold_v": 0.899
+        },
+        "l19": {
+          "high_v": 1.532e-10,
+          "low_v": 1.8,
+          "power_w": 0.065,
+          "threshold_v": 0.8988
+        },
+        "l25": {
+          "high_v": 1.406e-10,
+          "low_v": 1.8,
+          "power_w": 0.065,
+          "threshold_v": 0.8985
+        }
+      },
+      "point_id": "p000066"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.359e-10,
+          "low_v": 1.8,
+          "power_w": 0.03589,
+          "threshold_v": 0.8868
+        },
+        "l07": {
+          "high_v": 2.082e-10,
+          "low_v": 1.8,
+          "power_w": 0.03589,
+          "threshold_v": 0.8868
+        },
+        "l13": {
+          "high_v": 1.873e-10,
+          "low_v": 1.8,
+          "power_w": 0.03589,
+          "threshold_v": 0.8868
+        },
+        "l19": {
+          "high_v": 1.71e-10,
+          "low_v": 1.8,
+          "power_w": 0.03589,
+          "threshold_v": 0.8867
+        },
+        "l25": {
+          "high_v": 1.578e-10,
+          "low_v": 1.8,
+          "power_w": 0.03589,
+          "threshold_v": 0.8865
+        }
+      },
+      "point_id": "p000067"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.343e-10,
+          "low_v": 1.8,
+          "power_w": 0.01493,
+          "threshold_v": 0.9325
+        },
+        "l07": {
+          "high_v": 2.044e-10,
+          "low_v": 1.8,
+          "power_w": 0.01493,
+          "threshold_v": 0.9324
+        },
+        "l13": {
+          "high_v": 1.817e-10,
+          "low_v": 1.8,
+          "power_w": 0.01493,
+          "threshold_v": 0.9324
+        },
+        "l19": {
+          "high_v": 1.639e-10,
+          "low_v": 1.8,
+          "power_w": 0.01493,
+          "threshold_v": 0.9323
+        },
+        "l25": {
+          "high_v": 1.496e-10,
+          "low_v": 1.8,
+          "power_w": 0.01493,
+          "threshold_v": 0.9322
+        }
+      },
+      "point_id": "p000068"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.51e-10,
+          "low_v": 1.8,
+          "power_w": 0.01969,
+          "threshold_v": 0.9334
+        },
+        "l07": {
+          "high_v": 2.239e-10,
+          "low_v": 1.8,
+          "power_w": 0.01969,
+          "threshold_v": 0.9333
+        },
+        "l13": {
+          "high_v": 2.036e-10,
+          "low_v": 1.8,
+          "power_w": 0.01969,
+          "threshold_v": 0.9332
+        },
+        "l19": {
+          "high_v": 1.877e-10,
+          "low_v": 1.8,
+          "power_w": 0.01969,
+          "threshold_v": 0.9331
+        },
+        "l25": {
+          "high_v": 1.75e-10,
+          "low_v": 1.8,
+          "power_w": 0.01969,
+          "threshold_v": 0.933
+        }
+      },
+      "point_id": "p000069"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.78e-10,
+          "low_v": 1.8,
+          "power_w": 0.01506,
+          "threshold_v": 0.9401
+        },
+        "l07": {
+          "high_v": 2.494e-10,
+          "low_v": 1.8,
+          "power_w": 0.01506,
+          "threshold_v": 0.9402
+        },
+        "l13": {
+          "high_v": 2.278e-10,
+          "low_v": 1.8,
+          "power_w": 0.01506,
+          "threshold_v": 0.9402
+        },
+        "l19": {
+          "high_v": 2.11e-10,
+          "low_v": 1.8,
+          "power_w": 0.01506,
+          "threshold_v": 0.9401
+        },
+        "l25": {
+          "high_v": 1.976e-10,
+          "low_v": 1.8,
+          "power_w": 0.01506,
+          "threshold_v": 0.9401
+        }
+      },
+      "point_id": "p000070"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.486e-10,
+          "low_v": 1.8,
+          "power_w": 0.02752,
+          "threshold_v": 0.8781
+        },
+        "l07": {
+          "high_v": 2.166e-10,
+          "low_v": 1.8,
+          "power_w": 0.02752,
+          "threshold_v": 0.8782
+        },
+        "l13": {
+          "high_v": 1.924e-10,
+          "low_v": 1.8,
+          "power_w": 0.02752,
+          "threshold_v": 0.8782
+        },
+        "l19": {
+          "high_v": 1.735e-10,
+          "low_v": 1.8,
+          "power_w": 0.02752,
+          "threshold_v": 0.8781
+        },
+        "l25": {
+          "high_v": 1.582e-10,
+          "low_v": 1.8,
+          "power_w": 0.02752,
+          "threshold_v": 0.878
+        }
+      },
+      "point_id": "p000071"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.412e-10,
+          "low_v": 1.8,
+          "power_w": 0.03469,
+          "threshold_v": 0.8924
+        },
+        "l07": {
+          "high_v": 2.102e-10,
+          "low_v": 1.8,
+          "power_w": 0.03469,
+          "threshold_v": 0.8925
+        },
+        "l13": {
+          "high_v": 1.866e-10,
+          "low_v": 1.8,
+          "power_w": 0.03469,
+          "threshold_v": 0.8925
+        },
+        "l19": {
+          "high_v": 1.682e-10,
+          "low_v": 1.8,
+          "power_w": 0.03469,
+          "threshold_v": 0.8924
+        },
+        "l25": {
+          "high_v": 1.533e-10,
+          "low_v": 1.8,
+          "power_w": 0.03469,
+          "threshold_v": 0.8923
+        }
+      },
+      "point_id": "p000072"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.376e-10,
+          "low_v": 1.8,
+          "power_w": 0.01762,
+          "threshold_v": 0.9313
+        },
+        "l07": {
+          "high_v": 2.099e-10,
+          "low_v": 1.8,
+          "power_w": 0.01762,
+          "threshold_v": 0.9313
+        },
+        "l13": {
+          "high_v": 1.89e-10,
+          "low_v": 1.8,
+          "power_w": 0.01762,
+          "threshold_v": 0.9313
+        },
+        "l19": {
+          "high_v": 1.726e-10,
+          "low_v": 1.8,
+          "power_w": 0.01762,
+          "threshold_v": 0.9312
+        },
+        "l25": {
+          "high_v": 1.595e-10,
+          "low_v": 1.8,
+          "power_w": 0.01762,
+          "threshold_v": 0.9311
+        }
+      },
+      "point_id": "p000073"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.288e-10,
+          "low_v": 1.8,
+          "power_w": 0.01388,
+          "threshold_v": 0.9368
+        },
+        "l07": {
+          "high_v": 1.993e-10,
+          "low_v": 1.8,
+          "power_w": 0.01388,
+          "threshold_v": 0.9368
+        },
+        "l13": {
+          "high_v": 1.77e-10,
+          "low_v": 1.8,
+          "power_w": 0.01388,
+          "threshold_v": 0.9368
+        },
+        "l19": {
+          "high_v": 1.595e-10,
+          "low_v": 1.8,
+          "power_w": 0.01388,
+          "threshold_v": 0.9368
+        },
+        "l25": {
+          "high_v": 1.454e-10,
+          "low_v": 1.8,
+          "power_w": 0.01388,
+          "threshold_v": 0.9368
+        }
+      },
+      "point_id": "p000074"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.541e-10,
+          "low_v": 1.8,
+          "power_w": 0.03678,
+          "threshold_v": 0.9088
+        },
+        "l07": {
+          "high_v": 2.217e-10,
+          "low_v": 1.8,
+          "power_w": 0.03678,
+          "threshold_v": 0.9089
+        },
+        "l13": {
+          "high_v": 1.971e-10,
+          "low_v": 1.8,
+          "power_w": 0.03678,
+          "threshold_v": 0.9088
+        },
+        "l19": {
+          "high_v": 1.778e-10,
+          "low_v": 1.8,
+          "power_w": 0.03678,
+          "threshold_v": 0.9087
+        },
+        "l25": {
+          "high_v": 1.623e-10,
+          "low_v": 1.8,
+          "power_w": 0.03678,
+          "threshold_v": 0.9086
+        }
+      },
+      "point_id": "p000075"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.38e-10,
+          "low_v": 1.8,
+          "power_w": 0.03112,
+          "threshold_v": 0.9158
+        },
+        "l07": {
+          "high_v": 2.074e-10,
+          "low_v": 1.8,
+          "power_w": 0.03112,
+          "threshold_v": 0.9158
+        },
+        "l13": {
+          "high_v": 1.842e-10,
+          "low_v": 1.8,
+          "power_w": 0.03112,
+          "threshold_v": 0.9157
+        },
+        "l19": {
+          "high_v": 1.661e-10,
+          "low_v": 1.8,
+          "power_w": 0.03112,
+          "threshold_v": 0.9155
+        },
+        "l25": {
+          "high_v": 1.515e-10,
+          "low_v": 1.8,
+          "power_w": 0.03112,
+          "threshold_v": 0.9154
+        }
+      },
+      "point_id": "p000076"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.278e-10,
+          "low_v": 1.8,
+          "power_w": 0.01747,
+          "threshold_v": 0.9391
+        },
+        "l07": {
+          "high_v": 2.013e-10,
+          "low_v": 1.8,
+          "power_w": 0.01747,
+          "threshold_v": 0.9391
+        },
+        "l13": {
+          "high_v": 1.813e-10,
+          "low_v": 1.8,
+          "power_w": 0.01747,
+          "threshold_v": 0.9391
+        },
+        "l19": {
+          "high_v": 1.656e-10,
+          "low_v": 1.8,
+          "power_w": 0.01747,
+          "threshold_v": 0.9391
+        },
+        "l25": {
+          "high_v": 1.531e-10,
+          "low_v": 1.8,
+          "power_w": 0.01747,
+          "threshold_v": 0.9391
+        }
+      },
+      "point_id": "p000077"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.807e-10,
+          "low_v": 1.8,
+          "power_w": 0.01362,
+          "threshold_v": 0.9411
+        },
+        "l07": {
+          "high_v": 2.451e-10,
+          "low_v": 1.8,
+          "power_w": 0.01362,
+          "threshold_v": 0.9412
+        },
+        "l13": {
+          "high_v": 2.182e-10,
+          "low_v": 1.8,
+          "power_w": 0.01362,
+          "threshold_v": 0.9412
+        },
+        "l19": {
+          "high_v": 1.971e-10,
+          "low_v": 1.8,
+          "power_w": 0.01362,
+          "threshold_v": 0.9412
+        },
+        "l25": {
+          "high_v": 1.801e-10,
+          "low_v": 1.8,
+          "power_w": 0.01362,
+          "threshold_v": 0.9412
+        }
+      },
+      "point_id": "p000078"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.398e-10,
+          "low_v": 1.8,
+          "power_w": 0.02058,
+          "threshold_v": 0.8738
+        },
+        "l07": {
+          "high_v": 2.081e-10,
+          "low_v": 1.8,
+          "power_w": 0.02058,
+          "threshold_v": 0.8738
+        },
+        "l13": {
+          "high_v": 1.841e-10,
+          "low_v": 1.8,
+          "power_w": 0.02058,
+          "threshold_v": 0.8738
+        },
+        "l19": {
+          "high_v": 1.653e-10,
+          "low_v": 1.8,
+          "power_w": 0.02058,
+          "threshold_v": 0.8738
+        },
+        "l25": {
+          "high_v": 1.501e-10,
+          "low_v": 1.8,
+          "power_w": 0.02058,
+          "threshold_v": 0.8737
+        }
+      },
+      "point_id": "p000079"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.688e-10,
+          "low_v": 1.8,
+          "power_w": 0.01752,
+          "threshold_v": 0.937
+        },
+        "l07": {
+          "high_v": 2.42e-10,
+          "low_v": 1.8,
+          "power_w": 0.01752,
+          "threshold_v": 0.9371
+        },
+        "l13": {
+          "high_v": 2.218e-10,
+          "low_v": 1.8,
+          "power_w": 0.01752,
+          "threshold_v": 0.9371
+        },
+        "l19": {
+          "high_v": 2.061e-10,
+          "low_v": 1.8,
+          "power_w": 0.01752,
+          "threshold_v": 0.9371
+        },
+        "l25": {
+          "high_v": 1.935e-10,
+          "low_v": 1.8,
+          "power_w": 0.01752,
+          "threshold_v": 0.9371
+        }
+      },
+      "point_id": "p000080"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.741e-10,
+          "low_v": 1.8,
+          "power_w": 0.03122,
+          "threshold_v": 0.9147
+        },
+        "l07": {
+          "high_v": 2.395e-10,
+          "low_v": 1.8,
+          "power_w": 0.03122,
+          "threshold_v": 0.9147
+        },
+        "l13": {
+          "high_v": 2.133e-10,
+          "low_v": 1.8,
+          "power_w": 0.03122,
+          "threshold_v": 0.9146
+        },
+        "l19": {
+          "high_v": 1.927e-10,
+          "low_v": 1.8,
+          "power_w": 0.03122,
+          "threshold_v": 0.9144
+        },
+        "l25": {
+          "high_v": 1.762e-10,
+          "low_v": 1.8,
+          "power_w": 0.03122,
+          "threshold_v": 0.9142
+        }
+      },
+      "point_id": "p000081"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.733e-10,
+          "low_v": 1.8,
+          "power_w": 0.01858,
+          "threshold_v": 0.9359
+        },
+        "l07": {
+          "high_v": 2.458e-10,
+          "low_v": 1.8,
+          "power_w": 0.01858,
+          "threshold_v": 0.9359
+        },
+        "l13": {
+          "high_v": 2.251e-10,
+          "low_v": 1.8,
+          "power_w": 0.01858,
+          "threshold_v": 0.9359
+        },
+        "l19": {
+          "high_v": 2.09e-10,
+          "low_v": 1.8,
+          "power_w": 0.01858,
+          "threshold_v": 0.9359
+        },
+        "l25": {
+          "high_v": 1.962e-10,
+          "low_v": 1.8,
+          "power_w": 0.01858,
+          "threshold_v": 0.9359
+        }
+      },
+      "point_id": "p000082"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.293e-10,
+          "low_v": 1.8,
+          "power_w": 0.02992,
+          "threshold_v": 0.8816
+        },
+        "l07": {
+          "high_v": 2.025e-10,
+          "low_v": 1.8,
+          "power_w": 0.02992,
+          "threshold_v": 0.8816
+        },
+        "l13": {
+          "high_v": 1.822e-10,
+          "low_v": 1.8,
+          "power_w": 0.02992,
+          "threshold_v": 0.8815
+        },
+        "l19": {
+          "high_v": 1.663e-10,
+          "low_v": 1.8,
+          "power_w": 0.02992,
+          "threshold_v": 0.8814
+        },
+        "l25": {
+          "high_v": 1.536e-10,
+          "low_v": 1.8,
+          "power_w": 0.02992,
+          "threshold_v": 0.8813
+        }
+      },
+      "point_id": "p000083"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.369e-10,
+          "low_v": 1.8,
+          "power_w": 0.04379,
+          "threshold_v": 0.9108
+        },
+        "l07": {
+          "high_v": 2.118e-10,
+          "low_v": 1.8,
+          "power_w": 0.04379,
+          "threshold_v": 0.9109
+        },
+        "l13": {
+          "high_v": 1.929e-10,
+          "low_v": 1.8,
+          "power_w": 0.04379,
+          "threshold_v": 0.9109
+        },
+        "l19": {
+          "high_v": 1.781e-10,
+          "low_v": 1.8,
+          "power_w": 0.04379,
+          "threshold_v": 0.9108
+        },
+        "l25": {
+          "high_v": 1.663e-10,
+          "low_v": 1.8,
+          "power_w": 0.04379,
+          "threshold_v": 0.9107
+        }
+      },
+      "point_id": "p000084"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.436e-10,
+          "low_v": 1.8,
+          "power_w": 0.02488,
+          "threshold_v": 0.9249
+        },
+        "l07": {
+          "high_v": 2.151e-10,
+          "low_v": 1.8,
+          "power_w": 0.02488,
+          "threshold_v": 0.9251
+        },
+        "l13": {
+          "high_v": 1.935e-10,
+          "low_v": 1.8,
+          "power_w": 0.02488,
+          "threshold_v": 0.9252
+        },
+        "l19": {
+          "high_v": 1.767e-10,
+          "low_v": 1.8,
+          "power_w": 0.02488,
+          "threshold_v": 0.9252
+        },
+        "l25": {
+          "high_v": 1.631e-10,
+          "low_v": 1.8,
+          "power_w": 0.02488,
+          "threshold_v": 0.9253
+        }
+      },
+      "point_id": "p000085"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.03e-10,
+          "low_v": 1.8,
+          "power_w": 0.01766,
+          "threshold_v": 0.8666
+        },
+        "l07": {
+          "high_v": 1.771e-10,
+          "low_v": 1.8,
+          "power_w": 0.01766,
+          "threshold_v": 0.8667
+        },
+        "l13": {
+          "high_v": 1.575e-10,
+          "low_v": 1.8,
+          "power_w": 0.01766,
+          "threshold_v": 0.8668
+        },
+        "l19": {
+          "high_v": 1.421e-10,
+          "low_v": 1.8,
+          "power_w": 0.01766,
+          "threshold_v": 0.8668
+        },
+        "l25": {
+          "high_v": 1.297e-10,
+          "low_v": 1.8,
+          "power_w": 0.01766,
+          "threshold_v": 0.8667
+        }
+      },
+      "point_id": "p000086"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.925e-10,
+          "low_v": 1.8,
+          "power_w": 0.02557,
+          "threshold_v": 0.9288
+        },
+        "l07": {
+          "high_v": 2.616e-10,
+          "low_v": 1.8,
+          "power_w": 0.02557,
+          "threshold_v": 0.9288
+        },
+        "l13": {
+          "high_v": 2.383e-10,
+          "low_v": 1.8,
+          "power_w": 0.02557,
+          "threshold_v": 0.9287
+        },
+        "l19": {
+          "high_v": 2.202e-10,
+          "low_v": 1.8,
+          "power_w": 0.02557,
+          "threshold_v": 0.9287
+        },
+        "l25": {
+          "high_v": 2.057e-10,
+          "low_v": 1.8,
+          "power_w": 0.02557,
+          "threshold_v": 0.9286
+        }
+      },
+      "point_id": "p000087"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.441e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9295
+        },
+        "l07": {
+          "high_v": 2.166e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9295
+        },
+        "l13": {
+          "high_v": 1.959e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9295
+        },
+        "l19": {
+          "high_v": 1.797e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9294
+        },
+        "l25": {
+          "high_v": 1.667e-10,
+          "low_v": 1.8,
+          "power_w": 0.02086,
+          "threshold_v": 0.9293
+        }
+      },
+      "point_id": "p000088"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.344e-10,
+          "low_v": 1.8,
+          "power_w": 0.0171,
+          "threshold_v": 0.9419
+        },
+        "l07": {
+          "high_v": 2.064e-10,
+          "low_v": 1.8,
+          "power_w": 0.0171,
+          "threshold_v": 0.9419
+        },
+        "l13": {
+          "high_v": 1.851e-10,
+          "low_v": 1.8,
+          "power_w": 0.0171,
+          "threshold_v": 0.9419
+        },
+        "l19": {
+          "high_v": 1.685e-10,
+          "low_v": 1.8,
+          "power_w": 0.0171,
+          "threshold_v": 0.9419
+        },
+        "l25": {
+          "high_v": 1.552e-10,
+          "low_v": 1.8,
+          "power_w": 0.0171,
+          "threshold_v": 0.9418
+        }
+      },
+      "point_id": "p000089"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.394e-10,
+          "low_v": 1.8,
+          "power_w": 0.05453,
+          "threshold_v": 0.9015
+        },
+        "l07": {
+          "high_v": 2.098e-10,
+          "low_v": 1.8,
+          "power_w": 0.05453,
+          "threshold_v": 0.9017
+        },
+        "l13": {
+          "high_v": 1.875e-10,
+          "low_v": 1.8,
+          "power_w": 0.05453,
+          "threshold_v": 0.9017
+        },
+        "l19": {
+          "high_v": 1.699e-10,
+          "low_v": 1.8,
+          "power_w": 0.05453,
+          "threshold_v": 0.9017
+        },
+        "l25": {
+          "high_v": 1.559e-10,
+          "low_v": 1.8,
+          "power_w": 0.05453,
+          "threshold_v": 0.9017
+        }
+      },
+      "point_id": "p000090"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.537e-10,
+          "low_v": 1.8,
+          "power_w": 0.01781,
+          "threshold_v": 0.9281
+        },
+        "l07": {
+          "high_v": 2.209e-10,
+          "low_v": 1.8,
+          "power_w": 0.01781,
+          "threshold_v": 0.9282
+        },
+        "l13": {
+          "high_v": 1.96e-10,
+          "low_v": 1.8,
+          "power_w": 0.01781,
+          "threshold_v": 0.9282
+        },
+        "l19": {
+          "high_v": 1.766e-10,
+          "low_v": 1.8,
+          "power_w": 0.01781,
+          "threshold_v": 0.9282
+        },
+        "l25": {
+          "high_v": 1.609e-10,
+          "low_v": 1.8,
+          "power_w": 0.01781,
+          "threshold_v": 0.9281
+        }
+      },
+      "point_id": "p000091"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.943e-10,
+          "low_v": 1.8,
+          "power_w": 0.01556,
+          "threshold_v": 0.9437
+        },
+        "l07": {
+          "high_v": 2.585e-10,
+          "low_v": 1.8,
+          "power_w": 0.01556,
+          "threshold_v": 0.9437
+        },
+        "l13": {
+          "high_v": 2.315e-10,
+          "low_v": 1.8,
+          "power_w": 0.01556,
+          "threshold_v": 0.9438
+        },
+        "l19": {
+          "high_v": 2.104e-10,
+          "low_v": 1.8,
+          "power_w": 0.01556,
+          "threshold_v": 0.9437
+        },
+        "l25": {
+          "high_v": 1.934e-10,
+          "low_v": 1.8,
+          "power_w": 0.01556,
+          "threshold_v": 0.9437
+        }
+      },
+      "point_id": "p000092"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.58e-10,
+          "low_v": 1.8,
+          "power_w": 0.04045,
+          "threshold_v": 0.9084
+        },
+        "l07": {
+          "high_v": 2.246e-10,
+          "low_v": 1.8,
+          "power_w": 0.04045,
+          "threshold_v": 0.9086
+        },
+        "l13": {
+          "high_v": 1.993e-10,
+          "low_v": 1.8,
+          "power_w": 0.04045,
+          "threshold_v": 0.9086
+        },
+        "l19": {
+          "high_v": 1.796e-10,
+          "low_v": 1.8,
+          "power_w": 0.04045,
+          "threshold_v": 0.9086
+        },
+        "l25": {
+          "high_v": 1.636e-10,
+          "low_v": 1.8,
+          "power_w": 0.04045,
+          "threshold_v": 0.9086
+        }
+      },
+      "point_id": "p000093"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.08e-10,
+          "low_v": 1.8,
+          "power_w": 0.01398,
+          "threshold_v": 0.8621
+        },
+        "l07": {
+          "high_v": 1.807e-10,
+          "low_v": 1.8,
+          "power_w": 0.01398,
+          "threshold_v": 0.8622
+        },
+        "l13": {
+          "high_v": 1.6e-10,
+          "low_v": 1.8,
+          "power_w": 0.01398,
+          "threshold_v": 0.8622
+        },
+        "l19": {
+          "high_v": 1.437e-10,
+          "low_v": 1.8,
+          "power_w": 0.01398,
+          "threshold_v": 0.8622
+        },
+        "l25": {
+          "high_v": 1.306e-10,
+          "low_v": 1.8,
+          "power_w": 0.01398,
+          "threshold_v": 0.8621
+        }
+      },
+      "point_id": "p000094"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.281e-10,
+          "low_v": 1.8,
+          "power_w": 0.02905,
+          "threshold_v": 0.8799
+        },
+        "l07": {
+          "high_v": 1.983e-10,
+          "low_v": 1.8,
+          "power_w": 0.02905,
+          "threshold_v": 0.88
+        },
+        "l13": {
+          "high_v": 1.758e-10,
+          "low_v": 1.8,
+          "power_w": 0.02905,
+          "threshold_v": 0.88
+        },
+        "l19": {
+          "high_v": 1.581e-10,
+          "low_v": 1.8,
+          "power_w": 0.02905,
+          "threshold_v": 0.88
+        },
+        "l25": {
+          "high_v": 1.438e-10,
+          "low_v": 1.8,
+          "power_w": 0.02905,
+          "threshold_v": 0.8799
+        }
+      },
+      "point_id": "p000095"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.087e-10,
+          "low_v": 1.8,
+          "power_w": 0.03625,
+          "threshold_v": 0.8927
+        },
+        "l07": {
+          "high_v": 1.821e-10,
+          "low_v": 1.8,
+          "power_w": 0.03625,
+          "threshold_v": 0.8928
+        },
+        "l13": {
+          "high_v": 1.618e-10,
+          "low_v": 1.8,
+          "power_w": 0.03625,
+          "threshold_v": 0.8928
+        },
+        "l19": {
+          "high_v": 1.46e-10,
+          "low_v": 1.8,
+          "power_w": 0.03625,
+          "threshold_v": 0.8927
+        },
+        "l25": {
+          "high_v": 1.333e-10,
+          "low_v": 1.8,
+          "power_w": 0.03625,
+          "threshold_v": 0.8926
+        }
+      },
+      "point_id": "p000096"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.474e-10,
+          "low_v": 1.8,
+          "power_w": 0.01719,
+          "threshold_v": 0.93
+        },
+        "l07": {
+          "high_v": 2.162e-10,
+          "low_v": 1.8,
+          "power_w": 0.01719,
+          "threshold_v": 0.9301
+        },
+        "l13": {
+          "high_v": 1.927e-10,
+          "low_v": 1.8,
+          "power_w": 0.01719,
+          "threshold_v": 0.9302
+        },
+        "l19": {
+          "high_v": 1.742e-10,
+          "low_v": 1.8,
+          "power_w": 0.01719,
+          "threshold_v": 0.9302
+        },
+        "l25": {
+          "high_v": 1.594e-10,
+          "low_v": 1.8,
+          "power_w": 0.01719,
+          "threshold_v": 0.9302
+        }
+      },
+      "point_id": "p000097"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.853e-10,
+          "low_v": 1.8,
+          "power_w": 0.01653,
+          "threshold_v": 0.9396
+        },
+        "l07": {
+          "high_v": 2.525e-10,
+          "low_v": 1.8,
+          "power_w": 0.01653,
+          "threshold_v": 0.9396
+        },
+        "l13": {
+          "high_v": 2.277e-10,
+          "low_v": 1.8,
+          "power_w": 0.01653,
+          "threshold_v": 0.9396
+        },
+        "l19": {
+          "high_v": 2.084e-10,
+          "low_v": 1.8,
+          "power_w": 0.01653,
+          "threshold_v": 0.9396
+        },
+        "l25": {
+          "high_v": 1.929e-10,
+          "low_v": 1.8,
+          "power_w": 0.01653,
+          "threshold_v": 0.9395
+        }
+      },
+      "point_id": "p000098"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.229e-10,
+          "low_v": 1.8,
+          "power_w": 0.03067,
+          "threshold_v": 0.8824
+        },
+        "l07": {
+          "high_v": 1.952e-10,
+          "low_v": 1.8,
+          "power_w": 0.03067,
+          "threshold_v": 0.8825
+        },
+        "l13": {
+          "high_v": 1.742e-10,
+          "low_v": 1.8,
+          "power_w": 0.03067,
+          "threshold_v": 0.8825
+        },
+        "l19": {
+          "high_v": 1.578e-10,
+          "low_v": 1.8,
+          "power_w": 0.03067,
+          "threshold_v": 0.8825
+        },
+        "l25": {
+          "high_v": 1.446e-10,
+          "low_v": 1.8,
+          "power_w": 0.03067,
+          "threshold_v": 0.8824
+        }
+      },
+      "point_id": "p000099"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.549e-10,
+          "low_v": 1.8,
+          "power_w": 0.03238,
+          "threshold_v": 0.8854
+        },
+        "l07": {
+          "high_v": 2.22e-10,
+          "low_v": 1.8,
+          "power_w": 0.03238,
+          "threshold_v": 0.8855
+        },
+        "l13": {
+          "high_v": 1.97e-10,
+          "low_v": 1.8,
+          "power_w": 0.03238,
+          "threshold_v": 0.8854
+        },
+        "l19": {
+          "high_v": 1.775e-10,
+          "low_v": 1.8,
+          "power_w": 0.03238,
+          "threshold_v": 0.8853
+        },
+        "l25": {
+          "high_v": 1.617e-10,
+          "low_v": 1.8,
+          "power_w": 0.03238,
+          "threshold_v": 0.8852
+        }
+      },
+      "point_id": "p000100"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.477e-10,
+          "low_v": 1.8,
+          "power_w": 0.01427,
+          "threshold_v": 0.9321
+        },
+        "l07": {
+          "high_v": 2.169e-10,
+          "low_v": 1.8,
+          "power_w": 0.01427,
+          "threshold_v": 0.9321
+        },
+        "l13": {
+          "high_v": 1.935e-10,
+          "low_v": 1.8,
+          "power_w": 0.01427,
+          "threshold_v": 0.9321
+        },
+        "l19": {
+          "high_v": 1.753e-10,
+          "low_v": 1.8,
+          "power_w": 0.01427,
+          "threshold_v": 0.932
+        },
+        "l25": {
+          "high_v": 1.606e-10,
+          "low_v": 1.8,
+          "power_w": 0.01427,
+          "threshold_v": 0.932
+        }
+      },
+      "point_id": "p000101"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.213e-10,
+          "low_v": 1.8,
+          "power_w": 0.01427,
+          "threshold_v": 0.9351
+        },
+        "l07": {
+          "high_v": 1.936e-10,
+          "low_v": 1.8,
+          "power_w": 0.01427,
+          "threshold_v": 0.9351
+        },
+        "l13": {
+          "high_v": 1.726e-10,
+          "low_v": 1.8,
+          "power_w": 0.01427,
+          "threshold_v": 0.9351
+        },
+        "l19": {
+          "high_v": 1.562e-10,
+          "low_v": 1.8,
+          "power_w": 0.01427,
+          "threshold_v": 0.9351
+        },
+        "l25": {
+          "high_v": 1.43e-10,
+          "low_v": 1.8,
+          "power_w": 0.01427,
+          "threshold_v": 0.935
+        }
+      },
+      "point_id": "p000102"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.472e-10,
+          "low_v": 1.8,
+          "power_w": 0.03725,
+          "threshold_v": 0.9108
+        },
+        "l07": {
+          "high_v": 2.193e-10,
+          "low_v": 1.8,
+          "power_w": 0.03725,
+          "threshold_v": 0.9109
+        },
+        "l13": {
+          "high_v": 1.982e-10,
+          "low_v": 1.8,
+          "power_w": 0.03725,
+          "threshold_v": 0.9109
+        },
+        "l19": {
+          "high_v": 1.818e-10,
+          "low_v": 1.8,
+          "power_w": 0.03725,
+          "threshold_v": 0.9108
+        },
+        "l25": {
+          "high_v": 1.686e-10,
+          "low_v": 1.8,
+          "power_w": 0.03725,
+          "threshold_v": 0.9107
+        }
+      },
+      "point_id": "p000103"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.62e-10,
+          "low_v": 1.8,
+          "power_w": 0.03157,
+          "threshold_v": 0.9166
+        },
+        "l07": {
+          "high_v": 2.285e-10,
+          "low_v": 1.8,
+          "power_w": 0.03157,
+          "threshold_v": 0.9167
+        },
+        "l13": {
+          "high_v": 2.032e-10,
+          "low_v": 1.8,
+          "power_w": 0.03157,
+          "threshold_v": 0.9168
+        },
+        "l19": {
+          "high_v": 1.834e-10,
+          "low_v": 1.8,
+          "power_w": 0.03157,
+          "threshold_v": 0.9167
+        },
+        "l25": {
+          "high_v": 1.674e-10,
+          "low_v": 1.8,
+          "power_w": 0.03157,
+          "threshold_v": 0.9167
+        }
+      },
+      "point_id": "p000104"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.342e-10,
+          "low_v": 1.8,
+          "power_w": 0.02902,
+          "threshold_v": 0.917
+        },
+        "l07": {
+          "high_v": 2.043e-10,
+          "low_v": 1.8,
+          "power_w": 0.02902,
+          "threshold_v": 0.9171
+        },
+        "l13": {
+          "high_v": 1.816e-10,
+          "low_v": 1.8,
+          "power_w": 0.02902,
+          "threshold_v": 0.9172
+        },
+        "l19": {
+          "high_v": 1.638e-10,
+          "low_v": 1.8,
+          "power_w": 0.02902,
+          "threshold_v": 0.9172
+        },
+        "l25": {
+          "high_v": 1.496e-10,
+          "low_v": 1.8,
+          "power_w": 0.02902,
+          "threshold_v": 0.9171
+        }
+      },
+      "point_id": "p000105"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.418e-10,
+          "low_v": 1.8,
+          "power_w": 0.04049,
+          "threshold_v": 0.8903
+        },
+        "l07": {
+          "high_v": 2.111e-10,
+          "low_v": 1.8,
+          "power_w": 0.04049,
+          "threshold_v": 0.8904
+        },
+        "l13": {
+          "high_v": 1.88e-10,
+          "low_v": 1.8,
+          "power_w": 0.04049,
+          "threshold_v": 0.8905
+        },
+        "l19": {
+          "high_v": 1.698e-10,
+          "low_v": 1.8,
+          "power_w": 0.04049,
+          "threshold_v": 0.8904
+        },
+        "l25": {
+          "high_v": 1.552e-10,
+          "low_v": 1.8,
+          "power_w": 0.04049,
+          "threshold_v": 0.8904
+        }
+      },
+      "point_id": "p000106"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.331e-10,
+          "low_v": 1.8,
+          "power_w": 0.01512,
+          "threshold_v": 0.8582
+        },
+        "l07": {
+          "high_v": 2.022e-10,
+          "low_v": 1.8,
+          "power_w": 0.01512,
+          "threshold_v": 0.8582
+        },
+        "l13": {
+          "high_v": 1.788e-10,
+          "low_v": 1.8,
+          "power_w": 0.01512,
+          "threshold_v": 0.8582
+        },
+        "l19": {
+          "high_v": 1.605e-10,
+          "low_v": 1.8,
+          "power_w": 0.01512,
+          "threshold_v": 0.8582
+        },
+        "l25": {
+          "high_v": 1.458e-10,
+          "low_v": 1.8,
+          "power_w": 0.01512,
+          "threshold_v": 0.8582
+        }
+      },
+      "point_id": "p000107"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.74e-10,
+          "low_v": 1.8,
+          "power_w": 0.01853,
+          "threshold_v": 0.9436
+        },
+        "l07": {
+          "high_v": 2.445e-10,
+          "low_v": 1.8,
+          "power_w": 0.01853,
+          "threshold_v": 0.9436
+        },
+        "l13": {
+          "high_v": 2.223e-10,
+          "low_v": 1.8,
+          "power_w": 0.01853,
+          "threshold_v": 0.9435
+        },
+        "l19": {
+          "high_v": 2.05e-10,
+          "low_v": 1.8,
+          "power_w": 0.01853,
+          "threshold_v": 0.9435
+        },
+        "l25": {
+          "high_v": 1.912e-10,
+          "low_v": 1.8,
+          "power_w": 0.01853,
+          "threshold_v": 0.9435
+        }
+      },
+      "point_id": "p000108"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.455e-10,
+          "low_v": 1.8,
+          "power_w": 0.0326,
+          "threshold_v": 0.8878
+        },
+        "l07": {
+          "high_v": 2.137e-10,
+          "low_v": 1.8,
+          "power_w": 0.0326,
+          "threshold_v": 0.8879
+        },
+        "l13": {
+          "high_v": 1.896e-10,
+          "low_v": 1.8,
+          "power_w": 0.0326,
+          "threshold_v": 0.8879
+        },
+        "l19": {
+          "high_v": 1.707e-10,
+          "low_v": 1.8,
+          "power_w": 0.0326,
+          "threshold_v": 0.8878
+        },
+        "l25": {
+          "high_v": 1.555e-10,
+          "low_v": 1.8,
+          "power_w": 0.0326,
+          "threshold_v": 0.8877
+        }
+      },
+      "point_id": "p000109"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.179e-10,
+          "low_v": 1.8,
+          "power_w": 0.04975,
+          "threshold_v": 0.9015
+        },
+        "l07": {
+          "high_v": 1.894e-10,
+          "low_v": 1.8,
+          "power_w": 0.04975,
+          "threshold_v": 0.9015
+        },
+        "l13": {
+          "high_v": 1.677e-10,
+          "low_v": 1.8,
+          "power_w": 0.04975,
+          "threshold_v": 0.9013
+        },
+        "l19": {
+          "high_v": 1.508e-10,
+          "low_v": 1.8,
+          "power_w": 0.04975,
+          "threshold_v": 0.9012
+        },
+        "l25": {
+          "high_v": 1.372e-10,
+          "low_v": 1.8,
+          "power_w": 0.04975,
+          "threshold_v": 0.901
+        }
+      },
+      "point_id": "p000110"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.632e-10,
+          "low_v": 1.8,
+          "power_w": 0.01514,
+          "threshold_v": 0.9419
+        },
+        "l07": {
+          "high_v": 2.307e-10,
+          "low_v": 1.8,
+          "power_w": 0.01514,
+          "threshold_v": 0.9419
+        },
+        "l13": {
+          "high_v": 2.061e-10,
+          "low_v": 1.8,
+          "power_w": 0.01514,
+          "threshold_v": 0.9419
+        },
+        "l19": {
+          "high_v": 1.868e-10,
+          "low_v": 1.8,
+          "power_w": 0.01514,
+          "threshold_v": 0.9419
+        },
+        "l25": {
+          "high_v": 1.713e-10,
+          "low_v": 1.8,
+          "power_w": 0.01514,
+          "threshold_v": 0.9419
+        }
+      },
+      "point_id": "p000111"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.724e-10,
+          "low_v": 1.8,
+          "power_w": 0.01908,
+          "threshold_v": 0.8697
+        },
+        "l07": {
+          "high_v": 2.372e-10,
+          "low_v": 1.8,
+          "power_w": 0.01908,
+          "threshold_v": 0.8697
+        },
+        "l13": {
+          "high_v": 2.106e-10,
+          "low_v": 1.8,
+          "power_w": 0.01908,
+          "threshold_v": 0.8697
+        },
+        "l19": {
+          "high_v": 1.897e-10,
+          "low_v": 1.8,
+          "power_w": 0.01908,
+          "threshold_v": 0.8697
+        },
+        "l25": {
+          "high_v": 1.729e-10,
+          "low_v": 1.8,
+          "power_w": 0.01908,
+          "threshold_v": 0.8696
+        }
+      },
+      "point_id": "p000112"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.404e-10,
+          "low_v": 1.8,
+          "power_w": 0.03696,
+          "threshold_v": 0.9073
+        },
+        "l07": {
+          "high_v": 2.106e-10,
+          "low_v": 1.8,
+          "power_w": 0.03696,
+          "threshold_v": 0.9073
+        },
+        "l13": {
+          "high_v": 1.88e-10,
+          "low_v": 1.8,
+          "power_w": 0.03696,
+          "threshold_v": 0.9073
+        },
+        "l19": {
+          "high_v": 1.703e-10,
+          "low_v": 1.8,
+          "power_w": 0.03696,
+          "threshold_v": 0.9072
+        },
+        "l25": {
+          "high_v": 1.561e-10,
+          "low_v": 1.8,
+          "power_w": 0.03696,
+          "threshold_v": 0.907
+        }
+      },
+      "point_id": "p000113"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.304e-10,
+          "low_v": 1.8,
+          "power_w": 0.03398,
+          "threshold_v": 0.8868
+        },
+        "l07": {
+          "high_v": 2.006e-10,
+          "low_v": 1.8,
+          "power_w": 0.03398,
+          "threshold_v": 0.887
+        },
+        "l13": {
+          "high_v": 1.781e-10,
+          "low_v": 1.8,
+          "power_w": 0.03398,
+          "threshold_v": 0.8871
+        },
+        "l19": {
+          "high_v": 1.604e-10,
+          "low_v": 1.8,
+          "power_w": 0.03398,
+          "threshold_v": 0.8872
+        },
+        "l25": {
+          "high_v": 1.461e-10,
+          "low_v": 1.8,
+          "power_w": 0.03398,
+          "threshold_v": 0.8871
+        }
+      },
+      "point_id": "p000114"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.849e-10,
+          "low_v": 1.8,
+          "power_w": 0.02345,
+          "threshold_v": 0.9274
+        },
+        "l07": {
+          "high_v": 2.515e-10,
+          "low_v": 1.8,
+          "power_w": 0.02345,
+          "threshold_v": 0.9274
+        },
+        "l13": {
+          "high_v": 2.262e-10,
+          "low_v": 1.8,
+          "power_w": 0.02345,
+          "threshold_v": 0.9274
+        },
+        "l19": {
+          "high_v": 2.064e-10,
+          "low_v": 1.8,
+          "power_w": 0.02345,
+          "threshold_v": 0.9273
+        },
+        "l25": {
+          "high_v": 1.905e-10,
+          "low_v": 1.8,
+          "power_w": 0.02345,
+          "threshold_v": 0.9272
+        }
+      },
+      "point_id": "p000115"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.425e-10,
+          "low_v": 1.8,
+          "power_w": 0.01721,
+          "threshold_v": 0.9277
+        },
+        "l07": {
+          "high_v": 2.107e-10,
+          "low_v": 1.8,
+          "power_w": 0.01721,
+          "threshold_v": 0.9277
+        },
+        "l13": {
+          "high_v": 1.866e-10,
+          "low_v": 1.8,
+          "power_w": 0.01721,
+          "threshold_v": 0.9276
+        },
+        "l19": {
+          "high_v": 1.677e-10,
+          "low_v": 1.8,
+          "power_w": 0.01721,
+          "threshold_v": 0.9275
+        },
+        "l25": {
+          "high_v": 1.525e-10,
+          "low_v": 1.8,
+          "power_w": 0.01721,
+          "threshold_v": 0.9274
+        }
+      },
+      "point_id": "p000116"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.758e-10,
+          "low_v": 1.8,
+          "power_w": 0.03128,
+          "threshold_v": 0.9248
+        },
+        "l07": {
+          "high_v": 2.489e-10,
+          "low_v": 1.8,
+          "power_w": 0.03128,
+          "threshold_v": 0.9249
+        },
+        "l13": {
+          "high_v": 2.287e-10,
+          "low_v": 1.8,
+          "power_w": 0.03128,
+          "threshold_v": 0.9248
+        },
+        "l19": {
+          "high_v": 2.13e-10,
+          "low_v": 1.8,
+          "power_w": 0.03128,
+          "threshold_v": 0.9248
+        },
+        "l25": {
+          "high_v": 2.005e-10,
+          "low_v": 1.8,
+          "power_w": 0.03128,
+          "threshold_v": 0.9247
+        }
+      },
+      "point_id": "p000117"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.525e-10,
+          "low_v": 1.8,
+          "power_w": 0.03542,
+          "threshold_v": 0.8952
+        },
+        "l07": {
+          "high_v": 2.191e-10,
+          "low_v": 1.8,
+          "power_w": 0.03542,
+          "threshold_v": 0.8952
+        },
+        "l13": {
+          "high_v": 1.939e-10,
+          "low_v": 1.8,
+          "power_w": 0.03542,
+          "threshold_v": 0.8952
+        },
+        "l19": {
+          "high_v": 1.74e-10,
+          "low_v": 1.8,
+          "power_w": 0.03542,
+          "threshold_v": 0.8951
+        },
+        "l25": {
+          "high_v": 1.581e-10,
+          "low_v": 1.8,
+          "power_w": 0.03542,
+          "threshold_v": 0.8949
+        }
+      },
+      "point_id": "p000118"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.429e-10,
+          "low_v": 1.8,
+          "power_w": 0.01788,
+          "threshold_v": 0.9316
+        },
+        "l07": {
+          "high_v": 2.141e-10,
+          "low_v": 1.8,
+          "power_w": 0.01788,
+          "threshold_v": 0.9316
+        },
+        "l13": {
+          "high_v": 1.924e-10,
+          "low_v": 1.8,
+          "power_w": 0.01788,
+          "threshold_v": 0.9315
+        },
+        "l19": {
+          "high_v": 1.754e-10,
+          "low_v": 1.8,
+          "power_w": 0.01788,
+          "threshold_v": 0.9314
+        },
+        "l25": {
+          "high_v": 1.618e-10,
+          "low_v": 1.8,
+          "power_w": 0.01788,
+          "threshold_v": 0.9313
+        }
+      },
+      "point_id": "p000119"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.561e-10,
+          "low_v": 1.8,
+          "power_w": 0.03265,
+          "threshold_v": 0.8806
+        },
+        "l07": {
+          "high_v": 2.283e-10,
+          "low_v": 1.8,
+          "power_w": 0.03265,
+          "threshold_v": 0.8806
+        },
+        "l13": {
+          "high_v": 2.073e-10,
+          "low_v": 1.8,
+          "power_w": 0.03265,
+          "threshold_v": 0.8806
+        },
+        "l19": {
+          "high_v": 1.91e-10,
+          "low_v": 1.8,
+          "power_w": 0.03265,
+          "threshold_v": 0.8805
+        },
+        "l25": {
+          "high_v": 1.779e-10,
+          "low_v": 1.8,
+          "power_w": 0.03265,
+          "threshold_v": 0.8804
+        }
+      },
+      "point_id": "p000120"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.391e-10,
+          "low_v": 1.8,
+          "power_w": 0.03409,
+          "threshold_v": 0.8864
+        },
+        "l07": {
+          "high_v": 2.079e-10,
+          "low_v": 1.8,
+          "power_w": 0.03409,
+          "threshold_v": 0.8865
+        },
+        "l13": {
+          "high_v": 1.842e-10,
+          "low_v": 1.8,
+          "power_w": 0.03409,
+          "threshold_v": 0.8865
+        },
+        "l19": {
+          "high_v": 1.657e-10,
+          "low_v": 1.8,
+          "power_w": 0.03409,
+          "threshold_v": 0.8865
+        },
+        "l25": {
+          "high_v": 1.508e-10,
+          "low_v": 1.8,
+          "power_w": 0.03409,
+          "threshold_v": 0.8864
+        }
+      },
+      "point_id": "p000121"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.293e-10,
+          "low_v": 1.8,
+          "power_w": 0.02774,
+          "threshold_v": 0.8807
+        },
+        "l07": {
+          "high_v": 1.993e-10,
+          "low_v": 1.8,
+          "power_w": 0.02774,
+          "threshold_v": 0.8808
+        },
+        "l13": {
+          "high_v": 1.765e-10,
+          "low_v": 1.8,
+          "power_w": 0.02774,
+          "threshold_v": 0.8808
+        },
+        "l19": {
+          "high_v": 1.587e-10,
+          "low_v": 1.8,
+          "power_w": 0.02774,
+          "threshold_v": 0.8808
+        },
+        "l25": {
+          "high_v": 1.444e-10,
+          "low_v": 1.8,
+          "power_w": 0.02774,
+          "threshold_v": 0.8807
+        }
+      },
+      "point_id": "p000122"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.41e-10,
+          "low_v": 1.8,
+          "power_w": 0.03587,
+          "threshold_v": 0.8922
+        },
+        "l07": {
+          "high_v": 2.098e-10,
+          "low_v": 1.8,
+          "power_w": 0.03587,
+          "threshold_v": 0.8923
+        },
+        "l13": {
+          "high_v": 1.861e-10,
+          "low_v": 1.8,
+          "power_w": 0.03587,
+          "threshold_v": 0.8924
+        },
+        "l19": {
+          "high_v": 1.676e-10,
+          "low_v": 1.8,
+          "power_w": 0.03587,
+          "threshold_v": 0.8924
+        },
+        "l25": {
+          "high_v": 1.527e-10,
+          "low_v": 1.8,
+          "power_w": 0.03587,
+          "threshold_v": 0.8924
+        }
+      },
+      "point_id": "p000123"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.315e-10,
+          "low_v": 1.8,
+          "power_w": 0.03828,
+          "threshold_v": 0.9084
+        },
+        "l07": {
+          "high_v": 2.016e-10,
+          "low_v": 1.8,
+          "power_w": 0.03828,
+          "threshold_v": 0.9085
+        },
+        "l13": {
+          "high_v": 1.788e-10,
+          "low_v": 1.8,
+          "power_w": 0.03828,
+          "threshold_v": 0.9085
+        },
+        "l19": {
+          "high_v": 1.61e-10,
+          "low_v": 1.8,
+          "power_w": 0.03828,
+          "threshold_v": 0.9085
+        },
+        "l25": {
+          "high_v": 1.467e-10,
+          "low_v": 1.8,
+          "power_w": 0.03828,
+          "threshold_v": 0.9084
+        }
+      },
+      "point_id": "p000124"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.17e-10,
+          "low_v": 1.8,
+          "power_w": 0.01705,
+          "threshold_v": 0.8569
+        },
+        "l07": {
+          "high_v": 1.885e-10,
+          "low_v": 1.8,
+          "power_w": 0.01705,
+          "threshold_v": 0.8569
+        },
+        "l13": {
+          "high_v": 1.669e-10,
+          "low_v": 1.8,
+          "power_w": 0.01705,
+          "threshold_v": 0.8569
+        },
+        "l19": {
+          "high_v": 1.5e-10,
+          "low_v": 1.8,
+          "power_w": 0.01705,
+          "threshold_v": 0.8569
+        },
+        "l25": {
+          "high_v": 1.364e-10,
+          "low_v": 1.8,
+          "power_w": 0.01705,
+          "threshold_v": 0.8568
+        }
+      },
+      "point_id": "p000125"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.986e-10,
+          "low_v": 1.8,
+          "power_w": 0.01611,
+          "threshold_v": 0.9453
+        },
+        "l07": {
+          "high_v": 2.687e-10,
+          "low_v": 1.8,
+          "power_w": 0.01611,
+          "threshold_v": 0.9453
+        },
+        "l13": {
+          "high_v": 2.463e-10,
+          "low_v": 1.8,
+          "power_w": 0.01611,
+          "threshold_v": 0.9453
+        },
+        "l19": {
+          "high_v": 2.288e-10,
+          "low_v": 1.8,
+          "power_w": 0.01611,
+          "threshold_v": 0.9453
+        },
+        "l25": {
+          "high_v": 2.148e-10,
+          "low_v": 1.8,
+          "power_w": 0.01611,
+          "threshold_v": 0.9453
+        }
+      },
+      "point_id": "p000126"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.131e-10,
+          "low_v": 1.8,
+          "power_w": 0.017,
+          "threshold_v": 0.8602
+        },
+        "l07": {
+          "high_v": 1.856e-10,
+          "low_v": 1.8,
+          "power_w": 0.017,
+          "threshold_v": 0.8602
+        },
+        "l13": {
+          "high_v": 1.648e-10,
+          "low_v": 1.8,
+          "power_w": 0.017,
+          "threshold_v": 0.8601
+        },
+        "l19": {
+          "high_v": 1.486e-10,
+          "low_v": 1.8,
+          "power_w": 0.017,
+          "threshold_v": 0.8601
+        },
+        "l25": {
+          "high_v": 1.355e-10,
+          "low_v": 1.8,
+          "power_w": 0.017,
+          "threshold_v": 0.86
+        }
+      },
+      "point_id": "p000127"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.274e-10,
+          "low_v": 1.8,
+          "power_w": 0.01716,
+          "threshold_v": 0.8618
+        },
+        "l07": {
+          "high_v": 1.978e-10,
+          "low_v": 1.8,
+          "power_w": 0.01716,
+          "threshold_v": 0.8618
+        },
+        "l13": {
+          "high_v": 1.754e-10,
+          "low_v": 1.8,
+          "power_w": 0.01716,
+          "threshold_v": 0.8618
+        },
+        "l19": {
+          "high_v": 1.578e-10,
+          "low_v": 1.8,
+          "power_w": 0.01716,
+          "threshold_v": 0.8618
+        },
+        "l25": {
+          "high_v": 1.437e-10,
+          "low_v": 1.8,
+          "power_w": 0.01716,
+          "threshold_v": 0.8618
+        }
+      },
+      "point_id": "p000128"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.566e-10,
+          "low_v": 1.8,
+          "power_w": 0.01334,
+          "threshold_v": 0.9402
+        },
+        "l07": {
+          "high_v": 2.275e-10,
+          "low_v": 1.8,
+          "power_w": 0.01334,
+          "threshold_v": 0.9402
+        },
+        "l13": {
+          "high_v": 2.056e-10,
+          "low_v": 1.8,
+          "power_w": 0.01334,
+          "threshold_v": 0.9402
+        },
+        "l19": {
+          "high_v": 1.885e-10,
+          "low_v": 1.8,
+          "power_w": 0.01334,
+          "threshold_v": 0.9402
+        },
+        "l25": {
+          "high_v": 1.747e-10,
+          "low_v": 1.8,
+          "power_w": 0.01334,
+          "threshold_v": 0.9401
+        }
+      },
+      "point_id": "p000129"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.179e-10,
+          "low_v": 1.8,
+          "power_w": 0.08799,
+          "threshold_v": 0.9002
+        },
+        "l07": {
+          "high_v": 1.905e-10,
+          "low_v": 1.8,
+          "power_w": 0.08799,
+          "threshold_v": 0.9003
+        },
+        "l13": {
+          "high_v": 1.697e-10,
+          "low_v": 1.8,
+          "power_w": 0.08799,
+          "threshold_v": 0.9002
+        },
+        "l19": {
+          "high_v": 1.534e-10,
+          "low_v": 1.8,
+          "power_w": 0.08799,
+          "threshold_v": 0.9001
+        },
+        "l25": {
+          "high_v": 1.403e-10,
+          "low_v": 1.8,
+          "power_w": 0.08799,
+          "threshold_v": 0.8999
+        }
+      },
+      "point_id": "p000130"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.668e-10,
+          "low_v": 1.8,
+          "power_w": 0.01575,
+          "threshold_v": 0.9335
+        },
+        "l07": {
+          "high_v": 2.364e-10,
+          "low_v": 1.8,
+          "power_w": 0.01575,
+          "threshold_v": 0.9335
+        },
+        "l13": {
+          "high_v": 2.135e-10,
+          "low_v": 1.8,
+          "power_w": 0.01575,
+          "threshold_v": 0.9335
+        },
+        "l19": {
+          "high_v": 1.956e-10,
+          "low_v": 1.8,
+          "power_w": 0.01575,
+          "threshold_v": 0.9334
+        },
+        "l25": {
+          "high_v": 1.812e-10,
+          "low_v": 1.8,
+          "power_w": 0.01575,
+          "threshold_v": 0.9333
+        }
+      },
+      "point_id": "p000131"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.568e-10,
+          "low_v": 1.8,
+          "power_w": 0.01642,
+          "threshold_v": 0.9367
+        },
+        "l07": {
+          "high_v": 2.269e-10,
+          "low_v": 1.8,
+          "power_w": 0.01642,
+          "threshold_v": 0.9366
+        },
+        "l13": {
+          "high_v": 2.043e-10,
+          "low_v": 1.8,
+          "power_w": 0.01642,
+          "threshold_v": 0.9366
+        },
+        "l19": {
+          "high_v": 1.866e-10,
+          "low_v": 1.8,
+          "power_w": 0.01642,
+          "threshold_v": 0.9365
+        },
+        "l25": {
+          "high_v": 1.724e-10,
+          "low_v": 1.8,
+          "power_w": 0.01642,
+          "threshold_v": 0.9364
+        }
+      },
+      "point_id": "p000132"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.632e-10,
+          "low_v": 1.8,
+          "power_w": 0.02914,
+          "threshold_v": 0.9158
+        },
+        "l07": {
+          "high_v": 2.299e-10,
+          "low_v": 1.8,
+          "power_w": 0.02914,
+          "threshold_v": 0.9159
+        },
+        "l13": {
+          "high_v": 2.047e-10,
+          "low_v": 1.8,
+          "power_w": 0.02914,
+          "threshold_v": 0.9159
+        },
+        "l19": {
+          "high_v": 1.85e-10,
+          "low_v": 1.8,
+          "power_w": 0.02914,
+          "threshold_v": 0.9159
+        },
+        "l25": {
+          "high_v": 1.691e-10,
+          "low_v": 1.8,
+          "power_w": 0.02914,
+          "threshold_v": 0.9158
+        }
+      },
+      "point_id": "p000133"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.483e-10,
+          "low_v": 1.8,
+          "power_w": 0.01527,
+          "threshold_v": 0.9426
+        },
+        "l07": {
+          "high_v": 2.202e-10,
+          "low_v": 1.8,
+          "power_w": 0.01527,
+          "threshold_v": 0.9426
+        },
+        "l13": {
+          "high_v": 1.99e-10,
+          "low_v": 1.8,
+          "power_w": 0.01527,
+          "threshold_v": 0.9426
+        },
+        "l19": {
+          "high_v": 1.825e-10,
+          "low_v": 1.8,
+          "power_w": 0.01527,
+          "threshold_v": 0.9426
+        },
+        "l25": {
+          "high_v": 1.692e-10,
+          "low_v": 1.8,
+          "power_w": 0.01527,
+          "threshold_v": 0.9426
+        }
+      },
+      "point_id": "p000134"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.618e-10,
+          "low_v": 1.8,
+          "power_w": 0.02928,
+          "threshold_v": 0.9113
+        },
+        "l07": {
+          "high_v": 2.271e-10,
+          "low_v": 1.8,
+          "power_w": 0.02928,
+          "threshold_v": 0.9115
+        },
+        "l13": {
+          "high_v": 2.008e-10,
+          "low_v": 1.8,
+          "power_w": 0.02928,
+          "threshold_v": 0.9115
+        },
+        "l19": {
+          "high_v": 1.801e-10,
+          "low_v": 1.8,
+          "power_w": 0.02928,
+          "threshold_v": 0.9115
+        },
+        "l25": {
+          "high_v": 1.636e-10,
+          "low_v": 1.8,
+          "power_w": 0.02928,
+          "threshold_v": 0.9114
+        }
+      },
+      "point_id": "p000135"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.38e-10,
+          "low_v": 1.8,
+          "power_w": 0.03071,
+          "threshold_v": 0.881
+        },
+        "l07": {
+          "high_v": 2.076e-10,
+          "low_v": 1.8,
+          "power_w": 0.03071,
+          "threshold_v": 0.881
+        },
+        "l13": {
+          "high_v": 1.846e-10,
+          "low_v": 1.8,
+          "power_w": 0.03071,
+          "threshold_v": 0.8809
+        },
+        "l19": {
+          "high_v": 1.666e-10,
+          "low_v": 1.8,
+          "power_w": 0.03071,
+          "threshold_v": 0.8808
+        },
+        "l25": {
+          "high_v": 1.521e-10,
+          "low_v": 1.8,
+          "power_w": 0.03071,
+          "threshold_v": 0.8807
+        }
+      },
+      "point_id": "p000136"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.71e-10,
+          "low_v": 1.8,
+          "power_w": 0.0291,
+          "threshold_v": 0.9236
+        },
+        "l07": {
+          "high_v": 2.434e-10,
+          "low_v": 1.8,
+          "power_w": 0.0291,
+          "threshold_v": 0.9235
+        },
+        "l13": {
+          "high_v": 2.227e-10,
+          "low_v": 1.8,
+          "power_w": 0.0291,
+          "threshold_v": 0.9234
+        },
+        "l19": {
+          "high_v": 2.065e-10,
+          "low_v": 1.8,
+          "power_w": 0.0291,
+          "threshold_v": 0.9232
+        },
+        "l25": {
+          "high_v": 1.936e-10,
+          "low_v": 1.8,
+          "power_w": 0.0291,
+          "threshold_v": 0.9231
+        }
+      },
+      "point_id": "p000137"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.239e-10,
+          "low_v": 1.8,
+          "power_w": 0.01768,
+          "threshold_v": 0.8622
+        },
+        "l07": {
+          "high_v": 1.956e-10,
+          "low_v": 1.8,
+          "power_w": 0.01768,
+          "threshold_v": 0.8622
+        },
+        "l13": {
+          "high_v": 1.742e-10,
+          "low_v": 1.8,
+          "power_w": 0.01768,
+          "threshold_v": 0.8622
+        },
+        "l19": {
+          "high_v": 1.574e-10,
+          "low_v": 1.8,
+          "power_w": 0.01768,
+          "threshold_v": 0.8622
+        },
+        "l25": {
+          "high_v": 1.439e-10,
+          "low_v": 1.8,
+          "power_w": 0.01768,
+          "threshold_v": 0.8621
+        }
+      },
+      "point_id": "p000138"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.582e-10,
+          "low_v": 1.8,
+          "power_w": 0.02459,
+          "threshold_v": 0.9238
+        },
+        "l07": {
+          "high_v": 2.266e-10,
+          "low_v": 1.8,
+          "power_w": 0.02459,
+          "threshold_v": 0.9238
+        },
+        "l13": {
+          "high_v": 2.027e-10,
+          "low_v": 1.8,
+          "power_w": 0.02459,
+          "threshold_v": 0.9237
+        },
+        "l19": {
+          "high_v": 1.84e-10,
+          "low_v": 1.8,
+          "power_w": 0.02459,
+          "threshold_v": 0.9236
+        },
+        "l25": {
+          "high_v": 1.69e-10,
+          "low_v": 1.8,
+          "power_w": 0.02459,
+          "threshold_v": 0.9234
+        }
+      },
+      "point_id": "p000139"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.784e-10,
+          "low_v": 1.8,
+          "power_w": 0.0219,
+          "threshold_v": 0.9282
+        },
+        "l07": {
+          "high_v": 2.46e-10,
+          "low_v": 1.8,
+          "power_w": 0.0219,
+          "threshold_v": 0.9282
+        },
+        "l13": {
+          "high_v": 2.216e-10,
+          "low_v": 1.8,
+          "power_w": 0.0219,
+          "threshold_v": 0.9282
+        },
+        "l19": {
+          "high_v": 2.026e-10,
+          "low_v": 1.8,
+          "power_w": 0.0219,
+          "threshold_v": 0.9281
+        },
+        "l25": {
+          "high_v": 1.873e-10,
+          "low_v": 1.8,
+          "power_w": 0.0219,
+          "threshold_v": 0.928
+        }
+      },
+      "point_id": "p000140"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.104e-10,
+          "low_v": 1.8,
+          "power_w": 0.03134,
+          "threshold_v": 0.8821
+        },
+        "l07": {
+          "high_v": 1.829e-10,
+          "low_v": 1.8,
+          "power_w": 0.03134,
+          "threshold_v": 0.8822
+        },
+        "l13": {
+          "high_v": 1.621e-10,
+          "low_v": 1.8,
+          "power_w": 0.03134,
+          "threshold_v": 0.8822
+        },
+        "l19": {
+          "high_v": 1.458e-10,
+          "low_v": 1.8,
+          "power_w": 0.03134,
+          "threshold_v": 0.8822
+        },
+        "l25": {
+          "high_v": 1.327e-10,
+          "low_v": 1.8,
+          "power_w": 0.03134,
+          "threshold_v": 0.8821
+        }
+      },
+      "point_id": "p000141"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 3.182e-10,
+          "low_v": 1.8,
+          "power_w": 0.01481,
+          "threshold_v": 0.9477
+        },
+        "l07": {
+          "high_v": 2.809e-10,
+          "low_v": 1.8,
+          "power_w": 0.01481,
+          "threshold_v": 0.9477
+        },
+        "l13": {
+          "high_v": 2.528e-10,
+          "low_v": 1.8,
+          "power_w": 0.01481,
+          "threshold_v": 0.9477
+        },
+        "l19": {
+          "high_v": 2.308e-10,
+          "low_v": 1.8,
+          "power_w": 0.01481,
+          "threshold_v": 0.9477
+        },
+        "l25": {
+          "high_v": 2.131e-10,
+          "low_v": 1.8,
+          "power_w": 0.01481,
+          "threshold_v": 0.9477
+        }
+      },
+      "point_id": "p000142"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.548e-10,
+          "low_v": 1.8,
+          "power_w": 0.01663,
+          "threshold_v": 0.9396
+        },
+        "l07": {
+          "high_v": 2.244e-10,
+          "low_v": 1.8,
+          "power_w": 0.01663,
+          "threshold_v": 0.9396
+        },
+        "l13": {
+          "high_v": 2.014e-10,
+          "low_v": 1.8,
+          "power_w": 0.01663,
+          "threshold_v": 0.9395
+        },
+        "l19": {
+          "high_v": 1.834e-10,
+          "low_v": 1.8,
+          "power_w": 0.01663,
+          "threshold_v": 0.9395
+        },
+        "l25": {
+          "high_v": 1.69e-10,
+          "low_v": 1.8,
+          "power_w": 0.01663,
+          "threshold_v": 0.9394
+        }
+      },
+      "point_id": "p000143"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.852e-10,
+          "low_v": 1.8,
+          "power_w": 0.01455,
+          "threshold_v": 0.9414
+        },
+        "l07": {
+          "high_v": 2.546e-10,
+          "low_v": 1.8,
+          "power_w": 0.01455,
+          "threshold_v": 0.9414
+        },
+        "l13": {
+          "high_v": 2.315e-10,
+          "low_v": 1.8,
+          "power_w": 0.01455,
+          "threshold_v": 0.9414
+        },
+        "l19": {
+          "high_v": 2.135e-10,
+          "low_v": 1.8,
+          "power_w": 0.01455,
+          "threshold_v": 0.9414
+        },
+        "l25": {
+          "high_v": 1.99e-10,
+          "low_v": 1.8,
+          "power_w": 0.01455,
+          "threshold_v": 0.9413
+        }
+      },
+      "point_id": "p000144"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.19e-10,
+          "low_v": 1.8,
+          "power_w": 0.03871,
+          "threshold_v": 0.9086
+        },
+        "l07": {
+          "high_v": 1.912e-10,
+          "low_v": 1.8,
+          "power_w": 0.03871,
+          "threshold_v": 0.9087
+        },
+        "l13": {
+          "high_v": 1.702e-10,
+          "low_v": 1.8,
+          "power_w": 0.03871,
+          "threshold_v": 0.9088
+        },
+        "l19": {
+          "high_v": 1.537e-10,
+          "low_v": 1.8,
+          "power_w": 0.03871,
+          "threshold_v": 0.9088
+        },
+        "l25": {
+          "high_v": 1.405e-10,
+          "low_v": 1.8,
+          "power_w": 0.03871,
+          "threshold_v": 0.9088
+        }
+      },
+      "point_id": "p000145"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.84e-10,
+          "low_v": 1.8,
+          "power_w": 0.04158,
+          "threshold_v": 0.9054
+        },
+        "l07": {
+          "high_v": 2.517e-10,
+          "low_v": 1.8,
+          "power_w": 0.04158,
+          "threshold_v": 0.9056
+        },
+        "l13": {
+          "high_v": 2.274e-10,
+          "low_v": 1.8,
+          "power_w": 0.04158,
+          "threshold_v": 0.9056
+        },
+        "l19": {
+          "high_v": 2.084e-10,
+          "low_v": 1.8,
+          "power_w": 0.04158,
+          "threshold_v": 0.9055
+        },
+        "l25": {
+          "high_v": 1.932e-10,
+          "low_v": 1.8,
+          "power_w": 0.04158,
+          "threshold_v": 0.9054
+        }
+      },
+      "point_id": "p000146"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.326e-10,
+          "low_v": 1.8,
+          "power_w": 0.041,
+          "threshold_v": 0.8861
+        },
+        "l07": {
+          "high_v": 2.044e-10,
+          "low_v": 1.8,
+          "power_w": 0.041,
+          "threshold_v": 0.8862
+        },
+        "l13": {
+          "high_v": 1.83e-10,
+          "low_v": 1.8,
+          "power_w": 0.041,
+          "threshold_v": 0.8862
+        },
+        "l19": {
+          "high_v": 1.663e-10,
+          "low_v": 1.8,
+          "power_w": 0.041,
+          "threshold_v": 0.8861
+        },
+        "l25": {
+          "high_v": 1.529e-10,
+          "low_v": 1.8,
+          "power_w": 0.041,
+          "threshold_v": 0.8861
+        }
+      },
+      "point_id": "p000147"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 3.068e-10,
+          "low_v": 1.8,
+          "power_w": 0.01757,
+          "threshold_v": 0.9409
+        },
+        "l07": {
+          "high_v": 2.738e-10,
+          "low_v": 1.8,
+          "power_w": 0.01757,
+          "threshold_v": 0.9409
+        },
+        "l13": {
+          "high_v": 2.489e-10,
+          "low_v": 1.8,
+          "power_w": 0.01757,
+          "threshold_v": 0.9409
+        },
+        "l19": {
+          "high_v": 2.295e-10,
+          "low_v": 1.8,
+          "power_w": 0.01757,
+          "threshold_v": 0.9409
+        },
+        "l25": {
+          "high_v": 2.14e-10,
+          "low_v": 1.8,
+          "power_w": 0.01757,
+          "threshold_v": 0.9409
+        }
+      },
+      "point_id": "p000148"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.621e-10,
+          "low_v": 1.8,
+          "power_w": 0.01496,
+          "threshold_v": 0.9334
+        },
+        "l07": {
+          "high_v": 2.29e-10,
+          "low_v": 1.8,
+          "power_w": 0.01496,
+          "threshold_v": 0.9334
+        },
+        "l13": {
+          "high_v": 2.039e-10,
+          "low_v": 1.8,
+          "power_w": 0.01496,
+          "threshold_v": 0.9333
+        },
+        "l19": {
+          "high_v": 1.842e-10,
+          "low_v": 1.8,
+          "power_w": 0.01496,
+          "threshold_v": 0.9332
+        },
+        "l25": {
+          "high_v": 1.684e-10,
+          "low_v": 1.8,
+          "power_w": 0.01496,
+          "threshold_v": 0.9331
+        }
+      },
+      "point_id": "p000149"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.742e-10,
+          "low_v": 1.8,
+          "power_w": 0.03691,
+          "threshold_v": 0.9056
+        },
+        "l07": {
+          "high_v": 2.39e-10,
+          "low_v": 1.8,
+          "power_w": 0.03691,
+          "threshold_v": 0.9056
+        },
+        "l13": {
+          "high_v": 2.122e-10,
+          "low_v": 1.8,
+          "power_w": 0.03691,
+          "threshold_v": 0.9055
+        },
+        "l19": {
+          "high_v": 1.913e-10,
+          "low_v": 1.8,
+          "power_w": 0.03691,
+          "threshold_v": 0.9054
+        },
+        "l25": {
+          "high_v": 1.745e-10,
+          "low_v": 1.8,
+          "power_w": 0.03691,
+          "threshold_v": 0.9052
+        }
+      },
+      "point_id": "p000150"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.172e-10,
+          "low_v": 1.8,
+          "power_w": 0.06012,
+          "threshold_v": 0.9006
+        },
+        "l07": {
+          "high_v": 1.887e-10,
+          "low_v": 1.8,
+          "power_w": 0.06012,
+          "threshold_v": 0.9007
+        },
+        "l13": {
+          "high_v": 1.67e-10,
+          "low_v": 1.8,
+          "power_w": 0.06012,
+          "threshold_v": 0.9008
+        },
+        "l19": {
+          "high_v": 1.501e-10,
+          "low_v": 1.8,
+          "power_w": 0.06012,
+          "threshold_v": 0.9007
+        },
+        "l25": {
+          "high_v": 1.365e-10,
+          "low_v": 1.8,
+          "power_w": 0.06012,
+          "threshold_v": 0.9006
+        }
+      },
+      "point_id": "p000151"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.986e-10,
+          "low_v": 1.8,
+          "power_w": 0.01706,
+          "threshold_v": 0.9362
+        },
+        "l07": {
+          "high_v": 2.693e-10,
+          "low_v": 1.8,
+          "power_w": 0.01706,
+          "threshold_v": 0.9363
+        },
+        "l13": {
+          "high_v": 2.473e-10,
+          "low_v": 1.8,
+          "power_w": 0.01706,
+          "threshold_v": 0.9362
+        },
+        "l19": {
+          "high_v": 2.303e-10,
+          "low_v": 1.8,
+          "power_w": 0.01706,
+          "threshold_v": 0.9362
+        },
+        "l25": {
+          "high_v": 2.166e-10,
+          "low_v": 1.8,
+          "power_w": 0.01706,
+          "threshold_v": 0.9362
+        }
+      },
+      "point_id": "p000152"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.437e-10,
+          "low_v": 1.8,
+          "power_w": 0.04465,
+          "threshold_v": 0.8935
+        },
+        "l07": {
+          "high_v": 2.139e-10,
+          "low_v": 1.8,
+          "power_w": 0.04465,
+          "threshold_v": 0.8936
+        },
+        "l13": {
+          "high_v": 1.914e-10,
+          "low_v": 1.8,
+          "power_w": 0.04465,
+          "threshold_v": 0.8935
+        },
+        "l19": {
+          "high_v": 1.737e-10,
+          "low_v": 1.8,
+          "power_w": 0.04465,
+          "threshold_v": 0.8934
+        },
+        "l25": {
+          "high_v": 1.596e-10,
+          "low_v": 1.8,
+          "power_w": 0.04465,
+          "threshold_v": 0.8933
+        }
+      },
+      "point_id": "p000153"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.613e-10,
+          "low_v": 1.8,
+          "power_w": 0.01697,
+          "threshold_v": 0.9472
+        },
+        "l07": {
+          "high_v": 2.321e-10,
+          "low_v": 1.8,
+          "power_w": 0.01697,
+          "threshold_v": 0.9473
+        },
+        "l13": {
+          "high_v": 2.1e-10,
+          "low_v": 1.8,
+          "power_w": 0.01697,
+          "threshold_v": 0.9473
+        },
+        "l19": {
+          "high_v": 1.927e-10,
+          "low_v": 1.8,
+          "power_w": 0.01697,
+          "threshold_v": 0.9473
+        },
+        "l25": {
+          "high_v": 1.788e-10,
+          "low_v": 1.8,
+          "power_w": 0.01697,
+          "threshold_v": 0.9473
+        }
+      },
+      "point_id": "p000154"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.395e-10,
+          "low_v": 1.8,
+          "power_w": 0.03993,
+          "threshold_v": 0.9082
+        },
+        "l07": {
+          "high_v": 2.139e-10,
+          "low_v": 1.8,
+          "power_w": 0.03993,
+          "threshold_v": 0.9081
+        },
+        "l13": {
+          "high_v": 1.947e-10,
+          "low_v": 1.8,
+          "power_w": 0.03993,
+          "threshold_v": 0.908
+        },
+        "l19": {
+          "high_v": 1.797e-10,
+          "low_v": 1.8,
+          "power_w": 0.03993,
+          "threshold_v": 0.9078
+        },
+        "l25": {
+          "high_v": 1.677e-10,
+          "low_v": 1.8,
+          "power_w": 0.03993,
+          "threshold_v": 0.9076
+        }
+      },
+      "point_id": "p000155"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.343e-10,
+          "low_v": 1.8,
+          "power_w": 0.03228,
+          "threshold_v": 0.884
+        },
+        "l07": {
+          "high_v": 2.047e-10,
+          "low_v": 1.8,
+          "power_w": 0.03228,
+          "threshold_v": 0.8842
+        },
+        "l13": {
+          "high_v": 1.822e-10,
+          "low_v": 1.8,
+          "power_w": 0.03228,
+          "threshold_v": 0.8844
+        },
+        "l19": {
+          "high_v": 1.646e-10,
+          "low_v": 1.8,
+          "power_w": 0.03228,
+          "threshold_v": 0.8844
+        },
+        "l25": {
+          "high_v": 1.504e-10,
+          "low_v": 1.8,
+          "power_w": 0.03228,
+          "threshold_v": 0.8844
+        }
+      },
+      "point_id": "p000156"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 1.932e-10,
+          "low_v": 1.8,
+          "power_w": 0.01439,
+          "threshold_v": 0.8557
+        },
+        "l07": {
+          "high_v": 1.678e-10,
+          "low_v": 1.8,
+          "power_w": 0.01439,
+          "threshold_v": 0.8557
+        },
+        "l13": {
+          "high_v": 1.486e-10,
+          "low_v": 1.8,
+          "power_w": 0.01439,
+          "threshold_v": 0.8557
+        },
+        "l19": {
+          "high_v": 1.335e-10,
+          "low_v": 1.8,
+          "power_w": 0.01439,
+          "threshold_v": 0.8557
+        },
+        "l25": {
+          "high_v": 1.214e-10,
+          "low_v": 1.8,
+          "power_w": 0.01439,
+          "threshold_v": 0.8557
+        }
+      },
+      "point_id": "p000157"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.349e-10,
+          "low_v": 1.8,
+          "power_w": 0.01744,
+          "threshold_v": 0.9323
+        },
+        "l07": {
+          "high_v": 2.057e-10,
+          "low_v": 1.8,
+          "power_w": 0.01744,
+          "threshold_v": 0.9323
+        },
+        "l13": {
+          "high_v": 1.836e-10,
+          "low_v": 1.8,
+          "power_w": 0.01744,
+          "threshold_v": 0.9323
+        },
+        "l19": {
+          "high_v": 1.663e-10,
+          "low_v": 1.8,
+          "power_w": 0.01744,
+          "threshold_v": 0.9323
+        },
+        "l25": {
+          "high_v": 1.524e-10,
+          "low_v": 1.8,
+          "power_w": 0.01744,
+          "threshold_v": 0.9322
+        }
+      },
+      "point_id": "p000158"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.469e-10,
+          "low_v": 1.8,
+          "power_w": 0.02453,
+          "threshold_v": 0.8733
+        },
+        "l07": {
+          "high_v": 2.144e-10,
+          "low_v": 1.8,
+          "power_w": 0.02453,
+          "threshold_v": 0.8734
+        },
+        "l13": {
+          "high_v": 1.897e-10,
+          "low_v": 1.8,
+          "power_w": 0.02453,
+          "threshold_v": 0.8734
+        },
+        "l19": {
+          "high_v": 1.704e-10,
+          "low_v": 1.8,
+          "power_w": 0.02453,
+          "threshold_v": 0.8734
+        },
+        "l25": {
+          "high_v": 1.548e-10,
+          "low_v": 1.8,
+          "power_w": 0.02453,
+          "threshold_v": 0.8734
+        }
+      },
+      "point_id": "p000159"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.542e-10,
+          "low_v": 1.8,
+          "power_w": 0.0143,
+          "threshold_v": 0.9453
+        },
+        "l07": {
+          "high_v": 2.223e-10,
+          "low_v": 1.8,
+          "power_w": 0.0143,
+          "threshold_v": 0.9453
+        },
+        "l13": {
+          "high_v": 1.982e-10,
+          "low_v": 1.8,
+          "power_w": 0.0143,
+          "threshold_v": 0.9453
+        },
+        "l19": {
+          "high_v": 1.793e-10,
+          "low_v": 1.8,
+          "power_w": 0.0143,
+          "threshold_v": 0.9453
+        },
+        "l25": {
+          "high_v": 1.641e-10,
+          "low_v": 1.8,
+          "power_w": 0.0143,
+          "threshold_v": 0.9453
+        }
+      },
+      "point_id": "p000160"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.575e-10,
+          "low_v": 1.8,
+          "power_w": 0.01469,
+          "threshold_v": 0.9379
+        },
+        "l07": {
+          "high_v": 2.24e-10,
+          "low_v": 1.8,
+          "power_w": 0.01469,
+          "threshold_v": 0.9379
+        },
+        "l13": {
+          "high_v": 1.986e-10,
+          "low_v": 1.8,
+          "power_w": 0.01469,
+          "threshold_v": 0.9379
+        },
+        "l19": {
+          "high_v": 1.787e-10,
+          "low_v": 1.8,
+          "power_w": 0.01469,
+          "threshold_v": 0.9379
+        },
+        "l25": {
+          "high_v": 1.627e-10,
+          "low_v": 1.8,
+          "power_w": 0.01469,
+          "threshold_v": 0.9378
+        }
+      },
+      "point_id": "p000161"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 3.031e-10,
+          "low_v": 1.8,
+          "power_w": 0.01803,
+          "threshold_v": 0.9382
+        },
+        "l07": {
+          "high_v": 2.71e-10,
+          "low_v": 1.8,
+          "power_w": 0.01803,
+          "threshold_v": 0.9383
+        },
+        "l13": {
+          "high_v": 2.468e-10,
+          "low_v": 1.8,
+          "power_w": 0.01803,
+          "threshold_v": 0.9383
+        },
+        "l19": {
+          "high_v": 2.28e-10,
+          "low_v": 1.8,
+          "power_w": 0.01803,
+          "threshold_v": 0.9383
+        },
+        "l25": {
+          "high_v": 2.13e-10,
+          "low_v": 1.8,
+          "power_w": 0.01803,
+          "threshold_v": 0.9382
+        }
+      },
+      "point_id": "p000162"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.382e-10,
+          "low_v": 1.8,
+          "power_w": 0.03947,
+          "threshold_v": 0.8962
+        },
+        "l07": {
+          "high_v": 2.092e-10,
+          "low_v": 1.8,
+          "power_w": 0.03947,
+          "threshold_v": 0.8962
+        },
+        "l13": {
+          "high_v": 1.873e-10,
+          "low_v": 1.8,
+          "power_w": 0.03947,
+          "threshold_v": 0.8961
+        },
+        "l19": {
+          "high_v": 1.702e-10,
+          "low_v": 1.8,
+          "power_w": 0.03947,
+          "threshold_v": 0.896
+        },
+        "l25": {
+          "high_v": 1.564e-10,
+          "low_v": 1.8,
+          "power_w": 0.03947,
+          "threshold_v": 0.8958
+        }
+      },
+      "point_id": "p000163"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.824e-10,
+          "low_v": 1.8,
+          "power_w": 0.01973,
+          "threshold_v": 0.9359
+        },
+        "l07": {
+          "high_v": 2.536e-10,
+          "low_v": 1.8,
+          "power_w": 0.01973,
+          "threshold_v": 0.9359
+        },
+        "l13": {
+          "high_v": 2.32e-10,
+          "low_v": 1.8,
+          "power_w": 0.01973,
+          "threshold_v": 0.9359
+        },
+        "l19": {
+          "high_v": 2.152e-10,
+          "low_v": 1.8,
+          "power_w": 0.01973,
+          "threshold_v": 0.9359
+        },
+        "l25": {
+          "high_v": 2.017e-10,
+          "low_v": 1.8,
+          "power_w": 0.01973,
+          "threshold_v": 0.9358
+        }
+      },
+      "point_id": "p000164"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.98e-10,
+          "low_v": 1.8,
+          "power_w": 0.01356,
+          "threshold_v": 0.9435
+        },
+        "l07": {
+          "high_v": 2.63e-10,
+          "low_v": 1.8,
+          "power_w": 0.01356,
+          "threshold_v": 0.9435
+        },
+        "l13": {
+          "high_v": 2.365e-10,
+          "low_v": 1.8,
+          "power_w": 0.01356,
+          "threshold_v": 0.9435
+        },
+        "l19": {
+          "high_v": 2.159e-10,
+          "low_v": 1.8,
+          "power_w": 0.01356,
+          "threshold_v": 0.9435
+        },
+        "l25": {
+          "high_v": 1.993e-10,
+          "low_v": 1.8,
+          "power_w": 0.01356,
+          "threshold_v": 0.9435
+        }
+      },
+      "point_id": "p000165"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.411e-10,
+          "low_v": 1.8,
+          "power_w": 0.04282,
+          "threshold_v": 0.906
+        },
+        "l07": {
+          "high_v": 2.115e-10,
+          "low_v": 1.8,
+          "power_w": 0.04282,
+          "threshold_v": 0.906
+        },
+        "l13": {
+          "high_v": 1.891e-10,
+          "low_v": 1.8,
+          "power_w": 0.04282,
+          "threshold_v": 0.906
+        },
+        "l19": {
+          "high_v": 1.715e-10,
+          "low_v": 1.8,
+          "power_w": 0.04282,
+          "threshold_v": 0.9058
+        },
+        "l25": {
+          "high_v": 1.574e-10,
+          "low_v": 1.8,
+          "power_w": 0.04282,
+          "threshold_v": 0.9057
+        }
+      },
+      "point_id": "p000166"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 3.069e-10,
+          "low_v": 1.8,
+          "power_w": 0.01535,
+          "threshold_v": 0.9423
+        },
+        "l07": {
+          "high_v": 2.755e-10,
+          "low_v": 1.8,
+          "power_w": 0.01535,
+          "threshold_v": 0.9423
+        },
+        "l13": {
+          "high_v": 2.519e-10,
+          "low_v": 1.8,
+          "power_w": 0.01535,
+          "threshold_v": 0.9423
+        },
+        "l19": {
+          "high_v": 2.335e-10,
+          "low_v": 1.8,
+          "power_w": 0.01535,
+          "threshold_v": 0.9423
+        },
+        "l25": {
+          "high_v": 2.188e-10,
+          "low_v": 1.8,
+          "power_w": 0.01535,
+          "threshold_v": 0.9422
+        }
+      },
+      "point_id": "p000167"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 3.165e-10,
+          "low_v": 1.8,
+          "power_w": 0.01516,
+          "threshold_v": 0.9468
+        },
+        "l07": {
+          "high_v": 2.816e-10,
+          "low_v": 1.8,
+          "power_w": 0.01516,
+          "threshold_v": 0.9468
+        },
+        "l13": {
+          "high_v": 2.552e-10,
+          "low_v": 1.8,
+          "power_w": 0.01516,
+          "threshold_v": 0.9468
+        },
+        "l19": {
+          "high_v": 2.347e-10,
+          "low_v": 1.8,
+          "power_w": 0.01516,
+          "threshold_v": 0.9468
+        },
+        "l25": {
+          "high_v": 2.182e-10,
+          "low_v": 1.8,
+          "power_w": 0.01516,
+          "threshold_v": 0.9468
+        }
+      },
+      "point_id": "p000168"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.581e-10,
+          "low_v": 1.8,
+          "power_w": 0.01892,
+          "threshold_v": 0.9324
+        },
+        "l07": {
+          "high_v": 2.266e-10,
+          "low_v": 1.8,
+          "power_w": 0.01892,
+          "threshold_v": 0.9325
+        },
+        "l13": {
+          "high_v": 2.028e-10,
+          "low_v": 1.8,
+          "power_w": 0.01892,
+          "threshold_v": 0.9325
+        },
+        "l19": {
+          "high_v": 1.842e-10,
+          "low_v": 1.8,
+          "power_w": 0.01892,
+          "threshold_v": 0.9325
+        },
+        "l25": {
+          "high_v": 1.692e-10,
+          "low_v": 1.8,
+          "power_w": 0.01892,
+          "threshold_v": 0.9324
+        }
+      },
+      "point_id": "p000169"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.877e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.9394
+        },
+        "l07": {
+          "high_v": 2.594e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.9394
+        },
+        "l13": {
+          "high_v": 2.382e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.9394
+        },
+        "l19": {
+          "high_v": 2.217e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.9394
+        },
+        "l25": {
+          "high_v": 2.085e-10,
+          "low_v": 1.8,
+          "power_w": 0.01652,
+          "threshold_v": 0.9394
+        }
+      },
+      "point_id": "p000170"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.403e-10,
+          "low_v": 1.8,
+          "power_w": 0.0236,
+          "threshold_v": 0.9285
+        },
+        "l07": {
+          "high_v": 2.131e-10,
+          "low_v": 1.8,
+          "power_w": 0.0236,
+          "threshold_v": 0.9285
+        },
+        "l13": {
+          "high_v": 1.926e-10,
+          "low_v": 1.8,
+          "power_w": 0.0236,
+          "threshold_v": 0.9284
+        },
+        "l19": {
+          "high_v": 1.765e-10,
+          "low_v": 1.8,
+          "power_w": 0.0236,
+          "threshold_v": 0.9283
+        },
+        "l25": {
+          "high_v": 1.637e-10,
+          "low_v": 1.8,
+          "power_w": 0.0236,
+          "threshold_v": 0.9282
+        }
+      },
+      "point_id": "p000171"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.237e-10,
+          "low_v": 1.8,
+          "power_w": 0.03348,
+          "threshold_v": 0.9111
+        },
+        "l07": {
+          "high_v": 1.943e-10,
+          "low_v": 1.8,
+          "power_w": 0.03348,
+          "threshold_v": 0.9112
+        },
+        "l13": {
+          "high_v": 1.721e-10,
+          "low_v": 1.8,
+          "power_w": 0.03348,
+          "threshold_v": 0.9112
+        },
+        "l19": {
+          "high_v": 1.547e-10,
+          "low_v": 1.8,
+          "power_w": 0.03348,
+          "threshold_v": 0.9111
+        },
+        "l25": {
+          "high_v": 1.406e-10,
+          "low_v": 1.8,
+          "power_w": 0.03348,
+          "threshold_v": 0.911
+        }
+      },
+      "point_id": "p000172"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.447e-10,
+          "low_v": 1.8,
+          "power_w": 0.01604,
+          "threshold_v": 0.9451
+        },
+        "l07": {
+          "high_v": 2.158e-10,
+          "low_v": 1.8,
+          "power_w": 0.01604,
+          "threshold_v": 0.9451
+        },
+        "l13": {
+          "high_v": 1.939e-10,
+          "low_v": 1.8,
+          "power_w": 0.01604,
+          "threshold_v": 0.9451
+        },
+        "l19": {
+          "high_v": 1.769e-10,
+          "low_v": 1.8,
+          "power_w": 0.01604,
+          "threshold_v": 0.9451
+        },
+        "l25": {
+          "high_v": 1.631e-10,
+          "low_v": 1.8,
+          "power_w": 0.01604,
+          "threshold_v": 0.945
+        }
+      },
+      "point_id": "p000173"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.382e-10,
+          "low_v": 1.8,
+          "power_w": 0.03754,
+          "threshold_v": 0.9106
+        },
+        "l07": {
+          "high_v": 2.08e-10,
+          "low_v": 1.8,
+          "power_w": 0.03754,
+          "threshold_v": 0.9107
+        },
+        "l13": {
+          "high_v": 1.852e-10,
+          "low_v": 1.8,
+          "power_w": 0.03754,
+          "threshold_v": 0.9107
+        },
+        "l19": {
+          "high_v": 1.673e-10,
+          "low_v": 1.8,
+          "power_w": 0.03754,
+          "threshold_v": 0.9106
+        },
+        "l25": {
+          "high_v": 1.529e-10,
+          "low_v": 1.8,
+          "power_w": 0.03754,
+          "threshold_v": 0.9105
+        }
+      },
+      "point_id": "p000174"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.437e-10,
+          "low_v": 1.8,
+          "power_w": 0.03137,
+          "threshold_v": 0.9152
+        },
+        "l07": {
+          "high_v": 2.132e-10,
+          "low_v": 1.8,
+          "power_w": 0.03137,
+          "threshold_v": 0.9152
+        },
+        "l13": {
+          "high_v": 1.901e-10,
+          "low_v": 1.8,
+          "power_w": 0.03137,
+          "threshold_v": 0.9152
+        },
+        "l19": {
+          "high_v": 1.72e-10,
+          "low_v": 1.8,
+          "power_w": 0.03137,
+          "threshold_v": 0.9152
+        },
+        "l25": {
+          "high_v": 1.575e-10,
+          "low_v": 1.8,
+          "power_w": 0.03137,
+          "threshold_v": 0.9151
+        }
+      },
+      "point_id": "p000175"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.75e-10,
+          "low_v": 1.8,
+          "power_w": 0.01476,
+          "threshold_v": 0.9452
+        },
+        "l07": {
+          "high_v": 2.457e-10,
+          "low_v": 1.8,
+          "power_w": 0.01476,
+          "threshold_v": 0.9452
+        },
+        "l13": {
+          "high_v": 2.237e-10,
+          "low_v": 1.8,
+          "power_w": 0.01476,
+          "threshold_v": 0.9452
+        },
+        "l19": {
+          "high_v": 2.066e-10,
+          "low_v": 1.8,
+          "power_w": 0.01476,
+          "threshold_v": 0.9452
+        },
+        "l25": {
+          "high_v": 1.929e-10,
+          "low_v": 1.8,
+          "power_w": 0.01476,
+          "threshold_v": 0.9452
+        }
+      },
+      "point_id": "p000176"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 3.179e-10,
+          "low_v": 1.8,
+          "power_w": 0.01389,
+          "threshold_v": 0.9467
+        },
+        "l07": {
+          "high_v": 2.85e-10,
+          "low_v": 1.8,
+          "power_w": 0.01389,
+          "threshold_v": 0.9467
+        },
+        "l13": {
+          "high_v": 2.603e-10,
+          "low_v": 1.8,
+          "power_w": 0.01389,
+          "threshold_v": 0.9467
+        },
+        "l19": {
+          "high_v": 2.41e-10,
+          "low_v": 1.8,
+          "power_w": 0.01389,
+          "threshold_v": 0.9467
+        },
+        "l25": {
+          "high_v": 2.257e-10,
+          "low_v": 1.8,
+          "power_w": 0.01389,
+          "threshold_v": 0.9467
+        }
+      },
+      "point_id": "p000177"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.662e-10,
+          "low_v": 1.8,
+          "power_w": 0.01547,
+          "threshold_v": 0.9388
+        },
+        "l07": {
+          "high_v": 2.383e-10,
+          "low_v": 1.8,
+          "power_w": 0.01547,
+          "threshold_v": 0.9388
+        },
+        "l13": {
+          "high_v": 2.174e-10,
+          "low_v": 1.8,
+          "power_w": 0.01547,
+          "threshold_v": 0.9388
+        },
+        "l19": {
+          "high_v": 2.01e-10,
+          "low_v": 1.8,
+          "power_w": 0.01547,
+          "threshold_v": 0.9388
+        },
+        "l25": {
+          "high_v": 1.879e-10,
+          "low_v": 1.8,
+          "power_w": 0.01547,
+          "threshold_v": 0.9387
+        }
+      },
+      "point_id": "p000178"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.294e-10,
+          "low_v": 1.8,
+          "power_w": 0.04114,
+          "threshold_v": 0.9052
+        },
+        "l07": {
+          "high_v": 1.994e-10,
+          "low_v": 1.8,
+          "power_w": 0.04114,
+          "threshold_v": 0.9054
+        },
+        "l13": {
+          "high_v": 1.767e-10,
+          "low_v": 1.8,
+          "power_w": 0.04114,
+          "threshold_v": 0.9055
+        },
+        "l19": {
+          "high_v": 1.588e-10,
+          "low_v": 1.8,
+          "power_w": 0.04114,
+          "threshold_v": 0.9055
+        },
+        "l25": {
+          "high_v": 1.445e-10,
+          "low_v": 1.8,
+          "power_w": 0.04114,
+          "threshold_v": 0.9054
+        }
+      },
+      "point_id": "p000179"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 3.227e-10,
+          "low_v": 1.8,
+          "power_w": 0.01642,
+          "threshold_v": 0.9469
+        },
+        "l07": {
+          "high_v": 2.895e-10,
+          "low_v": 1.8,
+          "power_w": 0.01642,
+          "threshold_v": 0.9469
+        },
+        "l13": {
+          "high_v": 2.645e-10,
+          "low_v": 1.8,
+          "power_w": 0.01642,
+          "threshold_v": 0.9469
+        },
+        "l19": {
+          "high_v": 2.45e-10,
+          "low_v": 1.8,
+          "power_w": 0.01642,
+          "threshold_v": 0.9469
+        },
+        "l25": {
+          "high_v": 2.295e-10,
+          "low_v": 1.8,
+          "power_w": 0.01642,
+          "threshold_v": 0.9469
+        }
+      },
+      "point_id": "p000180"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.333e-10,
+          "low_v": 1.8,
+          "power_w": 0.01604,
+          "threshold_v": 0.9326
+        },
+        "l07": {
+          "high_v": 2.036e-10,
+          "low_v": 1.8,
+          "power_w": 0.01604,
+          "threshold_v": 0.9327
+        },
+        "l13": {
+          "high_v": 1.812e-10,
+          "low_v": 1.8,
+          "power_w": 0.01604,
+          "threshold_v": 0.9327
+        },
+        "l19": {
+          "high_v": 1.636e-10,
+          "low_v": 1.8,
+          "power_w": 0.01604,
+          "threshold_v": 0.9327
+        },
+        "l25": {
+          "high_v": 1.495e-10,
+          "low_v": 1.8,
+          "power_w": 0.01604,
+          "threshold_v": 0.9326
+        }
+      },
+      "point_id": "p000181"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.264e-10,
+          "low_v": 1.8,
+          "power_w": 0.03928,
+          "threshold_v": 0.9117
+        },
+        "l07": {
+          "high_v": 1.979e-10,
+          "low_v": 1.8,
+          "power_w": 0.03928,
+          "threshold_v": 0.9118
+        },
+        "l13": {
+          "high_v": 1.763e-10,
+          "low_v": 1.8,
+          "power_w": 0.03928,
+          "threshold_v": 0.9118
+        },
+        "l19": {
+          "high_v": 1.595e-10,
+          "low_v": 1.8,
+          "power_w": 0.03928,
+          "threshold_v": 0.9117
+        },
+        "l25": {
+          "high_v": 1.459e-10,
+          "low_v": 1.8,
+          "power_w": 0.03928,
+          "threshold_v": 0.9116
+        }
+      },
+      "point_id": "p000182"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.504e-10,
+          "low_v": 1.8,
+          "power_w": 0.03603,
+          "threshold_v": 0.9055
+        },
+        "l07": {
+          "high_v": 2.185e-10,
+          "low_v": 1.8,
+          "power_w": 0.03603,
+          "threshold_v": 0.9057
+        },
+        "l13": {
+          "high_v": 1.943e-10,
+          "low_v": 1.8,
+          "power_w": 0.03603,
+          "threshold_v": 0.9059
+        },
+        "l19": {
+          "high_v": 1.754e-10,
+          "low_v": 1.8,
+          "power_w": 0.03603,
+          "threshold_v": 0.9059
+        },
+        "l25": {
+          "high_v": 1.601e-10,
+          "low_v": 1.8,
+          "power_w": 0.03603,
+          "threshold_v": 0.9059
+        }
+      },
+      "point_id": "p000183"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.186e-10,
+          "low_v": 1.8,
+          "power_w": 0.0241,
+          "threshold_v": 0.9236
+        },
+        "l07": {
+          "high_v": 1.91e-10,
+          "low_v": 1.8,
+          "power_w": 0.0241,
+          "threshold_v": 0.9236
+        },
+        "l13": {
+          "high_v": 1.701e-10,
+          "low_v": 1.8,
+          "power_w": 0.0241,
+          "threshold_v": 0.9235
+        },
+        "l19": {
+          "high_v": 1.537e-10,
+          "low_v": 1.8,
+          "power_w": 0.0241,
+          "threshold_v": 0.9234
+        },
+        "l25": {
+          "high_v": 1.405e-10,
+          "low_v": 1.8,
+          "power_w": 0.0241,
+          "threshold_v": 0.9233
+        }
+      },
+      "point_id": "p000184"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.671e-10,
+          "low_v": 1.8,
+          "power_w": 0.01553,
+          "threshold_v": 0.9401
+        },
+        "l07": {
+          "high_v": 2.388e-10,
+          "low_v": 1.8,
+          "power_w": 0.01553,
+          "threshold_v": 0.9401
+        },
+        "l13": {
+          "high_v": 2.175e-10,
+          "low_v": 1.8,
+          "power_w": 0.01553,
+          "threshold_v": 0.9401
+        },
+        "l19": {
+          "high_v": 2.009e-10,
+          "low_v": 1.8,
+          "power_w": 0.01553,
+          "threshold_v": 0.9401
+        },
+        "l25": {
+          "high_v": 1.876e-10,
+          "low_v": 1.8,
+          "power_w": 0.01553,
+          "threshold_v": 0.94
+        }
+      },
+      "point_id": "p000185"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.19e-10,
+          "low_v": 1.8,
+          "power_w": 0.02728,
+          "threshold_v": 0.9187
+        },
+        "l07": {
+          "high_v": 1.909e-10,
+          "low_v": 1.8,
+          "power_w": 0.02728,
+          "threshold_v": 0.9188
+        },
+        "l13": {
+          "high_v": 1.696e-10,
+          "low_v": 1.8,
+          "power_w": 0.02728,
+          "threshold_v": 0.9188
+        },
+        "l19": {
+          "high_v": 1.53e-10,
+          "low_v": 1.8,
+          "power_w": 0.02728,
+          "threshold_v": 0.9188
+        },
+        "l25": {
+          "high_v": 1.396e-10,
+          "low_v": 1.8,
+          "power_w": 0.02728,
+          "threshold_v": 0.9187
+        }
+      },
+      "point_id": "p000186"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.327e-10,
+          "low_v": 1.8,
+          "power_w": 0.01512,
+          "threshold_v": 0.8599
+        },
+        "l07": {
+          "high_v": 2.028e-10,
+          "low_v": 1.8,
+          "power_w": 0.01512,
+          "threshold_v": 0.8599
+        },
+        "l13": {
+          "high_v": 1.801e-10,
+          "low_v": 1.8,
+          "power_w": 0.01512,
+          "threshold_v": 0.8599
+        },
+        "l19": {
+          "high_v": 1.624e-10,
+          "low_v": 1.8,
+          "power_w": 0.01512,
+          "threshold_v": 0.8599
+        },
+        "l25": {
+          "high_v": 1.481e-10,
+          "low_v": 1.8,
+          "power_w": 0.01512,
+          "threshold_v": 0.8599
+        }
+      },
+      "point_id": "p000187"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 3.04e-10,
+          "low_v": 1.8,
+          "power_w": 0.02029,
+          "threshold_v": 0.9354
+        },
+        "l07": {
+          "high_v": 2.738e-10,
+          "low_v": 1.8,
+          "power_w": 0.02029,
+          "threshold_v": 0.9354
+        },
+        "l13": {
+          "high_v": 2.511e-10,
+          "low_v": 1.8,
+          "power_w": 0.02029,
+          "threshold_v": 0.9353
+        },
+        "l19": {
+          "high_v": 2.335e-10,
+          "low_v": 1.8,
+          "power_w": 0.02029,
+          "threshold_v": 0.9353
+        },
+        "l25": {
+          "high_v": 2.195e-10,
+          "low_v": 1.8,
+          "power_w": 0.02029,
+          "threshold_v": 0.9352
+        }
+      },
+      "point_id": "p000188"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.508e-10,
+          "low_v": 1.8,
+          "power_w": 0.01748,
+          "threshold_v": 0.9371
+        },
+        "l07": {
+          "high_v": 2.216e-10,
+          "low_v": 1.8,
+          "power_w": 0.01748,
+          "threshold_v": 0.937
+        },
+        "l13": {
+          "high_v": 1.995e-10,
+          "low_v": 1.8,
+          "power_w": 0.01748,
+          "threshold_v": 0.937
+        },
+        "l19": {
+          "high_v": 1.823e-10,
+          "low_v": 1.8,
+          "power_w": 0.01748,
+          "threshold_v": 0.9369
+        },
+        "l25": {
+          "high_v": 1.685e-10,
+          "low_v": 1.8,
+          "power_w": 0.01748,
+          "threshold_v": 0.9369
+        }
+      },
+      "point_id": "p000189"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.444e-10,
+          "low_v": 1.8,
+          "power_w": 0.01589,
+          "threshold_v": 0.938
+        },
+        "l07": {
+          "high_v": 2.159e-10,
+          "low_v": 1.8,
+          "power_w": 0.01589,
+          "threshold_v": 0.938
+        },
+        "l13": {
+          "high_v": 1.944e-10,
+          "low_v": 1.8,
+          "power_w": 0.01589,
+          "threshold_v": 0.938
+        },
+        "l19": {
+          "high_v": 1.776e-10,
+          "low_v": 1.8,
+          "power_w": 0.01589,
+          "threshold_v": 0.938
+        },
+        "l25": {
+          "high_v": 1.641e-10,
+          "low_v": 1.8,
+          "power_w": 0.01589,
+          "threshold_v": 0.9379
+        }
+      },
+      "point_id": "p000190"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.929e-10,
+          "low_v": 1.8,
+          "power_w": 0.01389,
+          "threshold_v": 0.9486
+        },
+        "l07": {
+          "high_v": 2.647e-10,
+          "low_v": 1.8,
+          "power_w": 0.01389,
+          "threshold_v": 0.9487
+        },
+        "l13": {
+          "high_v": 2.434e-10,
+          "low_v": 1.8,
+          "power_w": 0.01389,
+          "threshold_v": 0.9487
+        },
+        "l19": {
+          "high_v": 2.269e-10,
+          "low_v": 1.8,
+          "power_w": 0.01389,
+          "threshold_v": 0.9487
+        },
+        "l25": {
+          "high_v": 2.137e-10,
+          "low_v": 1.8,
+          "power_w": 0.01389,
+          "threshold_v": 0.9487
+        }
+      },
+      "point_id": "p000191"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.655e-10,
+          "low_v": 1.8,
+          "power_w": 0.02878,
+          "threshold_v": 0.9239
+        },
+        "l07": {
+          "high_v": 2.372e-10,
+          "low_v": 1.8,
+          "power_w": 0.02878,
+          "threshold_v": 0.9239
+        },
+        "l13": {
+          "high_v": 2.159e-10,
+          "low_v": 1.8,
+          "power_w": 0.02878,
+          "threshold_v": 0.9239
+        },
+        "l19": {
+          "high_v": 1.993e-10,
+          "low_v": 1.8,
+          "power_w": 0.02878,
+          "threshold_v": 0.9239
+        },
+        "l25": {
+          "high_v": 1.86e-10,
+          "low_v": 1.8,
+          "power_w": 0.02878,
+          "threshold_v": 0.9238
+        }
+      },
+      "point_id": "p000192"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.66e-10,
+          "low_v": 1.8,
+          "power_w": 0.02139,
+          "threshold_v": 0.9312
+        },
+        "l07": {
+          "high_v": 2.362e-10,
+          "low_v": 1.8,
+          "power_w": 0.02139,
+          "threshold_v": 0.9312
+        },
+        "l13": {
+          "high_v": 2.137e-10,
+          "low_v": 1.8,
+          "power_w": 0.02139,
+          "threshold_v": 0.9313
+        },
+        "l19": {
+          "high_v": 1.962e-10,
+          "low_v": 1.8,
+          "power_w": 0.02139,
+          "threshold_v": 0.9313
+        },
+        "l25": {
+          "high_v": 1.821e-10,
+          "low_v": 1.8,
+          "power_w": 0.02139,
+          "threshold_v": 0.9312
+        }
+      },
+      "point_id": "p000193"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.371e-10,
+          "low_v": 1.8,
+          "power_w": 0.01958,
+          "threshold_v": 0.9239
+        },
+        "l07": {
+          "high_v": 2.06e-10,
+          "low_v": 1.8,
+          "power_w": 0.01958,
+          "threshold_v": 0.9239
+        },
+        "l13": {
+          "high_v": 1.825e-10,
+          "low_v": 1.8,
+          "power_w": 0.01958,
+          "threshold_v": 0.924
+        },
+        "l19": {
+          "high_v": 1.64e-10,
+          "low_v": 1.8,
+          "power_w": 0.01958,
+          "threshold_v": 0.9239
+        },
+        "l25": {
+          "high_v": 1.492e-10,
+          "low_v": 1.8,
+          "power_w": 0.01958,
+          "threshold_v": 0.9239
+        }
+      },
+      "point_id": "p000194"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.596e-10,
+          "low_v": 1.8,
+          "power_w": 0.02267,
+          "threshold_v": 0.8722
+        },
+        "l07": {
+          "high_v": 2.264e-10,
+          "low_v": 1.8,
+          "power_w": 0.02267,
+          "threshold_v": 0.8722
+        },
+        "l13": {
+          "high_v": 2.013e-10,
+          "low_v": 1.8,
+          "power_w": 0.02267,
+          "threshold_v": 0.8723
+        },
+        "l19": {
+          "high_v": 1.816e-10,
+          "low_v": 1.8,
+          "power_w": 0.02267,
+          "threshold_v": 0.8722
+        },
+        "l25": {
+          "high_v": 1.658e-10,
+          "low_v": 1.8,
+          "power_w": 0.02267,
+          "threshold_v": 0.8722
+        }
+      },
+      "point_id": "p000195"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.703e-10,
+          "low_v": 1.8,
+          "power_w": 0.01849,
+          "threshold_v": 0.936
+        },
+        "l07": {
+          "high_v": 2.39e-10,
+          "low_v": 1.8,
+          "power_w": 0.01849,
+          "threshold_v": 0.9361
+        },
+        "l13": {
+          "high_v": 2.154e-10,
+          "low_v": 1.8,
+          "power_w": 0.01849,
+          "threshold_v": 0.936
+        },
+        "l19": {
+          "high_v": 1.97e-10,
+          "low_v": 1.8,
+          "power_w": 0.01849,
+          "threshold_v": 0.936
+        },
+        "l25": {
+          "high_v": 1.822e-10,
+          "low_v": 1.8,
+          "power_w": 0.01849,
+          "threshold_v": 0.936
+        }
+      },
+      "point_id": "p000196"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.461e-10,
+          "low_v": 1.8,
+          "power_w": 0.01794,
+          "threshold_v": 0.9325
+        },
+        "l07": {
+          "high_v": 2.177e-10,
+          "low_v": 1.8,
+          "power_w": 0.01794,
+          "threshold_v": 0.9326
+        },
+        "l13": {
+          "high_v": 1.962e-10,
+          "low_v": 1.8,
+          "power_w": 0.01794,
+          "threshold_v": 0.9325
+        },
+        "l19": {
+          "high_v": 1.795e-10,
+          "low_v": 1.8,
+          "power_w": 0.01794,
+          "threshold_v": 0.9325
+        },
+        "l25": {
+          "high_v": 1.66e-10,
+          "low_v": 1.8,
+          "power_w": 0.01794,
+          "threshold_v": 0.9324
+        }
+      },
+      "point_id": "p000197"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.611e-10,
+          "low_v": 1.8,
+          "power_w": 0.01648,
+          "threshold_v": 0.9437
+        },
+        "l07": {
+          "high_v": 2.298e-10,
+          "low_v": 1.8,
+          "power_w": 0.01648,
+          "threshold_v": 0.9437
+        },
+        "l13": {
+          "high_v": 2.061e-10,
+          "low_v": 1.8,
+          "power_w": 0.01648,
+          "threshold_v": 0.9437
+        },
+        "l19": {
+          "high_v": 1.876e-10,
+          "low_v": 1.8,
+          "power_w": 0.01648,
+          "threshold_v": 0.9437
+        },
+        "l25": {
+          "high_v": 1.727e-10,
+          "low_v": 1.8,
+          "power_w": 0.01648,
+          "threshold_v": 0.9437
+        }
+      },
+      "point_id": "p000198"
+    },
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.81e-10,
+          "low_v": 1.8,
+          "power_w": 0.03575,
+          "threshold_v": 0.9123
+        },
+        "l07": {
+          "high_v": 2.476e-10,
+          "low_v": 1.8,
+          "power_w": 0.03575,
+          "threshold_v": 0.9124
+        },
+        "l13": {
+          "high_v": 2.224e-10,
+          "low_v": 1.8,
+          "power_w": 0.03575,
+          "threshold_v": 0.9124
+        },
+        "l19": {
+          "high_v": 2.026e-10,
+          "low_v": 1.8,
+          "power_w": 0.03575,
+          "threshold_v": 0.9124
+        },
+        "l25": {
+          "high_v": 1.868e-10,
+          "low_v": 1.8,
+          "power_w": 0.03575,
+          "threshold_v": 0.9124
+        }
+      },
+      "point_id": "p000199"
+    }
+  ],
+  "rep": 3,
+  "schema_version": 1,
+  "simulation_wall_s": 46.56,
+  "size": 200,
+  "started_at": "2026-07-26T01:32:50+0800",
+  "tag": "matrix"
+}

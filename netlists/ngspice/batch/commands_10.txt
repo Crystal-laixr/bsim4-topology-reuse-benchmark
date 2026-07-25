@@ -1,0 +1,820 @@
+batchparambind vthn model NM VTH0
+batchparambind vthp model PM VTH0
+batchparambind u0n model NM U0
+batchparambind u0p model PM U0
+batchparambind rdswn model NM RDSW
+batchparambind rdswp model PM RDSW
+batchparambind vsatn model NM VSAT
+batchparambind vsatp model PM VSAT
+batchparambind eta0n model NM ETA0
+batchparambind eta0p model PM ETA0
+batchparambind ws0 instance MN_L01_S01 W 1.5199999999999998e-06
+batchparambind ws0 instance MP_L01_S01 W 3.0399999999999997e-06
+batchparambind ws1 instance MN_L01_S02 W 2.2800000000000002e-06
+batchparambind ws1 instance MP_L01_S02 W 4.5600000000000004e-06
+batchparambind ws2 instance MN_L01_S03 W 3.4200000000000003e-06
+batchparambind ws2 instance MP_L01_S03 W 6.8400000000000006e-06
+batchparambind ws3 instance MN_L01_S04 W 5.13e-06
+batchparambind ws3 instance MP_L01_S04 W 1.026e-05
+batchparambind ws0 instance MN_L01_S05 W 1.5199999999999998e-06
+batchparambind ws0 instance MP_L01_S05 W 3.0399999999999997e-06
+batchparambind ws1 instance MN_L01_S06 W 2.2800000000000002e-06
+batchparambind ws1 instance MP_L01_S06 W 4.5600000000000004e-06
+batchparambind ws2 instance MN_L01_S07 W 3.4200000000000003e-06
+batchparambind ws2 instance MP_L01_S07 W 6.8400000000000006e-06
+batchparambind ws3 instance MN_L01_S08 W 5.13e-06
+batchparambind ws3 instance MP_L01_S08 W 1.026e-05
+batchparambind ws0 instance MN_L01_S09 W 1.5199999999999998e-06
+batchparambind ws0 instance MP_L01_S09 W 3.0399999999999997e-06
+batchparambind ws1 instance MN_L01_S10 W 2.2800000000000002e-06
+batchparambind ws1 instance MP_L01_S10 W 4.5600000000000004e-06
+batchparambind ws2 instance MN_L01_S11 W 3.4200000000000003e-06
+batchparambind ws2 instance MP_L01_S11 W 6.8400000000000006e-06
+batchparambind ws0 instance MN_L02_S01 W 1.5599999999999999e-06
+batchparambind ws0 instance MP_L02_S01 W 3.1199999999999998e-06
+batchparambind ws1 instance MN_L02_S02 W 2.34e-06
+batchparambind ws1 instance MP_L02_S02 W 4.6800000000000001e-06
+batchparambind ws2 instance MN_L02_S03 W 3.5100000000000003e-06
+batchparambind ws2 instance MP_L02_S03 W 7.0200000000000006e-06
+batchparambind ws3 instance MN_L02_S04 W 5.2649999999999996e-06
+batchparambind ws3 instance MP_L02_S04 W 1.0529999999999999e-05
+batchparambind ws0 instance MN_L02_S05 W 1.5599999999999999e-06
+batchparambind ws0 instance MP_L02_S05 W 3.1199999999999998e-06
+batchparambind ws1 instance MN_L02_S06 W 2.34e-06
+batchparambind ws1 instance MP_L02_S06 W 4.6800000000000001e-06
+batchparambind ws2 instance MN_L02_S07 W 3.5100000000000003e-06
+batchparambind ws2 instance MP_L02_S07 W 7.0200000000000006e-06
+batchparambind ws3 instance MN_L02_S08 W 5.2649999999999996e-06
+batchparambind ws3 instance MP_L02_S08 W 1.0529999999999999e-05
+batchparambind ws0 instance MN_L02_S09 W 1.5599999999999999e-06
+batchparambind ws0 instance MP_L02_S09 W 3.1199999999999998e-06
+batchparambind ws1 instance MN_L02_S10 W 2.34e-06
+batchparambind ws1 instance MP_L02_S10 W 4.6800000000000001e-06
+batchparambind ws2 instance MN_L02_S11 W 3.5100000000000003e-06
+batchparambind ws2 instance MP_L02_S11 W 7.0200000000000006e-06
+batchparambind ws0 instance MN_L03_S01 W 1.5999999999999999e-06
+batchparambind ws0 instance MP_L03_S01 W 3.1999999999999999e-06
+batchparambind ws1 instance MN_L03_S02 W 2.4000000000000003e-06
+batchparambind ws1 instance MP_L03_S02 W 4.8000000000000006e-06
+batchparambind ws2 instance MN_L03_S03 W 3.6000000000000003e-06
+batchparambind ws2 instance MP_L03_S03 W 7.2000000000000005e-06
+batchparambind ws3 instance MN_L03_S04 W 5.4e-06
+batchparambind ws3 instance MP_L03_S04 W 1.08e-05
+batchparambind ws0 instance MN_L03_S05 W 1.5999999999999999e-06
+batchparambind ws0 instance MP_L03_S05 W 3.1999999999999999e-06
+batchparambind ws1 instance MN_L03_S06 W 2.4000000000000003e-06
+batchparambind ws1 instance MP_L03_S06 W 4.8000000000000006e-06
+batchparambind ws2 instance MN_L03_S07 W 3.6000000000000003e-06
+batchparambind ws2 instance MP_L03_S07 W 7.2000000000000005e-06
+batchparambind ws3 instance MN_L03_S08 W 5.4e-06
+batchparambind ws3 instance MP_L03_S08 W 1.08e-05
+batchparambind ws0 instance MN_L03_S09 W 1.5999999999999999e-06
+batchparambind ws0 instance MP_L03_S09 W 3.1999999999999999e-06
+batchparambind ws1 instance MN_L03_S10 W 2.4000000000000003e-06
+batchparambind ws1 instance MP_L03_S10 W 4.8000000000000006e-06
+batchparambind ws2 instance MN_L03_S11 W 3.6000000000000003e-06
+batchparambind ws2 instance MP_L03_S11 W 7.2000000000000005e-06
+batchparambind ws0 instance MN_L04_S01 W 1.64e-06
+batchparambind ws0 instance MP_L04_S01 W 3.2799999999999999e-06
+batchparambind ws1 instance MN_L04_S02 W 2.4600000000000002e-06
+batchparambind ws1 instance MP_L04_S02 W 4.9200000000000003e-06
+batchparambind ws2 instance MN_L04_S03 W 3.6900000000000002e-06
+batchparambind ws2 instance MP_L04_S03 W 7.3800000000000005e-06
+batchparambind ws3 instance MN_L04_S04 W 5.5350000000000004e-06
+batchparambind ws3 instance MP_L04_S04 W 1.1070000000000001e-05
+batchparambind ws0 instance MN_L04_S05 W 1.64e-06
+batchparambind ws0 instance MP_L04_S05 W 3.2799999999999999e-06
+batchparambind ws1 instance MN_L04_S06 W 2.4600000000000002e-06
+batchparambind ws1 instance MP_L04_S06 W 4.9200000000000003e-06
+batchparambind ws2 instance MN_L04_S07 W 3.6900000000000002e-06
+batchparambind ws2 instance MP_L04_S07 W 7.3800000000000005e-06
+batchparambind ws3 instance MN_L04_S08 W 5.5350000000000004e-06
+batchparambind ws3 instance MP_L04_S08 W 1.1070000000000001e-05
+batchparambind ws0 instance MN_L04_S09 W 1.64e-06
+batchparambind ws0 instance MP_L04_S09 W 3.2799999999999999e-06
+batchparambind ws1 instance MN_L04_S10 W 2.4600000000000002e-06
+batchparambind ws1 instance MP_L04_S10 W 4.9200000000000003e-06
+batchparambind ws2 instance MN_L04_S11 W 3.6900000000000002e-06
+batchparambind ws2 instance MP_L04_S11 W 7.3800000000000005e-06
+batchparambind ws0 instance MN_L05_S01 W 1.6799999999999998e-06
+batchparambind ws0 instance MP_L05_S01 W 3.3599999999999996e-06
+batchparambind ws1 instance MN_L05_S02 W 2.52e-06
+batchparambind ws1 instance MP_L05_S02 W 5.04e-06
+batchparambind ws2 instance MN_L05_S03 W 3.7799999999999998e-06
+batchparambind ws2 instance MP_L05_S03 W 7.5599999999999996e-06
+batchparambind ws3 instance MN_L05_S04 W 5.6699999999999999e-06
+batchparambind ws3 instance MP_L05_S04 W 1.134e-05
+batchparambind ws0 instance MN_L05_S05 W 1.6799999999999998e-06
+batchparambind ws0 instance MP_L05_S05 W 3.3599999999999996e-06
+batchparambind ws1 instance MN_L05_S06 W 2.52e-06
+batchparambind ws1 instance MP_L05_S06 W 5.04e-06
+batchparambind ws2 instance MN_L05_S07 W 3.7799999999999998e-06
+batchparambind ws2 instance MP_L05_S07 W 7.5599999999999996e-06
+batchparambind ws3 instance MN_L05_S08 W 5.6699999999999999e-06
+batchparambind ws3 instance MP_L05_S08 W 1.134e-05
+batchparambind ws0 instance MN_L05_S09 W 1.6799999999999998e-06
+batchparambind ws0 instance MP_L05_S09 W 3.3599999999999996e-06
+batchparambind ws1 instance MN_L05_S10 W 2.52e-06
+batchparambind ws1 instance MP_L05_S10 W 5.04e-06
+batchparambind ws2 instance MN_L05_S11 W 3.7799999999999998e-06
+batchparambind ws2 instance MP_L05_S11 W 7.5599999999999996e-06
+batchparambind ws0 instance MN_L06_S01 W 1.7199999999999998e-06
+batchparambind ws0 instance MP_L06_S01 W 3.4399999999999997e-06
+batchparambind ws1 instance MN_L06_S02 W 2.5799999999999999e-06
+batchparambind ws1 instance MP_L06_S02 W 5.1599999999999997e-06
+batchparambind ws2 instance MN_L06_S03 W 3.8700000000000002e-06
+batchparambind ws2 instance MP_L06_S03 W 7.7400000000000004e-06
+batchparambind ws3 instance MN_L06_S04 W 5.8049999999999995e-06
+batchparambind ws3 instance MP_L06_S04 W 1.1609999999999999e-05
+batchparambind ws0 instance MN_L06_S05 W 1.7199999999999998e-06
+batchparambind ws0 instance MP_L06_S05 W 3.4399999999999997e-06
+batchparambind ws1 instance MN_L06_S06 W 2.5799999999999999e-06
+batchparambind ws1 instance MP_L06_S06 W 5.1599999999999997e-06
+batchparambind ws2 instance MN_L06_S07 W 3.8700000000000002e-06
+batchparambind ws2 instance MP_L06_S07 W 7.7400000000000004e-06
+batchparambind ws3 instance MN_L06_S08 W 5.8049999999999995e-06
+batchparambind ws3 instance MP_L06_S08 W 1.1609999999999999e-05
+batchparambind ws0 instance MN_L06_S09 W 1.7199999999999998e-06
+batchparambind ws0 instance MP_L06_S09 W 3.4399999999999997e-06
+batchparambind ws1 instance MN_L06_S10 W 2.5799999999999999e-06
+batchparambind ws1 instance MP_L06_S10 W 5.1599999999999997e-06
+batchparambind ws2 instance MN_L06_S11 W 3.8700000000000002e-06
+batchparambind ws2 instance MP_L06_S11 W 7.7400000000000004e-06
+batchparambind ws0 instance MN_L07_S01 W 1.7599999999999999e-06
+batchparambind ws0 instance MP_L07_S01 W 3.5199999999999998e-06
+batchparambind ws1 instance MN_L07_S02 W 2.6400000000000001e-06
+batchparambind ws1 instance MP_L07_S02 W 5.2800000000000003e-06
+batchparambind ws2 instance MN_L07_S03 W 3.9600000000000002e-06
+batchparambind ws2 instance MP_L07_S03 W 7.9200000000000004e-06
+batchparambind ws3 instance MN_L07_S04 W 5.9399999999999999e-06
+batchparambind ws3 instance MP_L07_S04 W 1.188e-05
+batchparambind ws0 instance MN_L07_S05 W 1.7599999999999999e-06
+batchparambind ws0 instance MP_L07_S05 W 3.5199999999999998e-06
+batchparambind ws1 instance MN_L07_S06 W 2.6400000000000001e-06
+batchparambind ws1 instance MP_L07_S06 W 5.2800000000000003e-06
+batchparambind ws2 instance MN_L07_S07 W 3.9600000000000002e-06
+batchparambind ws2 instance MP_L07_S07 W 7.9200000000000004e-06
+batchparambind ws3 instance MN_L07_S08 W 5.9399999999999999e-06
+batchparambind ws3 instance MP_L07_S08 W 1.188e-05
+batchparambind ws0 instance MN_L07_S09 W 1.7599999999999999e-06
+batchparambind ws0 instance MP_L07_S09 W 3.5199999999999998e-06
+batchparambind ws1 instance MN_L07_S10 W 2.6400000000000001e-06
+batchparambind ws1 instance MP_L07_S10 W 5.2800000000000003e-06
+batchparambind ws2 instance MN_L07_S11 W 3.9600000000000002e-06
+batchparambind ws2 instance MP_L07_S11 W 7.9200000000000004e-06
+batchparambind ws0 instance MN_L08_S01 W 1.7999999999999999e-06
+batchparambind ws0 instance MP_L08_S01 W 3.5999999999999998e-06
+batchparambind ws1 instance MN_L08_S02 W 2.7e-06
+batchparambind ws1 instance MP_L08_S02 W 5.4e-06
+batchparambind ws2 instance MN_L08_S03 W 4.0500000000000002e-06
+batchparambind ws2 instance MP_L08_S03 W 8.1000000000000004e-06
+batchparambind ws3 instance MN_L08_S04 W 6.0750000000000003e-06
+batchparambind ws3 instance MP_L08_S04 W 1.2150000000000001e-05
+batchparambind ws0 instance MN_L08_S05 W 1.7999999999999999e-06
+batchparambind ws0 instance MP_L08_S05 W 3.5999999999999998e-06
+batchparambind ws1 instance MN_L08_S06 W 2.7e-06
+batchparambind ws1 instance MP_L08_S06 W 5.4e-06
+batchparambind ws2 instance MN_L08_S07 W 4.0500000000000002e-06
+batchparambind ws2 instance MP_L08_S07 W 8.1000000000000004e-06
+batchparambind ws3 instance MN_L08_S08 W 6.0750000000000003e-06
+batchparambind ws3 instance MP_L08_S08 W 1.2150000000000001e-05
+batchparambind ws0 instance MN_L08_S09 W 1.7999999999999999e-06
+batchparambind ws0 instance MP_L08_S09 W 3.5999999999999998e-06
+batchparambind ws1 instance MN_L08_S10 W 2.7e-06
+batchparambind ws1 instance MP_L08_S10 W 5.4e-06
+batchparambind ws2 instance MN_L08_S11 W 4.0500000000000002e-06
+batchparambind ws2 instance MP_L08_S11 W 8.1000000000000004e-06
+batchparambind ws0 instance MN_L09_S01 W 1.84e-06
+batchparambind ws0 instance MP_L09_S01 W 3.6799999999999999e-06
+batchparambind ws1 instance MN_L09_S02 W 2.7600000000000003e-06
+batchparambind ws1 instance MP_L09_S02 W 5.5200000000000005e-06
+batchparambind ws2 instance MN_L09_S03 W 4.1400000000000002e-06
+batchparambind ws2 instance MP_L09_S03 W 8.2800000000000003e-06
+batchparambind ws3 instance MN_L09_S04 W 6.2099999999999998e-06
+batchparambind ws3 instance MP_L09_S04 W 1.242e-05
+batchparambind ws0 instance MN_L09_S05 W 1.84e-06
+batchparambind ws0 instance MP_L09_S05 W 3.6799999999999999e-06
+batchparambind ws1 instance MN_L09_S06 W 2.7600000000000003e-06
+batchparambind ws1 instance MP_L09_S06 W 5.5200000000000005e-06
+batchparambind ws2 instance MN_L09_S07 W 4.1400000000000002e-06
+batchparambind ws2 instance MP_L09_S07 W 8.2800000000000003e-06
+batchparambind ws3 instance MN_L09_S08 W 6.2099999999999998e-06
+batchparambind ws3 instance MP_L09_S08 W 1.242e-05
+batchparambind ws0 instance MN_L09_S09 W 1.84e-06
+batchparambind ws0 instance MP_L09_S09 W 3.6799999999999999e-06
+batchparambind ws1 instance MN_L09_S10 W 2.7600000000000003e-06
+batchparambind ws1 instance MP_L09_S10 W 5.5200000000000005e-06
+batchparambind ws2 instance MN_L09_S11 W 4.1400000000000002e-06
+batchparambind ws2 instance MP_L09_S11 W 8.2800000000000003e-06
+batchparambind ws0 instance MN_L10_S01 W 1.8799999999999998e-06
+batchparambind ws0 instance MP_L10_S01 W 3.7599999999999996e-06
+batchparambind ws1 instance MN_L10_S02 W 2.8200000000000001e-06
+batchparambind ws1 instance MP_L10_S02 W 5.6400000000000002e-06
+batchparambind ws2 instance MN_L10_S03 W 4.2300000000000002e-06
+batchparambind ws2 instance MP_L10_S03 W 8.4600000000000003e-06
+batchparambind ws3 instance MN_L10_S04 W 6.3449999999999994e-06
+batchparambind ws3 instance MP_L10_S04 W 1.2689999999999999e-05
+batchparambind ws0 instance MN_L10_S05 W 1.8799999999999998e-06
+batchparambind ws0 instance MP_L10_S05 W 3.7599999999999996e-06
+batchparambind ws1 instance MN_L10_S06 W 2.8200000000000001e-06
+batchparambind ws1 instance MP_L10_S06 W 5.6400000000000002e-06
+batchparambind ws2 instance MN_L10_S07 W 4.2300000000000002e-06
+batchparambind ws2 instance MP_L10_S07 W 8.4600000000000003e-06
+batchparambind ws3 instance MN_L10_S08 W 6.3449999999999994e-06
+batchparambind ws3 instance MP_L10_S08 W 1.2689999999999999e-05
+batchparambind ws0 instance MN_L10_S09 W 1.8799999999999998e-06
+batchparambind ws0 instance MP_L10_S09 W 3.7599999999999996e-06
+batchparambind ws1 instance MN_L10_S10 W 2.8200000000000001e-06
+batchparambind ws1 instance MP_L10_S10 W 5.6400000000000002e-06
+batchparambind ws2 instance MN_L10_S11 W 4.2300000000000002e-06
+batchparambind ws2 instance MP_L10_S11 W 8.4600000000000003e-06
+batchparambind ws0 instance MN_L11_S01 W 1.9199999999999998e-06
+batchparambind ws0 instance MP_L11_S01 W 3.8399999999999997e-06
+batchparambind ws1 instance MN_L11_S02 W 2.88e-06
+batchparambind ws1 instance MP_L11_S02 W 5.7599999999999999e-06
+batchparambind ws2 instance MN_L11_S03 W 4.3200000000000001e-06
+batchparambind ws2 instance MP_L11_S03 W 8.6400000000000003e-06
+batchparambind ws3 instance MN_L11_S04 W 6.4799999999999998e-06
+batchparambind ws3 instance MP_L11_S04 W 1.296e-05
+batchparambind ws0 instance MN_L11_S05 W 1.9199999999999998e-06
+batchparambind ws0 instance MP_L11_S05 W 3.8399999999999997e-06
+batchparambind ws1 instance MN_L11_S06 W 2.88e-06
+batchparambind ws1 instance MP_L11_S06 W 5.7599999999999999e-06
+batchparambind ws2 instance MN_L11_S07 W 4.3200000000000001e-06
+batchparambind ws2 instance MP_L11_S07 W 8.6400000000000003e-06
+batchparambind ws3 instance MN_L11_S08 W 6.4799999999999998e-06
+batchparambind ws3 instance MP_L11_S08 W 1.296e-05
+batchparambind ws0 instance MN_L11_S09 W 1.9199999999999998e-06
+batchparambind ws0 instance MP_L11_S09 W 3.8399999999999997e-06
+batchparambind ws1 instance MN_L11_S10 W 2.88e-06
+batchparambind ws1 instance MP_L11_S10 W 5.7599999999999999e-06
+batchparambind ws2 instance MN_L11_S11 W 4.3200000000000001e-06
+batchparambind ws2 instance MP_L11_S11 W 8.6400000000000003e-06
+batchparambind ws0 instance MN_L12_S01 W 1.9599999999999999e-06
+batchparambind ws0 instance MP_L12_S01 W 3.9199999999999997e-06
+batchparambind ws1 instance MN_L12_S02 W 2.9400000000000002e-06
+batchparambind ws1 instance MP_L12_S02 W 5.8800000000000005e-06
+batchparambind ws2 instance MN_L12_S03 W 4.4100000000000001e-06
+batchparambind ws2 instance MP_L12_S03 W 8.8200000000000003e-06
+batchparambind ws3 instance MN_L12_S04 W 6.6149999999999993e-06
+batchparambind ws3 instance MP_L12_S04 W 1.3229999999999999e-05
+batchparambind ws0 instance MN_L12_S05 W 1.9599999999999999e-06
+batchparambind ws0 instance MP_L12_S05 W 3.9199999999999997e-06
+batchparambind ws1 instance MN_L12_S06 W 2.9400000000000002e-06
+batchparambind ws1 instance MP_L12_S06 W 5.8800000000000005e-06
+batchparambind ws2 instance MN_L12_S07 W 4.4100000000000001e-06
+batchparambind ws2 instance MP_L12_S07 W 8.8200000000000003e-06
+batchparambind ws3 instance MN_L12_S08 W 6.6149999999999993e-06
+batchparambind ws3 instance MP_L12_S08 W 1.3229999999999999e-05
+batchparambind ws0 instance MN_L12_S09 W 1.9599999999999999e-06
+batchparambind ws0 instance MP_L12_S09 W 3.9199999999999997e-06
+batchparambind ws1 instance MN_L12_S10 W 2.9400000000000002e-06
+batchparambind ws1 instance MP_L12_S10 W 5.8800000000000005e-06
+batchparambind ws2 instance MN_L12_S11 W 4.4100000000000001e-06
+batchparambind ws2 instance MP_L12_S11 W 8.8200000000000003e-06
+batchparambind ws0 instance MN_L13_S01 W 1.9999999999999999e-06
+batchparambind ws0 instance MP_L13_S01 W 3.9999999999999998e-06
+batchparambind ws1 instance MN_L13_S02 W 3.0000000000000001e-06
+batchparambind ws1 instance MP_L13_S02 W 6.0000000000000002e-06
+batchparambind ws2 instance MN_L13_S03 W 4.5000000000000001e-06
+batchparambind ws2 instance MP_L13_S03 W 9.0000000000000002e-06
+batchparambind ws3 instance MN_L13_S04 W 6.7499999999999997e-06
+batchparambind ws3 instance MP_L13_S04 W 1.3499999999999999e-05
+batchparambind ws0 instance MN_L13_S05 W 1.9999999999999999e-06
+batchparambind ws0 instance MP_L13_S05 W 3.9999999999999998e-06
+batchparambind ws1 instance MN_L13_S06 W 3.0000000000000001e-06
+batchparambind ws1 instance MP_L13_S06 W 6.0000000000000002e-06
+batchparambind ws2 instance MN_L13_S07 W 4.5000000000000001e-06
+batchparambind ws2 instance MP_L13_S07 W 9.0000000000000002e-06
+batchparambind ws3 instance MN_L13_S08 W 6.7499999999999997e-06
+batchparambind ws3 instance MP_L13_S08 W 1.3499999999999999e-05
+batchparambind ws0 instance MN_L13_S09 W 1.9999999999999999e-06
+batchparambind ws0 instance MP_L13_S09 W 3.9999999999999998e-06
+batchparambind ws1 instance MN_L13_S10 W 3.0000000000000001e-06
+batchparambind ws1 instance MP_L13_S10 W 6.0000000000000002e-06
+batchparambind ws2 instance MN_L13_S11 W 4.5000000000000001e-06
+batchparambind ws2 instance MP_L13_S11 W 9.0000000000000002e-06
+batchparambind ws0 instance MN_L14_S01 W 2.04e-06
+batchparambind ws0 instance MP_L14_S01 W 4.0799999999999999e-06
+batchparambind ws1 instance MN_L14_S02 W 3.0599999999999999e-06
+batchparambind ws1 instance MP_L14_S02 W 6.1199999999999999e-06
+batchparambind ws2 instance MN_L14_S03 W 4.5900000000000001e-06
+batchparambind ws2 instance MP_L14_S03 W 9.1800000000000002e-06
+batchparambind ws3 instance MN_L14_S04 W 6.8850000000000001e-06
+batchparambind ws3 instance MP_L14_S04 W 1.377e-05
+batchparambind ws0 instance MN_L14_S05 W 2.04e-06
+batchparambind ws0 instance MP_L14_S05 W 4.0799999999999999e-06
+batchparambind ws1 instance MN_L14_S06 W 3.0599999999999999e-06
+batchparambind ws1 instance MP_L14_S06 W 6.1199999999999999e-06
+batchparambind ws2 instance MN_L14_S07 W 4.5900000000000001e-06
+batchparambind ws2 instance MP_L14_S07 W 9.1800000000000002e-06
+batchparambind ws3 instance MN_L14_S08 W 6.8850000000000001e-06
+batchparambind ws3 instance MP_L14_S08 W 1.377e-05
+batchparambind ws0 instance MN_L14_S09 W 2.04e-06
+batchparambind ws0 instance MP_L14_S09 W 4.0799999999999999e-06
+batchparambind ws1 instance MN_L14_S10 W 3.0599999999999999e-06
+batchparambind ws1 instance MP_L14_S10 W 6.1199999999999999e-06
+batchparambind ws2 instance MN_L14_S11 W 4.5900000000000001e-06
+batchparambind ws2 instance MP_L14_S11 W 9.1800000000000002e-06
+batchparambind ws0 instance MN_L15_S01 W 2.08e-06
+batchparambind ws0 instance MP_L15_S01 W 4.16e-06
+batchparambind ws1 instance MN_L15_S02 W 3.1200000000000002e-06
+batchparambind ws1 instance MP_L15_S02 W 6.2400000000000004e-06
+batchparambind ws2 instance MN_L15_S03 W 4.6800000000000001e-06
+batchparambind ws2 instance MP_L15_S03 W 9.3600000000000002e-06
+batchparambind ws3 instance MN_L15_S04 W 7.0199999999999997e-06
+batchparambind ws3 instance MP_L15_S04 W 1.4039999999999999e-05
+batchparambind ws0 instance MN_L15_S05 W 2.08e-06
+batchparambind ws0 instance MP_L15_S05 W 4.16e-06
+batchparambind ws1 instance MN_L15_S06 W 3.1200000000000002e-06
+batchparambind ws1 instance MP_L15_S06 W 6.2400000000000004e-06
+batchparambind ws2 instance MN_L15_S07 W 4.6800000000000001e-06
+batchparambind ws2 instance MP_L15_S07 W 9.3600000000000002e-06
+batchparambind ws3 instance MN_L15_S08 W 7.0199999999999997e-06
+batchparambind ws3 instance MP_L15_S08 W 1.4039999999999999e-05
+batchparambind ws0 instance MN_L15_S09 W 2.08e-06
+batchparambind ws0 instance MP_L15_S09 W 4.16e-06
+batchparambind ws1 instance MN_L15_S10 W 3.1200000000000002e-06
+batchparambind ws1 instance MP_L15_S10 W 6.2400000000000004e-06
+batchparambind ws2 instance MN_L15_S11 W 4.6800000000000001e-06
+batchparambind ws2 instance MP_L15_S11 W 9.3600000000000002e-06
+batchparambind ws0 instance MN_L16_S01 W 2.12e-06
+batchparambind ws0 instance MP_L16_S01 W 4.2400000000000001e-06
+batchparambind ws1 instance MN_L16_S02 W 3.18e-06
+batchparambind ws1 instance MP_L16_S02 W 6.3600000000000001e-06
+batchparambind ws2 instance MN_L16_S03 W 4.7700000000000001e-06
+batchparambind ws2 instance MP_L16_S03 W 9.5400000000000001e-06
+batchparambind ws3 instance MN_L16_S04 W 7.1550000000000001e-06
+batchparambind ws3 instance MP_L16_S04 W 1.431e-05
+batchparambind ws0 instance MN_L16_S05 W 2.12e-06
+batchparambind ws0 instance MP_L16_S05 W 4.2400000000000001e-06
+batchparambind ws1 instance MN_L16_S06 W 3.18e-06
+batchparambind ws1 instance MP_L16_S06 W 6.3600000000000001e-06
+batchparambind ws2 instance MN_L16_S07 W 4.7700000000000001e-06
+batchparambind ws2 instance MP_L16_S07 W 9.5400000000000001e-06
+batchparambind ws3 instance MN_L16_S08 W 7.1550000000000001e-06
+batchparambind ws3 instance MP_L16_S08 W 1.431e-05
+batchparambind ws0 instance MN_L16_S09 W 2.12e-06
+batchparambind ws0 instance MP_L16_S09 W 4.2400000000000001e-06
+batchparambind ws1 instance MN_L16_S10 W 3.18e-06
+batchparambind ws1 instance MP_L16_S10 W 6.3600000000000001e-06
+batchparambind ws2 instance MN_L16_S11 W 4.7700000000000001e-06
+batchparambind ws2 instance MP_L16_S11 W 9.5400000000000001e-06
+batchparambind ws0 instance MN_L17_S01 W 2.1600000000000001e-06
+batchparambind ws0 instance MP_L17_S01 W 4.3200000000000001e-06
+batchparambind ws1 instance MN_L17_S02 W 3.2400000000000003e-06
+batchparambind ws1 instance MP_L17_S02 W 6.4800000000000006e-06
+batchparambind ws2 instance MN_L17_S03 W 4.8600000000000001e-06
+batchparambind ws2 instance MP_L17_S03 W 9.7200000000000001e-06
+batchparambind ws3 instance MN_L17_S04 W 7.2900000000000005e-06
+batchparambind ws3 instance MP_L17_S04 W 1.4580000000000001e-05
+batchparambind ws0 instance MN_L17_S05 W 2.1600000000000001e-06
+batchparambind ws0 instance MP_L17_S05 W 4.3200000000000001e-06
+batchparambind ws1 instance MN_L17_S06 W 3.2400000000000003e-06
+batchparambind ws1 instance MP_L17_S06 W 6.4800000000000006e-06
+batchparambind ws2 instance MN_L17_S07 W 4.8600000000000001e-06
+batchparambind ws2 instance MP_L17_S07 W 9.7200000000000001e-06
+batchparambind ws3 instance MN_L17_S08 W 7.2900000000000005e-06
+batchparambind ws3 instance MP_L17_S08 W 1.4580000000000001e-05
+batchparambind ws0 instance MN_L17_S09 W 2.1600000000000001e-06
+batchparambind ws0 instance MP_L17_S09 W 4.3200000000000001e-06
+batchparambind ws1 instance MN_L17_S10 W 3.2400000000000003e-06
+batchparambind ws1 instance MP_L17_S10 W 6.4800000000000006e-06
+batchparambind ws2 instance MN_L17_S11 W 4.8600000000000001e-06
+batchparambind ws2 instance MP_L17_S11 W 9.7200000000000001e-06
+batchparambind ws0 instance MN_L18_S01 W 2.2000000000000001e-06
+batchparambind ws0 instance MP_L18_S01 W 4.4000000000000002e-06
+batchparambind ws1 instance MN_L18_S02 W 3.3000000000000002e-06
+batchparambind ws1 instance MP_L18_S02 W 6.6000000000000003e-06
+batchparambind ws2 instance MN_L18_S03 W 4.9500000000000009e-06
+batchparambind ws2 instance MP_L18_S03 W 9.9000000000000018e-06
+batchparambind ws3 instance MN_L18_S04 W 7.4250000000000001e-06
+batchparambind ws3 instance MP_L18_S04 W 1.485e-05
+batchparambind ws0 instance MN_L18_S05 W 2.2000000000000001e-06
+batchparambind ws0 instance MP_L18_S05 W 4.4000000000000002e-06
+batchparambind ws1 instance MN_L18_S06 W 3.3000000000000002e-06
+batchparambind ws1 instance MP_L18_S06 W 6.6000000000000003e-06
+batchparambind ws2 instance MN_L18_S07 W 4.9500000000000009e-06
+batchparambind ws2 instance MP_L18_S07 W 9.9000000000000018e-06
+batchparambind ws3 instance MN_L18_S08 W 7.4250000000000001e-06
+batchparambind ws3 instance MP_L18_S08 W 1.485e-05
+batchparambind ws0 instance MN_L18_S09 W 2.2000000000000001e-06
+batchparambind ws0 instance MP_L18_S09 W 4.4000000000000002e-06
+batchparambind ws1 instance MN_L18_S10 W 3.3000000000000002e-06
+batchparambind ws1 instance MP_L18_S10 W 6.6000000000000003e-06
+batchparambind ws2 instance MN_L18_S11 W 4.9500000000000009e-06
+batchparambind ws2 instance MP_L18_S11 W 9.9000000000000018e-06
+batchparambind ws0 instance MN_L19_S01 W 2.2400000000000002e-06
+batchparambind ws0 instance MP_L19_S01 W 4.4800000000000003e-06
+batchparambind ws1 instance MN_L19_S02 W 3.3600000000000004e-06
+batchparambind ws1 instance MP_L19_S02 W 6.7200000000000009e-06
+batchparambind ws2 instance MN_L19_S03 W 5.0400000000000009e-06
+batchparambind ws2 instance MP_L19_S03 W 1.0080000000000002e-05
+batchparambind ws3 instance MN_L19_S04 W 7.5600000000000005e-06
+batchparambind ws3 instance MP_L19_S04 W 1.5120000000000001e-05
+batchparambind ws0 instance MN_L19_S05 W 2.2400000000000002e-06
+batchparambind ws0 instance MP_L19_S05 W 4.4800000000000003e-06
+batchparambind ws1 instance MN_L19_S06 W 3.3600000000000004e-06
+batchparambind ws1 instance MP_L19_S06 W 6.7200000000000009e-06
+batchparambind ws2 instance MN_L19_S07 W 5.0400000000000009e-06
+batchparambind ws2 instance MP_L19_S07 W 1.0080000000000002e-05
+batchparambind ws3 instance MN_L19_S08 W 7.5600000000000005e-06
+batchparambind ws3 instance MP_L19_S08 W 1.5120000000000001e-05
+batchparambind ws0 instance MN_L19_S09 W 2.2400000000000002e-06
+batchparambind ws0 instance MP_L19_S09 W 4.4800000000000003e-06
+batchparambind ws1 instance MN_L19_S10 W 3.3600000000000004e-06
+batchparambind ws1 instance MP_L19_S10 W 6.7200000000000009e-06
+batchparambind ws2 instance MN_L19_S11 W 5.0400000000000009e-06
+batchparambind ws2 instance MP_L19_S11 W 1.0080000000000002e-05
+batchparambind ws0 instance MN_L20_S01 W 2.2800000000000002e-06
+batchparambind ws0 instance MP_L20_S01 W 4.5600000000000004e-06
+batchparambind ws1 instance MN_L20_S02 W 3.4200000000000003e-06
+batchparambind ws1 instance MP_L20_S02 W 6.8400000000000006e-06
+batchparambind ws2 instance MN_L20_S03 W 5.1300000000000009e-06
+batchparambind ws2 instance MP_L20_S03 W 1.0260000000000002e-05
+batchparambind ws3 instance MN_L20_S04 W 7.695e-06
+batchparambind ws3 instance MP_L20_S04 W 1.539e-05
+batchparambind ws0 instance MN_L20_S05 W 2.2800000000000002e-06
+batchparambind ws0 instance MP_L20_S05 W 4.5600000000000004e-06
+batchparambind ws1 instance MN_L20_S06 W 3.4200000000000003e-06
+batchparambind ws1 instance MP_L20_S06 W 6.8400000000000006e-06
+batchparambind ws2 instance MN_L20_S07 W 5.1300000000000009e-06
+batchparambind ws2 instance MP_L20_S07 W 1.0260000000000002e-05
+batchparambind ws3 instance MN_L20_S08 W 7.695e-06
+batchparambind ws3 instance MP_L20_S08 W 1.539e-05
+batchparambind ws0 instance MN_L20_S09 W 2.2800000000000002e-06
+batchparambind ws0 instance MP_L20_S09 W 4.5600000000000004e-06
+batchparambind ws1 instance MN_L20_S10 W 3.4200000000000003e-06
+batchparambind ws1 instance MP_L20_S10 W 6.8400000000000006e-06
+batchparambind ws2 instance MN_L20_S11 W 5.1300000000000009e-06
+batchparambind ws2 instance MP_L20_S11 W 1.0260000000000002e-05
+batchparambind ws0 instance MN_L21_S01 W 2.3200000000000002e-06
+batchparambind ws0 instance MP_L21_S01 W 4.6400000000000005e-06
+batchparambind ws1 instance MN_L21_S02 W 3.4800000000000006e-06
+batchparambind ws1 instance MP_L21_S02 W 6.9600000000000011e-06
+batchparambind ws2 instance MN_L21_S03 W 5.2200000000000008e-06
+batchparambind ws2 instance MP_L21_S03 W 1.0440000000000002e-05
+batchparambind ws3 instance MN_L21_S04 W 7.8300000000000013e-06
+batchparambind ws3 instance MP_L21_S04 W 1.5660000000000003e-05
+batchparambind ws0 instance MN_L21_S05 W 2.3200000000000002e-06
+batchparambind ws0 instance MP_L21_S05 W 4.6400000000000005e-06
+batchparambind ws1 instance MN_L21_S06 W 3.4800000000000006e-06
+batchparambind ws1 instance MP_L21_S06 W 6.9600000000000011e-06
+batchparambind ws2 instance MN_L21_S07 W 5.2200000000000008e-06
+batchparambind ws2 instance MP_L21_S07 W 1.0440000000000002e-05
+batchparambind ws3 instance MN_L21_S08 W 7.8300000000000013e-06
+batchparambind ws3 instance MP_L21_S08 W 1.5660000000000003e-05
+batchparambind ws0 instance MN_L21_S09 W 2.3200000000000002e-06
+batchparambind ws0 instance MP_L21_S09 W 4.6400000000000005e-06
+batchparambind ws1 instance MN_L21_S10 W 3.4800000000000006e-06
+batchparambind ws1 instance MP_L21_S10 W 6.9600000000000011e-06
+batchparambind ws2 instance MN_L21_S11 W 5.2200000000000008e-06
+batchparambind ws2 instance MP_L21_S11 W 1.0440000000000002e-05
+batchparambind ws0 instance MN_L22_S01 W 2.3599999999999999e-06
+batchparambind ws0 instance MP_L22_S01 W 4.7199999999999997e-06
+batchparambind ws1 instance MN_L22_S02 W 3.54e-06
+batchparambind ws1 instance MP_L22_S02 W 7.08e-06
+batchparambind ws2 instance MN_L22_S03 W 5.31e-06
+batchparambind ws2 instance MP_L22_S03 W 1.062e-05
+batchparambind ws3 instance MN_L22_S04 W 7.9649999999999991e-06
+batchparambind ws3 instance MP_L22_S04 W 1.5929999999999998e-05
+batchparambind ws0 instance MN_L22_S05 W 2.3599999999999999e-06
+batchparambind ws0 instance MP_L22_S05 W 4.7199999999999997e-06
+batchparambind ws1 instance MN_L22_S06 W 3.54e-06
+batchparambind ws1 instance MP_L22_S06 W 7.08e-06
+batchparambind ws2 instance MN_L22_S07 W 5.31e-06
+batchparambind ws2 instance MP_L22_S07 W 1.062e-05
+batchparambind ws3 instance MN_L22_S08 W 7.9649999999999991e-06
+batchparambind ws3 instance MP_L22_S08 W 1.5929999999999998e-05
+batchparambind ws0 instance MN_L22_S09 W 2.3599999999999999e-06
+batchparambind ws0 instance MP_L22_S09 W 4.7199999999999997e-06
+batchparambind ws1 instance MN_L22_S10 W 3.54e-06
+batchparambind ws1 instance MP_L22_S10 W 7.08e-06
+batchparambind ws2 instance MN_L22_S11 W 5.31e-06
+batchparambind ws2 instance MP_L22_S11 W 1.062e-05
+batchparambind ws0 instance MN_L23_S01 W 2.3999999999999999e-06
+batchparambind ws0 instance MP_L23_S01 W 4.7999999999999998e-06
+batchparambind ws1 instance MN_L23_S02 W 3.5999999999999998e-06
+batchparambind ws1 instance MP_L23_S02 W 7.1999999999999997e-06
+batchparambind ws2 instance MN_L23_S03 W 5.4e-06
+batchparambind ws2 instance MP_L23_S03 W 1.08e-05
+batchparambind ws3 instance MN_L23_S04 W 8.0999999999999987e-06
+batchparambind ws3 instance MP_L23_S04 W 1.6199999999999997e-05
+batchparambind ws0 instance MN_L23_S05 W 2.3999999999999999e-06
+batchparambind ws0 instance MP_L23_S05 W 4.7999999999999998e-06
+batchparambind ws1 instance MN_L23_S06 W 3.5999999999999998e-06
+batchparambind ws1 instance MP_L23_S06 W 7.1999999999999997e-06
+batchparambind ws2 instance MN_L23_S07 W 5.4e-06
+batchparambind ws2 instance MP_L23_S07 W 1.08e-05
+batchparambind ws3 instance MN_L23_S08 W 8.0999999999999987e-06
+batchparambind ws3 instance MP_L23_S08 W 1.6199999999999997e-05
+batchparambind ws0 instance MN_L23_S09 W 2.3999999999999999e-06
+batchparambind ws0 instance MP_L23_S09 W 4.7999999999999998e-06
+batchparambind ws1 instance MN_L23_S10 W 3.5999999999999998e-06
+batchparambind ws1 instance MP_L23_S10 W 7.1999999999999997e-06
+batchparambind ws2 instance MN_L23_S11 W 5.4e-06
+batchparambind ws2 instance MP_L23_S11 W 1.08e-05
+batchparambind ws0 instance MN_L24_S01 W 2.4399999999999999e-06
+batchparambind ws0 instance MP_L24_S01 W 4.8799999999999999e-06
+batchparambind ws1 instance MN_L24_S02 W 3.6600000000000001e-06
+batchparambind ws1 instance MP_L24_S02 W 7.3200000000000002e-06
+batchparambind ws2 instance MN_L24_S03 W 5.49e-06
+batchparambind ws2 instance MP_L24_S03 W 1.098e-05
+batchparambind ws3 instance MN_L24_S04 W 8.2349999999999999e-06
+batchparambind ws3 instance MP_L24_S04 W 1.647e-05
+batchparambind ws0 instance MN_L24_S05 W 2.4399999999999999e-06
+batchparambind ws0 instance MP_L24_S05 W 4.8799999999999999e-06
+batchparambind ws1 instance MN_L24_S06 W 3.6600000000000001e-06
+batchparambind ws1 instance MP_L24_S06 W 7.3200000000000002e-06
+batchparambind ws2 instance MN_L24_S07 W 5.49e-06
+batchparambind ws2 instance MP_L24_S07 W 1.098e-05
+batchparambind ws3 instance MN_L24_S08 W 8.2349999999999999e-06
+batchparambind ws3 instance MP_L24_S08 W 1.647e-05
+batchparambind ws0 instance MN_L24_S09 W 2.4399999999999999e-06
+batchparambind ws0 instance MP_L24_S09 W 4.8799999999999999e-06
+batchparambind ws1 instance MN_L24_S10 W 3.6600000000000001e-06
+batchparambind ws1 instance MP_L24_S10 W 7.3200000000000002e-06
+batchparambind ws2 instance MN_L24_S11 W 5.49e-06
+batchparambind ws2 instance MP_L24_S11 W 1.098e-05
+batchparambind ws0 instance MN_L25_S01 W 2.48e-06
+batchparambind ws0 instance MP_L25_S01 W 4.9599999999999999e-06
+batchparambind ws1 instance MN_L25_S02 W 3.72e-06
+batchparambind ws1 instance MP_L25_S02 W 7.4399999999999999e-06
+batchparambind ws2 instance MN_L25_S03 W 5.5799999999999999e-06
+batchparambind ws2 instance MP_L25_S03 W 1.116e-05
+batchparambind ws3 instance MN_L25_S04 W 8.3699999999999995e-06
+batchparambind ws3 instance MP_L25_S04 W 1.6739999999999999e-05
+batchparambind ws0 instance MN_L25_S05 W 2.48e-06
+batchparambind ws0 instance MP_L25_S05 W 4.9599999999999999e-06
+batchparambind ws1 instance MN_L25_S06 W 3.72e-06
+batchparambind ws1 instance MP_L25_S06 W 7.4399999999999999e-06
+batchparambind ws2 instance MN_L25_S07 W 5.5799999999999999e-06
+batchparambind ws2 instance MP_L25_S07 W 1.116e-05
+batchparambind ws3 instance MN_L25_S08 W 8.3699999999999995e-06
+batchparambind ws3 instance MP_L25_S08 W 1.6739999999999999e-05
+batchparambind ws0 instance MN_L25_S09 W 2.48e-06
+batchparambind ws0 instance MP_L25_S09 W 4.9599999999999999e-06
+batchparambind ws1 instance MN_L25_S10 W 3.72e-06
+batchparambind ws1 instance MP_L25_S10 W 7.4399999999999999e-06
+batchparambind ws2 instance MN_L25_S11 W 5.5799999999999999e-06
+batchparambind ws2 instance MP_L25_S11 W 1.116e-05
+batchparam vthn 0.45126483051096039
+batchparam vthp -0.43712328775058912
+batchparam u0n 0.054472227924512562
+batchparam u0p 0.019642227633496968
+batchparam rdswn 95.093588416662513
+batchparam rdswp 125.06632680402315
+batchparam vsatn 87504.447322012653
+batchparam vsatp 75147.443178696412
+batchparam eta0n 0.086119024107108172
+batchparam eta0p 0.072375500135660659
+batchparam ws0 0.9297506302192986
+batchparam ws1 1.0376459501931772
+batchparam ws2 0.95303198059391914
+batchparam ws3 1.02285909173834
+dc vin 0 1.8 0.1
+batchlogic p000000_l01 v(in) v(l01_n11) i(VDD) 1.8
+batchlogic p000000_l01t v(in) v(l01_n01) i(VDD) 1.8
+batchlogic p000000_l07 v(in) v(l07_n11) i(VDD) 1.8
+batchlogic p000000_l07t v(in) v(l07_n01) i(VDD) 1.8
+batchlogic p000000_l13 v(in) v(l13_n11) i(VDD) 1.8
+batchlogic p000000_l13t v(in) v(l13_n01) i(VDD) 1.8
+batchlogic p000000_l19 v(in) v(l19_n11) i(VDD) 1.8
+batchlogic p000000_l19t v(in) v(l19_n01) i(VDD) 1.8
+batchlogic p000000_l25 v(in) v(l25_n11) i(VDD) 1.8
+batchlogic p000000_l25t v(in) v(l25_n01) i(VDD) 1.8
+destroy $curplot
+batchparam vthn 0.4416960313164332
+batchparam vthp -0.4532675514368949
+batchparam u0n 0.054724914205196845
+batchparam u0p 0.020404897023237323
+batchparam rdswn 97.576109085495176
+batchparam rdswp 116.85102835365008
+batchparam vsatn 75478.12811154114
+batchparam vsatp 77062.760408557355
+batchparam eta0n 0.080435244689600047
+batchparam eta0p 0.076607981130987865
+batchparam ws0 1.0178994352543229
+batchparam ws1 0.98263236961936784
+batchparam ws2 1.0415687192824925
+batchparam ws3 1.0547795127571304
+dc vin 0 1.8 0.1
+batchlogic p000001_l01 v(in) v(l01_n11) i(VDD) 1.8
+batchlogic p000001_l01t v(in) v(l01_n01) i(VDD) 1.8
+batchlogic p000001_l07 v(in) v(l07_n11) i(VDD) 1.8
+batchlogic p000001_l07t v(in) v(l07_n01) i(VDD) 1.8
+batchlogic p000001_l13 v(in) v(l13_n11) i(VDD) 1.8
+batchlogic p000001_l13t v(in) v(l13_n01) i(VDD) 1.8
+batchlogic p000001_l19 v(in) v(l19_n11) i(VDD) 1.8
+batchlogic p000001_l19t v(in) v(l19_n01) i(VDD) 1.8
+batchlogic p000001_l25 v(in) v(l25_n11) i(VDD) 1.8
+batchlogic p000001_l25t v(in) v(l25_n01) i(VDD) 1.8
+destroy $curplot
+batchparam vthn 0.46491769949940609
+batchparam vthp -0.45865466766240509
+batchparam u0n 0.046727852190048734
+batchparam u0p 0.018425943840254033
+batchparam rdswn 104.78000927547589
+batchparam rdswp 113.35504216102532
+batchparam vsatn 78677.730953723207
+batchparam vsatp 74876.706575867516
+batchparam eta0n 0.080084308024550105
+batchparam eta0p 0.077970201016476295
+batchparam ws0 1.088283844172778
+batchparam ws1 0.9342640679167451
+batchparam ws2 1.0713255540580897
+batchparam ws3 0.99484078422620237
+dc vin 0 1.8 0.1
+batchlogic p000002_l01 v(in) v(l01_n11) i(VDD) 1.8
+batchlogic p000002_l01t v(in) v(l01_n01) i(VDD) 1.8
+batchlogic p000002_l07 v(in) v(l07_n11) i(VDD) 1.8
+batchlogic p000002_l07t v(in) v(l07_n01) i(VDD) 1.8
+batchlogic p000002_l13 v(in) v(l13_n11) i(VDD) 1.8
+batchlogic p000002_l13t v(in) v(l13_n01) i(VDD) 1.8
+batchlogic p000002_l19 v(in) v(l19_n11) i(VDD) 1.8
+batchlogic p000002_l19t v(in) v(l19_n01) i(VDD) 1.8
+batchlogic p000002_l25 v(in) v(l25_n11) i(VDD) 1.8
+batchlogic p000002_l25t v(in) v(l25_n01) i(VDD) 1.8
+destroy $curplot
+batchparam vthn 0.45667128430832954
+batchparam vthp -0.47250069269426731
+batchparam u0n 0.047759465422216825
+batchparam u0p 0.01891063529661248
+batchparam rdswn 108.53063414393735
+batchparam rdswp 108.96779365498017
+batchparam vsatn 86118.979285999318
+batchparam vsatp 76162.810464638082
+batchparam eta0n 0.075014434473199387
+batchparam eta0p 0.078502203644315385
+batchparam ws0 1.0371247722231445
+batchparam ws1 1.0550425731897928
+batchparam ws2 0.92532304738848803
+batchparam ws3 1.0866314150251111
+dc vin 0 1.8 0.1
+batchlogic p000003_l01 v(in) v(l01_n11) i(VDD) 1.8
+batchlogic p000003_l01t v(in) v(l01_n01) i(VDD) 1.8
+batchlogic p000003_l07 v(in) v(l07_n11) i(VDD) 1.8
+batchlogic p000003_l07t v(in) v(l07_n01) i(VDD) 1.8
+batchlogic p000003_l13 v(in) v(l13_n11) i(VDD) 1.8
+batchlogic p000003_l13t v(in) v(l13_n01) i(VDD) 1.8
+batchlogic p000003_l19 v(in) v(l19_n11) i(VDD) 1.8
+batchlogic p000003_l19t v(in) v(l19_n01) i(VDD) 1.8
+batchlogic p000003_l25 v(in) v(l25_n11) i(VDD) 1.8
+batchlogic p000003_l25t v(in) v(l25_n01) i(VDD) 1.8
+destroy $curplot
+batchparam vthn 0.42887517271908149
+batchparam vthp -0.44641858129778245
+batchparam u0n 0.052076722159991443
+batchparam u0p 0.018133164379206663
+batchparam rdswn 97.825918937038011
+batchparam rdswp 114.04744445207079
+batchparam vsatn 81628.125581516491
+batchparam vsatp 75439.647769938412
+batchparam eta0n 0.073789423157502532
+batchparam eta0p 0.087891071905445164
+batchparam ws0 0.90157231341960808
+batchparam ws1 0.90084149641583744
+batchparam ws2 1.0885479940738818
+batchparam ws3 1.0643917650893009
+dc vin 0 1.8 0.1
+batchlogic p000004_l01 v(in) v(l01_n11) i(VDD) 1.8
+batchlogic p000004_l01t v(in) v(l01_n01) i(VDD) 1.8
+batchlogic p000004_l07 v(in) v(l07_n11) i(VDD) 1.8
+batchlogic p000004_l07t v(in) v(l07_n01) i(VDD) 1.8
+batchlogic p000004_l13 v(in) v(l13_n11) i(VDD) 1.8
+batchlogic p000004_l13t v(in) v(l13_n01) i(VDD) 1.8
+batchlogic p000004_l19 v(in) v(l19_n11) i(VDD) 1.8
+batchlogic p000004_l19t v(in) v(l19_n01) i(VDD) 1.8
+batchlogic p000004_l25 v(in) v(l25_n11) i(VDD) 1.8
+batchlogic p000004_l25t v(in) v(l25_n01) i(VDD) 1.8
+destroy $curplot
+batchparam vthn 0.42062976228570609
+batchparam vthp -0.47532511469164346
+batchparam u0n 0.045986391342465655
+batchparam u0p 0.0207865039080629
+batchparam rdswn 91.57719414651001
+batchparam rdswp 124.15476689493943
+batchparam vsatn 73421.275473975227
+batchparam vsatp 86011.616771304543
+batchparam eta0n 0.082291906621727029
+batchparam eta0p 0.075283092756474268
+batchparam ws0 1.0738836304791741
+batchparam ws1 1.0747705751756211
+batchparam ws2 0.92023215427767324
+batchparam ws3 1.0906466519882607
+dc vin 0 1.8 0.1
+batchlogic p000005_l01 v(in) v(l01_n11) i(VDD) 1.8
+batchlogic p000005_l01t v(in) v(l01_n01) i(VDD) 1.8
+batchlogic p000005_l07 v(in) v(l07_n11) i(VDD) 1.8
+batchlogic p000005_l07t v(in) v(l07_n01) i(VDD) 1.8
+batchlogic p000005_l13 v(in) v(l13_n11) i(VDD) 1.8
+batchlogic p000005_l13t v(in) v(l13_n01) i(VDD) 1.8
+batchlogic p000005_l19 v(in) v(l19_n11) i(VDD) 1.8
+batchlogic p000005_l19t v(in) v(l19_n01) i(VDD) 1.8
+batchlogic p000005_l25 v(in) v(l25_n11) i(VDD) 1.8
+batchlogic p000005_l25t v(in) v(l25_n01) i(VDD) 1.8
+destroy $curplot
+batchparam vthn 0.42138780776688017
+batchparam vthp -0.42322228605583578
+batchparam u0n 0.047359720325786003
+batchparam u0p 0.02076627523936582
+batchparam rdswn 94.635862262155541
+batchparam rdswp 112.08739725960683
+batchparam vsatn 85948.727223747919
+batchparam vsatp 86077.072288854921
+batchparam eta0n 0.085976119657146022
+batchparam eta0p 0.086354164174372069
+batchparam ws0 0.93949918453018033
+batchparam ws1 1.0184266608053729
+batchparam ws2 1.0827542532567387
+batchparam ws3 0.92158507920998622
+dc vin 0 1.8 0.1
+batchlogic p000006_l01 v(in) v(l01_n11) i(VDD) 1.8
+batchlogic p000006_l01t v(in) v(l01_n01) i(VDD) 1.8
+batchlogic p000006_l07 v(in) v(l07_n11) i(VDD) 1.8
+batchlogic p000006_l07t v(in) v(l07_n01) i(VDD) 1.8
+batchlogic p000006_l13 v(in) v(l13_n11) i(VDD) 1.8
+batchlogic p000006_l13t v(in) v(l13_n01) i(VDD) 1.8
+batchlogic p000006_l19 v(in) v(l19_n11) i(VDD) 1.8
+batchlogic p000006_l19t v(in) v(l19_n01) i(VDD) 1.8
+batchlogic p000006_l25 v(in) v(l25_n11) i(VDD) 1.8
+batchlogic p000006_l25t v(in) v(l25_n01) i(VDD) 1.8
+destroy $curplot
+batchparam vthn 0.46812422049213187
+batchparam vthp -0.43730854524382734
+batchparam u0n 0.053452486719753722
+batchparam u0p 0.01818899910651512
+batchparam rdswn 107.54347614911727
+batchparam rdswp 122.48052288265656
+batchparam vsatn 75740.432771009859
+batchparam vsatp 87484.796977788574
+batchparam eta0n 0.074216356099342698
+batchparam eta0p 0.081576772900871897
+batchparam ws0 0.93697611759489019
+batchparam ws1 0.99170689585539273
+batchparam ws2 1.0460596227919086
+batchparam ws3 1.0478662646431864
+dc vin 0 1.8 0.1
+batchlogic p000007_l01 v(in) v(l01_n11) i(VDD) 1.8
+batchlogic p000007_l01t v(in) v(l01_n01) i(VDD) 1.8
+batchlogic p000007_l07 v(in) v(l07_n11) i(VDD) 1.8
+batchlogic p000007_l07t v(in) v(l07_n01) i(VDD) 1.8
+batchlogic p000007_l13 v(in) v(l13_n11) i(VDD) 1.8
+batchlogic p000007_l13t v(in) v(l13_n01) i(VDD) 1.8
+batchlogic p000007_l19 v(in) v(l19_n11) i(VDD) 1.8
+batchlogic p000007_l19t v(in) v(l19_n01) i(VDD) 1.8
+batchlogic p000007_l25 v(in) v(l25_n11) i(VDD) 1.8
+batchlogic p000007_l25t v(in) v(l25_n01) i(VDD) 1.8
+destroy $curplot
+batchparam vthn 0.4736271953963182
+batchparam vthp -0.42787136856370245
+batchparam u0n 0.049086589780280382
+batchparam u0p 0.01880149311864698
+batchparam rdswn 100.57080509450454
+batchparam rdswp 128.01324363712268
+batchparam vsatn 87896.275986940629
+batchparam vsatp 86794.766491619899
+batchparam eta0n 0.08277948353215947
+batchparam eta0p 0.074727202431229933
+batchparam ws0 1.0558060639899538
+batchparam ws1 0.93721643908579577
+batchparam ws2 1.0958492461173266
+batchparam ws3 0.93104808354788071
+dc vin 0 1.8 0.1
+batchlogic p000008_l01 v(in) v(l01_n11) i(VDD) 1.8
+batchlogic p000008_l01t v(in) v(l01_n01) i(VDD) 1.8
+batchlogic p000008_l07 v(in) v(l07_n11) i(VDD) 1.8
+batchlogic p000008_l07t v(in) v(l07_n01) i(VDD) 1.8
+batchlogic p000008_l13 v(in) v(l13_n11) i(VDD) 1.8
+batchlogic p000008_l13t v(in) v(l13_n01) i(VDD) 1.8
+batchlogic p000008_l19 v(in) v(l19_n11) i(VDD) 1.8
+batchlogic p000008_l19t v(in) v(l19_n01) i(VDD) 1.8
+batchlogic p000008_l25 v(in) v(l25_n11) i(VDD) 1.8
+batchlogic p000008_l25t v(in) v(l25_n01) i(VDD) 1.8
+destroy $curplot
+batchparam vthn 0.46113088651321543
+batchparam vthp -0.45951877739644703
+batchparam u0n 0.045507117306345879
+batchparam u0p 0.020092225027548007
+batchparam rdswn 94.306886023369273
+batchparam rdswp 120.88687407697961
+batchparam vsatn 76243.390353242459
+batchparam vsatp 75871.08660228677
+batchparam eta0n 0.077750377671547605
+batchparam eta0p 0.081609608179626911
+batchparam ws0 0.95857051896890766
+batchparam ws1 0.90002993035741052
+batchparam ws2 0.92645191792125892
+batchparam ws3 1.0399229736609898
+dc vin 0 1.8 0.1
+batchlogic p000009_l01 v(in) v(l01_n11) i(VDD) 1.8
+batchlogic p000009_l01t v(in) v(l01_n01) i(VDD) 1.8
+batchlogic p000009_l07 v(in) v(l07_n11) i(VDD) 1.8
+batchlogic p000009_l07t v(in) v(l07_n01) i(VDD) 1.8
+batchlogic p000009_l13 v(in) v(l13_n11) i(VDD) 1.8
+batchlogic p000009_l13t v(in) v(l13_n01) i(VDD) 1.8
+batchlogic p000009_l19 v(in) v(l19_n11) i(VDD) 1.8
+batchlogic p000009_l19t v(in) v(l19_n01) i(VDD) 1.8
+batchlogic p000009_l25 v(in) v(l25_n11) i(VDD) 1.8
+batchlogic p000009_l25t v(in) v(l25_n01) i(VDD) 1.8
+destroy $curplot

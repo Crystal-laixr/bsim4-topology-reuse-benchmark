@@ -1,0 +1,92 @@
+{
+  "seed": 717,
+  "points": 500,
+  "lanes": 25,
+  "stages_per_lane": 11,
+  "mosfet_count": 550,
+  "varying_parameters": 14,
+  "selected_lanes": [
+    1,
+    7,
+    13,
+    19,
+    25
+  ],
+  "dc_sweep": {
+    "start_v": 0.0,
+    "stop_v": 1.8,
+    "step_v": 0.1
+  },
+  "parameters": [
+    {
+      "name": "vthn",
+      "low": 0.42,
+      "high": 0.48
+    },
+    {
+      "name": "vthp",
+      "low": -0.48,
+      "high": -0.42
+    },
+    {
+      "name": "u0n",
+      "low": 0.045,
+      "high": 0.055
+    },
+    {
+      "name": "u0p",
+      "low": 0.018,
+      "high": 0.022
+    },
+    {
+      "name": "rdswn",
+      "low": 90.0,
+      "high": 110.0
+    },
+    {
+      "name": "rdswp",
+      "low": 108.0,
+      "high": 132.0
+    },
+    {
+      "name": "vsatn",
+      "low": 72000.0,
+      "high": 88000.0
+    },
+    {
+      "name": "vsatp",
+      "low": 72000.0,
+      "high": 88000.0
+    },
+    {
+      "name": "eta0n",
+      "low": 0.072,
+      "high": 0.088
+    },
+    {
+      "name": "eta0p",
+      "low": 0.072,
+      "high": 0.088
+    },
+    {
+      "name": "ws0",
+      "low": 0.9,
+      "high": 1.1
+    },
+    {
+      "name": "ws1",
+      "low": 0.9,
+      "high": 1.1
+    },
+    {
+      "name": "ws2",
+      "low": 0.9,
+      "high": 1.1
+    },
+    {
+      "name": "ws3",
+      "low": 0.9,
+      "high": 1.1
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+data/work/
+data/raw/**/*.tmp
+upstream/ngspice_for_sizing/
+

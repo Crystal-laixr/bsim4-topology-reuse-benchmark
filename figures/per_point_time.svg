@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450" y="24" text-anchor="middle" font-family="sans-serif" font-size="18">Task count vs median per-point time</text>
+<line x1="90" y1="480.00" x2="870" y2="480.00" stroke="#dddddd"/>
+<text x="80" y="485.00" text-anchor="end" font-family="sans-serif" font-size="12">0</text>
+<line x1="90" y1="392.00" x2="870" y2="392.00" stroke="#dddddd"/>
+<text x="80" y="397.00" text-anchor="end" font-family="sans-serif" font-size="12">0.0525</text>
+<line x1="90" y1="304.00" x2="870" y2="304.00" stroke="#dddddd"/>
+<text x="80" y="309.00" text-anchor="end" font-family="sans-serif" font-size="12">0.105</text>
+<line x1="90" y1="216.00" x2="870" y2="216.00" stroke="#dddddd"/>
+<text x="80" y="221.00" text-anchor="end" font-family="sans-serif" font-size="12">0.157</text>
+<line x1="90" y1="128.00" x2="870" y2="128.00" stroke="#dddddd"/>
+<text x="80" y="133.00" text-anchor="end" font-family="sans-serif" font-size="12">0.21</text>
+<line x1="90" y1="40.00" x2="870" y2="40.00" stroke="#dddddd"/>
+<text x="80" y="45.00" text-anchor="end" font-family="sans-serif" font-size="12">0.262</text>
+<text x="90.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">1</text>
+<text x="379.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">10</text>
+<text x="581.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">50</text>
+<text x="668.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">100</text>
+<text x="755.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">200</text>
+<text x="870.00" y="505" text-anchor="middle" font-family="sans-serif" font-size="12">500</text>
+<polyline points="90.00,75.64 379.00,72.59 581.00,76.08 668.00,77.39 755.00,78.91 870.00,79.49" fill="none" stroke="#1b9e77" stroke-width="3"/>
+<circle cx="90.00" cy="75.64" r="4" fill="#1b9e77"/>
+<circle cx="379.00" cy="72.59" r="4" fill="#1b9e77"/>
+<circle cx="581.00" cy="76.08" r="4" fill="#1b9e77"/>
+<circle cx="668.00" cy="77.39" r="4" fill="#1b9e77"/>
+<circle cx="755.00" cy="78.91" r="4" fill="#1b9e77"/>
+<circle cx="870.00" cy="79.49" r="4" fill="#1b9e77"/>
+<line x1="620" y1="55" x2="650" y2="55" stroke="#1b9e77" stroke-width="3"/>
+<text x="660" y="60" font-family="sans-serif" font-size="12">hspice_independent</text>
+<polyline points="90.00,80.47 379.00,198.24 581.00,309.56 668.00,322.07 755.00,320.60 870.00,296.96" fill="none" stroke="#d95f02" stroke-width="3"/>
+<circle cx="90.00" cy="80.47" r="4" fill="#d95f02"/>
+<circle cx="379.00" cy="198.24" r="4" fill="#d95f02"/>
+<circle cx="581.00" cy="309.56" r="4" fill="#d95f02"/>
+<circle cx="668.00" cy="322.07" r="4" fill="#d95f02"/>
+<circle cx="755.00" cy="320.60" r="4" fill="#d95f02"/>
+<circle cx="870.00" cy="296.96" r="4" fill="#d95f02"/>
+<line x1="620" y1="79" x2="650" y2="79" stroke="#d95f02" stroke-width="3"/>
+<text x="660" y="84" font-family="sans-serif" font-size="12">hspice_alter</text>
+<polyline points="90.00,357.95 379.00,361.93 581.00,363.18 668.00,362.74 755.00,363.93 870.00,364.08" fill="none" stroke="#7570b3" stroke-width="3"/>
+<circle cx="90.00" cy="357.95" r="4" fill="#7570b3"/>
+<circle cx="379.00" cy="361.93" r="4" fill="#7570b3"/>
+<circle cx="581.00" cy="363.18" r="4" fill="#7570b3"/>
+<circle cx="668.00" cy="362.74" r="4" fill="#7570b3"/>
+<circle cx="755.00" cy="363.93" r="4" fill="#7570b3"/>
+<circle cx="870.00" cy="364.08" r="4" fill="#7570b3"/>
+<line x1="620" y1="103" x2="650" y2="103" stroke="#7570b3" stroke-width="3"/>
+<text x="660" y="108" font-family="sans-serif" font-size="12">ngspice_independent</text>
+<polyline points="90.00,323.04 379.00,365.96 581.00,368.99 668.00,368.39 755.00,368.85 870.00,369.01" fill="none" stroke="#e7298a" stroke-width="3"/>
+<circle cx="90.00" cy="323.04" r="4" fill="#e7298a"/>
+<circle cx="379.00" cy="365.96" r="4" fill="#e7298a"/>
+<circle cx="581.00" cy="368.99" r="4" fill="#e7298a"/>
+<circle cx="668.00" cy="368.39" r="4" fill="#e7298a"/>
+<circle cx="755.00" cy="368.85" r="4" fill="#e7298a"/>
+<circle cx="870.00" cy="369.01" r="4" fill="#e7298a"/>
+<line x1="620" y1="127" x2="650" y2="127" stroke="#e7298a" stroke-width="3"/>
+<text x="660" y="132" font-family="sans-serif" font-size="12">ngspice_reuse</text>
+<text x="450.0" y="540" text-anchor="middle" font-family="sans-serif" font-size="14">Task count (log scale)</text>
+<text x="20" y="280.0" transform="rotate(-90 20 280.0)" text-anchor="middle" font-family="sans-serif" font-size="14">Seconds per point</text>
+</svg>

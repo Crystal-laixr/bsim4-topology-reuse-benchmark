@@ -1,0 +1,62 @@
+{
+  "batch_profile": {},
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58080,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2,
+      "wall_s": 0.24
+    }
+  ],
+  "cpu": 0,
+  "finished_at": "2026-07-26T01:25:29+0800",
+  "logs_archive": "data/raw/logs/matrix_hspice_independent_n1_r2.tar.gz",
+  "max_rss_kb": 58080,
+  "method": "hspice_independent",
+  "observed_wall_s": 0.2468630550429225,
+  "points": [
+    {
+      "lanes": {
+        "l01": {
+          "high_v": 2.5e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l07": {
+          "high_v": 2.214e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l13": {
+          "high_v": 1.998e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9107
+        },
+        "l19": {
+          "high_v": 1.83e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9105
+        },
+        "l25": {
+          "high_v": 1.695e-10,
+          "low_v": 1.8,
+          "power_w": 0.03875,
+          "threshold_v": 0.9104
+        }
+      },
+      "point_id": "p000000"
+    }
+  ],
+  "rep": 2,
+  "schema_version": 1,
+  "simulation_wall_s": 0.24,
+  "size": 1,
+  "started_at": "2026-07-26T01:25:29+0800",
+  "tag": "matrix"
+}
