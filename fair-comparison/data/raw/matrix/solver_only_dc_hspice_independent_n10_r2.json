@@ -1,0 +1,96 @@
+{
+  "analysis": "dc",
+  "batch_profile": {},
+  "canonical_points": 0,
+  "canonical_samples_per_signal": 0,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41456,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.56
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41456,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.58
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41460,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.2
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41456,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.58
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41456,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.56
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41456,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.59
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41460,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.43
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41460,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41460,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.19
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41456,
+      "returncode": 0,
+      "system_s": 0.05,
+      "user_s": 0.54
+    }
+  ],
+  "cpu": 0,
+  "layer": "solver_only",
+  "logs_archive": "data/raw/logs/matrix_solver_only_dc_hspice_independent_n10_r2.tar.gz",
+  "max_rss_kb": 41460,
+  "method": "hspice_independent",
+  "observed_wall_s": 4.916849534958601,
+  "output_shape": {
+    "numeric_rows": 0,
+    "numeric_values": 0,
+    "raw_text_bytes": 39950
+  },
+  "rep": 2,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 10,
+  "system_s": 0.37,
+  "tag": "matrix",
+  "user_s": 4.42
+}

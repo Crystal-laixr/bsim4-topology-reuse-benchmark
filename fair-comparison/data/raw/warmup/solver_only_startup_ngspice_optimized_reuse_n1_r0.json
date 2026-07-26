@@ -1,0 +1,33 @@
+{
+  "analysis": "startup",
+  "batch_profile": {},
+  "canonical_points": 0,
+  "canonical_samples_per_signal": 0,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 4296,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.0
+    }
+  ],
+  "cpu": 0,
+  "layer": "solver_only",
+  "logs_archive": "data/raw/logs/warmup_solver_only_startup_ngspice_optimized_reuse_n1_r0.tar.gz",
+  "max_rss_kb": 4296,
+  "method": "ngspice_optimized_reuse",
+  "observed_wall_s": 0.005520193022675812,
+  "output_shape": {
+    "numeric_rows": 3,
+    "numeric_values": 6,
+    "raw_text_bytes": 2332
+  },
+  "rep": 0,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 1,
+  "system_s": 0.0,
+  "tag": "warmup",
+  "user_s": 0.0
+}

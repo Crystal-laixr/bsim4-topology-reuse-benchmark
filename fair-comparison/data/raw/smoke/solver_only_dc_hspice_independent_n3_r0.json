@@ -1,0 +1,47 @@
+{
+  "analysis": "dc",
+  "batch_profile": {},
+  "canonical_points": 0,
+  "canonical_samples_per_signal": 0,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41456,
+      "returncode": 0,
+      "system_s": 0.06,
+      "user_s": 0.59
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41456,
+      "returncode": 0,
+      "system_s": 0.05,
+      "user_s": 0.57
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41460,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.19
+    }
+  ],
+  "cpu": 0,
+  "layer": "solver_only",
+  "logs_archive": "data/raw/logs/smoke_solver_only_dc_hspice_independent_n3_r0.tar.gz",
+  "max_rss_kb": 41460,
+  "method": "hspice_independent",
+  "observed_wall_s": 1.5451939689228311,
+  "output_shape": {
+    "numeric_rows": 0,
+    "numeric_values": 0,
+    "raw_text_bytes": 11985
+  },
+  "rep": 0,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 3,
+  "system_s": 0.14,
+  "tag": "smoke",
+  "user_s": 1.3499999999999999
+}

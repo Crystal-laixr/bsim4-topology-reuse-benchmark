@@ -1,0 +1,726 @@
+{
+  "analysis": "dc",
+  "batch_profile": {},
+  "canonical_points": 100,
+  "canonical_samples_per_signal": 21,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.07
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.07
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.1
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.1
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.07
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.07
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11852,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.07
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.1
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.07
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.07
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.07
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11860,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.08
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.07
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 11856,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.09
+    }
+  ],
+  "cpu": 0,
+  "layer": "end_to_end",
+  "logs_archive": "data/raw/logs/matrix_end_to_end_dc_ngspice_official_independent_n100_r3.tar.gz",
+  "max_rss_kb": 11860,
+  "method": "ngspice_official_independent",
+  "observed_wall_s": 9.202934580040164,
+  "output_shape": {
+    "numeric_rows": 6300,
+    "numeric_values": 31500,
+    "raw_text_bytes": 460300
+  },
+  "rep": 3,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 100,
+  "system_s": 0.0,
+  "tag": "matrix",
+  "user_s": 8.2
+}

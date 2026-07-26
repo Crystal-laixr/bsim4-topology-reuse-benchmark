@@ -1,0 +1,90 @@
+{
+  "status": "pass_with_exclusions",
+  "files_checked": 10,
+  "dc_size": 1,
+  "tran_size": 1,
+  "comparisons": [
+    {
+      "comparisons": 168,
+      "max_abs_v": 0.0,
+      "median_abs_v": 0.0,
+      "p95_abs_v": 0.0,
+      "analysis": "dc",
+      "left": "hspice_independent",
+      "right": "hspice_alter"
+    },
+    {
+      "comparisons": 168,
+      "max_abs_v": 0.0,
+      "median_abs_v": 0.0,
+      "p95_abs_v": 0.0,
+      "analysis": "dc",
+      "left": "ngspice_official_independent",
+      "right": "ngspice_optimized_independent"
+    },
+    {
+      "comparisons": 168,
+      "max_abs_v": 2.0000000006375426e-16,
+      "median_abs_v": 0.0,
+      "p95_abs_v": 9.999999992847955e-17,
+      "analysis": "dc",
+      "left": "ngspice_optimized_independent",
+      "right": "ngspice_optimized_reuse"
+    },
+    {
+      "comparisons": 168,
+      "max_abs_v": 4.900000000073054e-14,
+      "median_abs_v": 0.0,
+      "p95_abs_v": 3.4000000000084875e-14,
+      "analysis": "dc",
+      "left": "hspice_independent",
+      "right": "ngspice_official_independent"
+    },
+    {
+      "comparisons": 648,
+      "max_abs_v": 0.0,
+      "median_abs_v": 0.0,
+      "p95_abs_v": 0.0,
+      "analysis": "tran",
+      "left": "hspice_independent",
+      "right": "hspice_alter"
+    },
+    {
+      "comparisons": 648,
+      "max_abs_v": 0.0,
+      "median_abs_v": 0.0,
+      "p95_abs_v": 0.0,
+      "analysis": "tran",
+      "left": "ngspice_official_independent",
+      "right": "ngspice_optimized_independent"
+    },
+    {
+      "comparisons": 648,
+      "max_abs_v": 0.00016799999999994597,
+      "median_abs_v": 0.0,
+      "p95_abs_v": 2.0000000001399107e-10,
+      "analysis": "tran",
+      "left": "ngspice_optimized_independent",
+      "right": "ngspice_optimized_reuse"
+    },
+    {
+      "comparisons": 648,
+      "max_abs_v": 0.2629368999999999,
+      "median_abs_v": 6.272749999999982e-07,
+      "p95_abs_v": 0.0011510000000001241,
+      "analysis": "tran",
+      "left": "hspice_independent",
+      "right": "ngspice_official_independent"
+    }
+  ],
+  "exclusions": [
+    {
+      "method": "ngspice_optimized_reuse",
+      "analysis": "tran",
+      "reason": "same-simulator waveform gate exceeded",
+      "limit_v": 1e-05,
+      "observed_v": 0.00016799999999994597
+    }
+  ],
+  "logic_samples_checked": 32
+}

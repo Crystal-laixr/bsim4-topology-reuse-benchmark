@@ -1,0 +1,33 @@
+{
+  "analysis": "tran",
+  "batch_profile": {},
+  "canonical_points": 0,
+  "canonical_samples_per_signal": 0,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 56708,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.08
+    }
+  ],
+  "cpu": 0,
+  "layer": "solver_only",
+  "logs_archive": "data/raw/logs/matrix_solver_only_tran_hspice_alter_n1_r3.tar.gz",
+  "max_rss_kb": 56708,
+  "method": "hspice_alter",
+  "observed_wall_s": 0.13045936007983983,
+  "output_shape": {
+    "numeric_rows": 0,
+    "numeric_values": 0,
+    "raw_text_bytes": 4574
+  },
+  "rep": 3,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 1,
+  "system_s": 0.04,
+  "tag": "matrix",
+  "user_s": 0.08
+}

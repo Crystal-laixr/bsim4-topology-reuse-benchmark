@@ -1,0 +1,33 @@
+{
+  "analysis": "dc",
+  "batch_profile": {},
+  "canonical_points": 50,
+  "canonical_samples_per_signal": 21,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 58632,
+      "returncode": 0,
+      "system_s": 0.07,
+      "user_s": 12.19
+    }
+  ],
+  "cpu": 0,
+  "layer": "end_to_end",
+  "logs_archive": "data/raw/logs/matrix_end_to_end_dc_hspice_alter_n50_r2.tar.gz",
+  "max_rss_kb": 58632,
+  "method": "hspice_alter",
+  "observed_wall_s": 12.268106814008206,
+  "output_shape": {
+    "numeric_rows": 0,
+    "numeric_values": 0,
+    "raw_text_bytes": 248794
+  },
+  "rep": 2,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 50,
+  "system_s": 0.07,
+  "tag": "matrix",
+  "user_s": 12.19
+}

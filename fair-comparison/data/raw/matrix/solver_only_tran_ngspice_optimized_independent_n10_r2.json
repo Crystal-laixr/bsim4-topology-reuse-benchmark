@@ -1,0 +1,96 @@
+{
+  "analysis": "tran",
+  "batch_profile": {},
+  "canonical_points": 0,
+  "canonical_samples_per_signal": 0,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29136,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.62
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29780,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 15.02
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29988,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 15.9
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 28920,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.61
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29796,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 15.05
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29116,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 14.56
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29584,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.85
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29428,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.94
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 30628,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 16.55
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 28864,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.59
+    }
+  ],
+  "cpu": 0,
+  "layer": "solver_only",
+  "logs_archive": "data/raw/logs/matrix_solver_only_tran_ngspice_optimized_independent_n10_r2.tar.gz",
+  "max_rss_kb": 30628,
+  "method": "ngspice_optimized_independent",
+  "observed_wall_s": 151.05979802203365,
+  "output_shape": {
+    "numeric_rows": 10,
+    "numeric_values": 20,
+    "raw_text_bytes": 221412
+  },
+  "rep": 2,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 10,
+  "system_s": 0.21,
+  "tag": "matrix",
+  "user_s": 150.69
+}

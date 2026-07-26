@@ -1,0 +1,33 @@
+{
+  "analysis": "startup",
+  "batch_profile": {},
+  "canonical_points": 0,
+  "canonical_samples_per_signal": 0,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 35452,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.04
+    }
+  ],
+  "cpu": 0,
+  "layer": "solver_only",
+  "logs_archive": "data/raw/logs/warmup_solver_only_startup_hspice_alter_n1_r0.tar.gz",
+  "max_rss_kb": 35452,
+  "method": "hspice_alter",
+  "observed_wall_s": 0.08810171508230269,
+  "output_shape": {
+    "numeric_rows": 0,
+    "numeric_values": 0,
+    "raw_text_bytes": 343
+  },
+  "rep": 0,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 1,
+  "system_s": 0.04,
+  "tag": "warmup",
+  "user_s": 0.04
+}

@@ -1,0 +1,30 @@
+{
+  "analysis": "tran",
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 7300,
+      "returncode": 0,
+      "system_s": 0.0,
+      "user_s": 0.01
+    }
+  ],
+  "cpu": 0,
+  "layer": "solver_only",
+  "logs_archive": "data/raw/logs/smoke_solver_only_tran_ngspice_optimized_reuse_n3_r0.tar.gz",
+  "max_rss_kb": 7300,
+  "method": "ngspice_optimized_reuse",
+  "observed_wall_s": 0.01605170196853578,
+  "output_shape": {
+    "numeric_rows": 0,
+    "numeric_values": 0,
+    "raw_text_bytes": 1201
+  },
+  "rep": 0,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 3,
+  "system_s": 0.0,
+  "tag": "smoke",
+  "user_s": 0.01
+}

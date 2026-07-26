@@ -1,0 +1,96 @@
+{
+  "seed": 717,
+  "points": 500,
+  "bits": 16,
+  "mosfet_count": 580,
+  "full_adder_mos": 36,
+  "final_output_buffer_mos": 4,
+  "logic_style": "fully complementary static CMOS",
+  "varying_parameters": 14,
+  "observed_nodes": [
+    "sum00",
+    "sum05",
+    "sum10",
+    "sum15",
+    "c04",
+    "c08",
+    "c12",
+    "cout"
+  ],
+  "analyses": [
+    "dc",
+    "tran"
+  ],
+  "parameters": [
+    {
+      "name": "vthn",
+      "low": 0.42,
+      "high": 0.48
+    },
+    {
+      "name": "vthp",
+      "low": -0.48,
+      "high": -0.42
+    },
+    {
+      "name": "u0n",
+      "low": 0.045,
+      "high": 0.055
+    },
+    {
+      "name": "u0p",
+      "low": 0.018,
+      "high": 0.022
+    },
+    {
+      "name": "rdswn",
+      "low": 90.0,
+      "high": 110.0
+    },
+    {
+      "name": "rdswp",
+      "low": 108.0,
+      "high": 132.0
+    },
+    {
+      "name": "vsatn",
+      "low": 72000.0,
+      "high": 88000.0
+    },
+    {
+      "name": "vsatp",
+      "low": 72000.0,
+      "high": 88000.0
+    },
+    {
+      "name": "eta0n",
+      "low": 0.072,
+      "high": 0.088
+    },
+    {
+      "name": "eta0p",
+      "low": 0.072,
+      "high": 0.088
+    },
+    {
+      "name": "ws0",
+      "low": 0.9,
+      "high": 1.1
+    },
+    {
+      "name": "ws1",
+      "low": 0.9,
+      "high": 1.1
+    },
+    {
+      "name": "ws2",
+      "low": 0.9,
+      "high": 1.1
+    },
+    {
+      "name": "ws3",
+      "low": 0.9,
+      "high": 1.1
+    }
+  ]
+}

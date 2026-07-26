@@ -1,0 +1,1390 @@
+batchparambind vthn model NM VTH0
+batchparambind vthp model PM VTH0
+batchparambind u0n model NM U0
+batchparambind u0p model PM U0
+batchparambind rdswn model NM RDSW
+batchparambind rdswp model PM RDSW
+batchparambind vsatn model NM VSAT
+batchparambind vsatp model PM VSAT
+batchparambind eta0n model NM ETA0
+batchparambind eta0p model PM ETA0
+batchparambind ws0 instance MN_FA00_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA00_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA00_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA00_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA00_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA00_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA00_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA00_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA00_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA00_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA00_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA00_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA00_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA00_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA00_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA00_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA00_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA00_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA00_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA00_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA00_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA00_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA00_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA00_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA00_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA00_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA00_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA00_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA00_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA00_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA00_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA00_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA00_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA00_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA00_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA00_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA01_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA01_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA01_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA01_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA01_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA01_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA01_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA01_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA01_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA01_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA01_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA01_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA01_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA01_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA01_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA01_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA01_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA01_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA01_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA01_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA01_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA01_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA01_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA01_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA01_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA01_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA01_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA01_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA01_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA01_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA01_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA01_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA01_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA01_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA01_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA01_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA02_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA02_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA02_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA02_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA02_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA02_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA02_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA02_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA02_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA02_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA02_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA02_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA02_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA02_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA02_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA02_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA02_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA02_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA02_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA02_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA02_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA02_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA02_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA02_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA02_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA02_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA02_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA02_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA02_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA02_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA02_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA02_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA02_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA02_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA02_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA02_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA03_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA03_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA03_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA03_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA03_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA03_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA03_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA03_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA03_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA03_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA03_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA03_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA03_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA03_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA03_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA03_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA03_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA03_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA03_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA03_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA03_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA03_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA03_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA03_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA03_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA03_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA03_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA03_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA03_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA03_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA03_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA03_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA03_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA03_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA03_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA03_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA04_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA04_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA04_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA04_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA04_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA04_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA04_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA04_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA04_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA04_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA04_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA04_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA04_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA04_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA04_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA04_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA04_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA04_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA04_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA04_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA04_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA04_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA04_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA04_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA04_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA04_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA04_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA04_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA04_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA04_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA04_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA04_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA04_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA04_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA04_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA04_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA05_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA05_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA05_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA05_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA05_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA05_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA05_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA05_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA05_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA05_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA05_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA05_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA05_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA05_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA05_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA05_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA05_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA05_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA05_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA05_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA05_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA05_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA05_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA05_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA05_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA05_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA05_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA05_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA05_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA05_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA05_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA05_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA05_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA05_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA05_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA05_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA06_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA06_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA06_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA06_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA06_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA06_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA06_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA06_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA06_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA06_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA06_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA06_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA06_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA06_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA06_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA06_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA06_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA06_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA06_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA06_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA06_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA06_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA06_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA06_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA06_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA06_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA06_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA06_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA06_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA06_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA06_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA06_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA06_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA06_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA06_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA06_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA07_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA07_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA07_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA07_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA07_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA07_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA07_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA07_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA07_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA07_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA07_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA07_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA07_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA07_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA07_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA07_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA07_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA07_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA07_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA07_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA07_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA07_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA07_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA07_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA07_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA07_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA07_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA07_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA07_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA07_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA07_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA07_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA07_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA07_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA07_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA07_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA08_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA08_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA08_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA08_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA08_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA08_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA08_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA08_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA08_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA08_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA08_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA08_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA08_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA08_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA08_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA08_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA08_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA08_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA08_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA08_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA08_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA08_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA08_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA08_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA08_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA08_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA08_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA08_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA08_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA08_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA08_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA08_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA08_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA08_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA08_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA08_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA09_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA09_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA09_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA09_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA09_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA09_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA09_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA09_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA09_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA09_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA09_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA09_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA09_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA09_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA09_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA09_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA09_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA09_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA09_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA09_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA09_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA09_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA09_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA09_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA09_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA09_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA09_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA09_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA09_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA09_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA09_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA09_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA09_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA09_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA09_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA09_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA10_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA10_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA10_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA10_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA10_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA10_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA10_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA10_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA10_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA10_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA10_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA10_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA10_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA10_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA10_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA10_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA10_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA10_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA10_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA10_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA10_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA10_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA10_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA10_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA10_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA10_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA10_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA10_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA10_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA10_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA10_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA10_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA10_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA10_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA10_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA10_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA11_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA11_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA11_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA11_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA11_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA11_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA11_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA11_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA11_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA11_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA11_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA11_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA11_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA11_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA11_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA11_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA11_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA11_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA11_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA11_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA11_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA11_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA11_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA11_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA11_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA11_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA11_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA11_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA11_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA11_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA11_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA11_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA11_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA11_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA11_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA11_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA12_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA12_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA12_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA12_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA12_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA12_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA12_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA12_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA12_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA12_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA12_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA12_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA12_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA12_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA12_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA12_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA12_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA12_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA12_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA12_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA12_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA12_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA12_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA12_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA12_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA12_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA12_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA12_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA12_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA12_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA12_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA12_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA12_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA12_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA12_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA12_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA13_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA13_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA13_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA13_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA13_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA13_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA13_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA13_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA13_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA13_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA13_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA13_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA13_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA13_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA13_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA13_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA13_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA13_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA13_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA13_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA13_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA13_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA13_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA13_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA13_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA13_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA13_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA13_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA13_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA13_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA13_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA13_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA13_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA13_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA13_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA13_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA14_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA14_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA14_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA14_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA14_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA14_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA14_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA14_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA14_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA14_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA14_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA14_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA14_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA14_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA14_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA14_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA14_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA14_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA14_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA14_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA14_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA14_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA14_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA14_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA14_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA14_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA14_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA14_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA14_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA14_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA14_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA14_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA14_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA14_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA14_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA14_COUT_B W 1.5999999999999999e-05
+batchparambind ws0 instance MN_FA15_X0_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA15_X0_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA15_X0_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA15_X0_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA15_X0_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA15_X0_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA15_X0_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA15_X0_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA15_X0_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA15_X0_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA15_X0_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA15_X0_10B W 3.5999999999999998e-06
+batchparambind ws0 instance MN_FA15_X1_IA W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA15_X1_IA W 2.3999999999999999e-06
+batchparambind ws0 instance MN_FA15_X1_IB W 1.1999999999999999e-06
+batchparambind ws0 instance MP_FA15_X1_IB W 2.3999999999999999e-06
+batchparambind ws1 instance MN_FA15_X1_00A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA15_X1_00B W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA15_X1_11A W 1.7999999999999999e-06
+batchparambind ws1 instance MN_FA15_X1_11B W 1.7999999999999999e-06
+batchparambind ws1 instance MP_FA15_X1_01A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA15_X1_01B W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA15_X1_10A W 3.5999999999999998e-06
+batchparambind ws1 instance MP_FA15_X1_10B W 3.5999999999999998e-06
+batchparambind ws2 instance MN_FA15_NAB_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA15_NAB_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA15_NAB_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA15_NAB_B W 4.7999999999999998e-06
+batchparambind ws2 instance MN_FA15_NPC_A W 2.3999999999999999e-06
+batchparambind ws2 instance MN_FA15_NPC_B W 2.3999999999999999e-06
+batchparambind ws2 instance MP_FA15_NPC_A W 4.7999999999999998e-06
+batchparambind ws2 instance MP_FA15_NPC_B W 4.7999999999999998e-06
+batchparambind ws3 instance MN_FA15_COUT_A W 7.9999999999999996e-06
+batchparambind ws3 instance MN_FA15_COUT_B W 7.9999999999999996e-06
+batchparambind ws3 instance MP_FA15_COUT_A W 1.5999999999999999e-05
+batchparambind ws3 instance MP_FA15_COUT_B W 1.5999999999999999e-05
+batchparambind ws3 instance MN_COUT_BUF0 W 7.9999999999999996e-06
+batchparambind ws3 instance MP_COUT_BUF0 W 1.5999999999999999e-05
+batchparambind ws3 instance MN_COUT_BUF1 W 7.9999999999999996e-06
+batchparambind ws3 instance MP_COUT_BUF1 W 1.5999999999999999e-05
+batchparam vthn 0.45126483051096039
+batchparam vthp -0.43712328775058912
+batchparam u0n 0.054472227924512562
+batchparam u0p 0.019642227633496968
+batchparam rdswn 95.093588416662513
+batchparam rdswp 125.06632680402315
+batchparam vsatn 87504.447322012653
+batchparam vsatp 75147.443178696412
+batchparam eta0n 0.086119024107108172
+batchparam eta0p 0.072375500135660659
+batchparam ws0 0.9297506302192986
+batchparam ws1 1.0376459501931772
+batchparam ws2 0.95303198059391914
+batchparam ws3 1.02285909173834
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.4416960313164332
+batchparam vthp -0.4532675514368949
+batchparam u0n 0.054724914205196845
+batchparam u0p 0.020404897023237323
+batchparam rdswn 97.576109085495176
+batchparam rdswp 116.85102835365008
+batchparam vsatn 75478.12811154114
+batchparam vsatp 77062.760408557355
+batchparam eta0n 0.080435244689600047
+batchparam eta0p 0.076607981130987865
+batchparam ws0 1.0178994352543229
+batchparam ws1 0.98263236961936784
+batchparam ws2 1.0415687192824925
+batchparam ws3 1.0547795127571304
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.46491769949940609
+batchparam vthp -0.45865466766240509
+batchparam u0n 0.046727852190048734
+batchparam u0p 0.018425943840254033
+batchparam rdswn 104.78000927547589
+batchparam rdswp 113.35504216102532
+batchparam vsatn 78677.730953723207
+batchparam vsatp 74876.706575867516
+batchparam eta0n 0.080084308024550105
+batchparam eta0p 0.077970201016476295
+batchparam ws0 1.088283844172778
+batchparam ws1 0.9342640679167451
+batchparam ws2 1.0713255540580897
+batchparam ws3 0.99484078422620237
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.45667128430832954
+batchparam vthp -0.47250069269426731
+batchparam u0n 0.047759465422216825
+batchparam u0p 0.01891063529661248
+batchparam rdswn 108.53063414393735
+batchparam rdswp 108.96779365498017
+batchparam vsatn 86118.979285999318
+batchparam vsatp 76162.810464638082
+batchparam eta0n 0.075014434473199387
+batchparam eta0p 0.078502203644315385
+batchparam ws0 1.0371247722231445
+batchparam ws1 1.0550425731897928
+batchparam ws2 0.92532304738848803
+batchparam ws3 1.0866314150251111
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42887517271908149
+batchparam vthp -0.44641858129778245
+batchparam u0n 0.052076722159991443
+batchparam u0p 0.018133164379206663
+batchparam rdswn 97.825918937038011
+batchparam rdswp 114.04744445207079
+batchparam vsatn 81628.125581516491
+batchparam vsatp 75439.647769938412
+batchparam eta0n 0.073789423157502532
+batchparam eta0p 0.087891071905445164
+batchparam ws0 0.90157231341960808
+batchparam ws1 0.90084149641583744
+batchparam ws2 1.0885479940738818
+batchparam ws3 1.0643917650893009
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42062976228570609
+batchparam vthp -0.47532511469164346
+batchparam u0n 0.045986391342465655
+batchparam u0p 0.0207865039080629
+batchparam rdswn 91.57719414651001
+batchparam rdswp 124.15476689493943
+batchparam vsatn 73421.275473975227
+batchparam vsatp 86011.616771304543
+batchparam eta0n 0.082291906621727029
+batchparam eta0p 0.075283092756474268
+batchparam ws0 1.0738836304791741
+batchparam ws1 1.0747705751756211
+batchparam ws2 0.92023215427767324
+batchparam ws3 1.0906466519882607
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42138780776688017
+batchparam vthp -0.42322228605583578
+batchparam u0n 0.047359720325786003
+batchparam u0p 0.02076627523936582
+batchparam rdswn 94.635862262155541
+batchparam rdswp 112.08739725960683
+batchparam vsatn 85948.727223747919
+batchparam vsatp 86077.072288854921
+batchparam eta0n 0.085976119657146022
+batchparam eta0p 0.086354164174372069
+batchparam ws0 0.93949918453018033
+batchparam ws1 1.0184266608053729
+batchparam ws2 1.0827542532567387
+batchparam ws3 0.92158507920998622
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.46812422049213187
+batchparam vthp -0.43730854524382734
+batchparam u0n 0.053452486719753722
+batchparam u0p 0.01818899910651512
+batchparam rdswn 107.54347614911727
+batchparam rdswp 122.48052288265656
+batchparam vsatn 75740.432771009859
+batchparam vsatp 87484.796977788574
+batchparam eta0n 0.074216356099342698
+batchparam eta0p 0.081576772900871897
+batchparam ws0 0.93697611759489019
+batchparam ws1 0.99170689585539273
+batchparam ws2 1.0460596227919086
+batchparam ws3 1.0478662646431864
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.4736271953963182
+batchparam vthp -0.42787136856370245
+batchparam u0n 0.049086589780280382
+batchparam u0p 0.01880149311864698
+batchparam rdswn 100.57080509450454
+batchparam rdswp 128.01324363712268
+batchparam vsatn 87896.275986940629
+batchparam vsatp 86794.766491619899
+batchparam eta0n 0.08277948353215947
+batchparam eta0p 0.074727202431229933
+batchparam ws0 1.0558060639899538
+batchparam ws1 0.93721643908579577
+batchparam ws2 1.0958492461173266
+batchparam ws3 0.93104808354788071
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.46113088651321543
+batchparam vthp -0.45951877739644703
+batchparam u0n 0.045507117306345879
+batchparam u0p 0.020092225027548007
+batchparam rdswn 94.306886023369273
+batchparam rdswp 120.88687407697961
+batchparam vsatn 76243.390353242459
+batchparam vsatp 75871.08660228677
+batchparam eta0n 0.077750377671547605
+batchparam eta0p 0.081609608179626911
+batchparam ws0 0.95857051896890766
+batchparam ws1 0.90002993035741052
+batchparam ws2 0.92645191792125892
+batchparam ws3 1.0399229736609898
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.45404444337550692
+batchparam vthp -0.44526248748522901
+batchparam u0n 0.047378691626468468
+batchparam u0p 0.018332848775408413
+batchparam rdswn 105.74139629776036
+batchparam rdswp 121.14472570783518
+batchparam vsatn 79112.571770226961
+batchparam vsatp 83688.404214029433
+batchparam eta0n 0.075485982983022268
+batchparam eta0p 0.077061072350568374
+batchparam ws0 1.066898081309466
+batchparam ws1 1.0980220808569094
+batchparam ws2 1.0324536632477501
+batchparam ws3 0.9884622483738883
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.47323242409370297
+batchparam vthp -0.43391134824729866
+batchparam u0n 0.053011773794342021
+batchparam u0p 0.019130334161729566
+batchparam rdswn 105.83447483771815
+batchparam rdswp 116.28629336043042
+batchparam vsatn 87760.933355770903
+batchparam vsatp 72638.982889843814
+batchparam eta0n 0.081096953358928414
+batchparam eta0p 0.079421337906943515
+batchparam ws0 0.98024539086601803
+batchparam ws1 0.9505882583911015
+batchparam ws2 0.92869247836939661
+batchparam ws3 1.0253284893467645
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.4457378098221248
+batchparam vthp -0.43591502358579559
+batchparam u0n 0.046081427408600217
+batchparam u0p 0.019018886208324128
+batchparam rdswn 100.75969591064674
+batchparam rdswp 128.96916030165517
+batchparam vsatn 82272.583008271075
+batchparam vsatp 84638.780188128192
+batchparam eta0n 0.085799870204509257
+batchparam eta0p 0.073691760059541089
+batchparam ws0 1.0060757674169805
+batchparam ws1 0.99009381928389717
+batchparam ws2 0.96957565372771537
+batchparam ws3 0.94463840119088727
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.45036997572507498
+batchparam vthp -0.4340934330331116
+batchparam u0n 0.053082025219420834
+batchparam u0p 0.019657839028668422
+batchparam rdswn 102.06972799660751
+batchparam rdswp 109.35921718691797
+batchparam vsatn 72763.615192496713
+batchparam vsatp 85827.969343109493
+batchparam eta0n 0.085059623457668293
+batchparam eta0p 0.074821141390591234
+batchparam ws0 0.9824837531255064
+batchparam ws1 0.96624779296170427
+batchparam ws2 1.0981016814617566
+batchparam ws3 0.98283645456232938
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42589150210194737
+batchparam vthp -0.42981690055205241
+batchparam u0n 0.048164641217214137
+batchparam u0p 0.019412399622300285
+batchparam rdswn 99.436018622185287
+batchparam rdswp 123.64500754437195
+batchparam vsatn 73588.834523961501
+batchparam vsatp 74235.51483267505
+batchparam eta0n 0.086360138397820571
+batchparam eta0p 0.086477637980987454
+batchparam ws0 1.0582909393322271
+batchparam ws1 1.0796556259643169
+batchparam ws2 0.97456747233434349
+batchparam ws3 1.0291435933117381
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42792153684236295
+batchparam vthp -0.47714511023425005
+batchparam u0n 0.05421779283834248
+batchparam u0p 0.020563508130432343
+batchparam rdswn 98.043428282352693
+batchparam rdswp 113.19830233631106
+batchparam vsatn 80985.015256673767
+batchparam vsatp 79777.186760795579
+batchparam eta0n 0.078487142864782769
+batchparam eta0p 0.076857098800277052
+batchparam ws0 0.96399362279344558
+batchparam ws1 0.98157719369537166
+batchparam ws2 1.0154306890387488
+batchparam ws3 1.0216187323107231
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.47674935245046757
+batchparam vthp -0.44581627164719484
+batchparam u0n 0.046233018664728794
+batchparam u0p 0.020195342769425861
+batchparam rdswn 109.31106631417734
+batchparam rdswp 109.00832995046163
+batchparam vsatn 87776.501810399874
+batchparam vsatp 86663.120256277107
+batchparam eta0n 0.079188562609036561
+batchparam eta0p 0.075250016709981771
+batchparam ws0 1.0948795373682341
+batchparam ws1 0.99300590520476761
+batchparam ws2 1.055170189845112
+batchparam ws3 0.92163185957686344
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.44287269005987751
+batchparam vthp -0.4352500826314506
+batchparam u0n 0.047225057657365913
+batchparam u0p 0.019912416127296551
+batchparam rdswn 100.63185444199689
+batchparam rdswp 127.30887342008364
+batchparam vsatn 83511.479932428163
+batchparam vsatp 84911.693166896846
+batchparam eta0n 0.073439848765491811
+batchparam eta0p 0.086202000222877037
+batchparam ws0 1.080573450728747
+batchparam ws1 1.0541935177168966
+batchparam ws2 1.086358713999735
+batchparam ws3 0.92504829077261341
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.46604716207932573
+batchparam vthp -0.47550367160792506
+batchparam u0n 0.045185374062198601
+batchparam u0p 0.021108287998445632
+batchparam rdswn 96.205353602716386
+batchparam rdswp 125.61571421186781
+batchparam vsatn 87952.394238217239
+batchparam vsatp 84254.51210770497
+batchparam eta0n 0.084544398602124038
+batchparam eta0p 0.085858793349139567
+batchparam ws0 1.0964529786623103
+batchparam ws1 1.032720695443232
+batchparam ws2 1.0612142051958302
+batchparam ws3 0.90314198747664542
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.47137355387929986
+batchparam vthp -0.45640444557404863
+batchparam u0n 0.045116013756376139
+batchparam u0p 0.018075756325022993
+batchparam rdswn 90.183670874467026
+batchparam rdswp 129.68397319477307
+batchparam vsatn 85893.354737531408
+batchparam vsatp 72815.64950966055
+batchparam eta0n 0.087294283187993704
+batchparam eta0p 0.080982601471054752
+batchparam ws0 1.0747660793456244
+batchparam ws1 0.91878363108923977
+batchparam ws2 1.0123204116125364
+batchparam ws3 0.94050457079420668
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.43311604125471032
+batchparam vthp -0.47315509651398119
+batchparam u0n 0.054061359524004218
+batchparam u0p 0.020083384712130663
+batchparam rdswn 106.08302853246711
+batchparam rdswp 114.21853675167812
+batchparam vsatn 75219.776303912004
+batchparam vsatp 76653.837331110335
+batchparam eta0n 0.072322389970367246
+batchparam eta0p 0.076230974102417068
+batchparam ws0 1.0514721438728025
+batchparam ws1 0.92719657647082343
+batchparam ws2 1.085869201012754
+batchparam ws3 0.96401929352660687
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.44021866282092953
+batchparam vthp -0.47482897166145061
+batchparam u0n 0.048292798380353018
+batchparam u0p 0.020395006090049284
+batchparam rdswn 99.828885694364118
+batchparam rdswp 125.5678243174227
+batchparam vsatn 81903.00999981942
+batchparam vsatp 76278.891424847738
+batchparam eta0n 0.085710326198217293
+batchparam eta0p 0.073820357667436165
+batchparam ws0 0.97002283308540305
+batchparam ws1 0.9731366507195931
+batchparam ws2 0.97214393910002261
+batchparam ws3 0.9349773137206645
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42152232425274616
+batchparam vthp -0.47530837791992298
+batchparam u0n 0.046448617222289774
+batchparam u0p 0.020965040861766353
+batchparam rdswn 90.138097737193505
+batchparam rdswp 116.88919706658662
+batchparam vsatn 74781.488135226886
+batchparam vsatp 81041.320639165322
+batchparam eta0n 0.078379454496909862
+batchparam eta0p 0.078832430967311268
+batchparam ws0 1.0590704049775483
+batchparam ws1 1.0229222201027284
+batchparam ws2 0.96308057283001058
+batchparam ws3 1.0582823737011522
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.43615073866887327
+batchparam vthp -0.42484588756280217
+batchparam u0n 0.046807746755207637
+batchparam u0p 0.018411680687166296
+batchparam rdswn 101.75102834374303
+batchparam rdswp 119.40069411214294
+batchparam vsatn 84953.304986411138
+batchparam vsatp 86271.005467163879
+batchparam eta0n 0.077721012603189643
+batchparam eta0p 0.075313543565217189
+batchparam ws0 0.91555805101699095
+batchparam ws1 0.90268618613158125
+batchparam ws2 0.90377693121061842
+batchparam ws3 1.0853196881546683
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.44811353170729173
+batchparam vthp -0.45973419983862435
+batchparam u0n 0.051222934873950368
+batchparam u0p 0.021735422988188133
+batchparam rdswn 95.560481923687647
+batchparam rdswp 119.78772822279343
+batchparam vsatn 72294.607105678035
+batchparam vsatp 80888.471157468681
+batchparam eta0n 0.086036459082838898
+batchparam eta0p 0.084359178431292814
+batchparam ws0 1.0810919897082478
+batchparam ws1 1.058282046453378
+batchparam ws2 1.0733395678090241
+batchparam ws3 1.0960030475448317
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.46347000109739844
+batchparam vthp -0.47167013958761739
+batchparam u0n 0.049493375689986477
+batchparam u0p 0.021479623573732856
+batchparam rdswn 96.395186292875891
+batchparam rdswp 124.94534427570062
+batchparam vsatn 87590.251807589666
+batchparam vsatp 79884.806273938666
+batchparam eta0n 0.085930980028019674
+batchparam eta0p 0.087907460721221867
+batchparam ws0 0.93221648033921811
+batchparam ws1 0.94352440909611923
+batchparam ws2 1.0175544411869304
+batchparam ws3 0.93312056439399493
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42635239407932257
+batchparam vthp -0.47989281563450942
+batchparam u0n 0.047781291029107151
+batchparam u0p 0.019247115849112127
+batchparam rdswn 90.510378040265394
+batchparam rdswp 115.1871628388667
+batchparam vsatn 81279.557420326935
+batchparam vsatp 72657.435695942782
+batchparam eta0n 0.087951333408454041
+batchparam eta0p 0.072297498279842762
+batchparam ws0 1.0324966749193374
+batchparam ws1 1.0674986238501356
+batchparam ws2 0.97734788735536315
+batchparam ws3 1.0374011557634957
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.44995152318846893
+batchparam vthp -0.44670856146444371
+batchparam u0n 0.051931172188713549
+batchparam u0p 0.018416867717233245
+batchparam rdswn 104.2274247060127
+batchparam rdswp 129.89528921418753
+batchparam vsatn 82548.108706397063
+batchparam vsatp 83306.696522737941
+batchparam eta0n 0.083228667010698199
+batchparam eta0p 0.072023166687584836
+batchparam ws0 0.91332643307738171
+batchparam ws1 0.98913681852598612
+batchparam ws2 1.0740678271606534
+batchparam ws3 1.0473282034822495
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.4422583098660669
+batchparam vthp -0.44421038991070694
+batchparam u0n 0.05092425119371314
+batchparam u0p 0.018343863216181731
+batchparam rdswn 104.5362162156559
+batchparam rdswp 110.84639744626251
+batchparam vsatn 85187.037228827336
+batchparam vsatp 80350.567437264646
+batchparam eta0n 0.077911555662780047
+batchparam eta0p 0.086539115326642671
+batchparam ws0 0.92353367591394087
+batchparam ws1 0.984333940213584
+batchparam ws2 1.0130094396220228
+batchparam ws3 1.0346900055980421
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.44555345860267698
+batchparam vthp -0.44261648723499125
+batchparam u0n 0.050559644696496195
+batchparam u0p 0.018640458501275634
+batchparam rdswn 106.58006660200634
+batchparam rdswp 112.32380062661163
+batchparam vsatn 74586.583640263038
+batchparam vsatp 82128.673460117992
+batchparam eta0n 0.08667743240234338
+batchparam eta0p 0.074292402385943437
+batchparam ws0 0.97323922865900203
+batchparam ws1 1.0651045609752303
+batchparam ws2 0.93876836828057864
+batchparam ws3 1.0787970813581143
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42680667809947664
+batchparam vthp -0.44913844393550084
+batchparam u0n 0.051869826518594786
+batchparam u0p 0.021824661941313654
+batchparam rdswn 95.30079015219134
+batchparam rdswp 111.8509309257565
+batchparam vsatn 75448.482501931489
+batchparam vsatp 82195.847583136128
+batchparam eta0n 0.084195711686672989
+batchparam eta0p 0.080818362735527546
+batchparam ws0 1.0816562513599099
+batchparam ws1 1.0707627357752338
+batchparam ws2 0.93645953459520237
+batchparam ws3 0.98527471638167752
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.44758651059088733
+batchparam vthp -0.45746761883613146
+batchparam u0n 0.052597752318542752
+batchparam u0p 0.01968939023636361
+batchparam rdswn 106.42398503475491
+batchparam rdswp 128.42776420494448
+batchparam vsatn 83801.56157434333
+batchparam vsatp 80863.193145113459
+batchparam eta0n 0.077643450485670784
+batchparam eta0p 0.084431566803319147
+batchparam ws0 0.97268405770387478
+batchparam ws1 0.97339317643257695
+batchparam ws2 0.99147288541703593
+batchparam ws3 0.940186764712167
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.43048552338114809
+batchparam vthp -0.44917414658714955
+batchparam u0n 0.049398810383216155
+batchparam u0p 0.019681651852989
+batchparam rdswn 95.955872948152717
+batchparam rdswp 118.93335608846371
+batchparam vsatn 81514.058281224148
+batchparam vsatp 79243.276362645163
+batchparam eta0n 0.076135564590116056
+batchparam eta0p 0.074103198172691898
+batchparam ws0 0.93753743902729358
+batchparam ws1 0.90045936127411041
+batchparam ws2 0.9042648717469185
+batchparam ws3 0.95430923169218529
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.43547092054522285
+batchparam vthp -0.4779551408880014
+batchparam u0n 0.047885154379800655
+batchparam u0p 0.020685695757301226
+batchparam rdswn 109.46266832613426
+batchparam rdswp 113.81377056020602
+batchparam vsatn 73870.06881566385
+batchparam vsatp 82521.31016410864
+batchparam eta0n 0.073826023309681216
+batchparam eta0p 0.072995499437995409
+batchparam ws0 0.95947070630656339
+batchparam ws1 1.0457600937107618
+batchparam ws2 1.0026007577091345
+batchparam ws3 1.032502377990089
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.4750069118989193
+batchparam vthp -0.45446375218854573
+batchparam u0n 0.053992213048173837
+batchparam u0p 0.019478088205638473
+batchparam rdswn 107.64258071721981
+batchparam rdswp 130.53796108700152
+batchparam vsatn 87424.721512912089
+batchparam vsatp 81161.02439038147
+batchparam eta0n 0.083699182575617301
+batchparam eta0p 0.083172811016394579
+batchparam ws0 1.0901091756691998
+batchparam ws1 0.9094865627199481
+batchparam ws2 0.949665096879304
+batchparam ws3 1.0746162940705291
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42002857946247868
+batchparam vthp -0.4794789200993731
+batchparam u0n 0.047720550572638194
+batchparam u0p 0.020666920916797296
+batchparam rdswn 105.70654165126143
+batchparam rdswp 122.69506171305578
+batchparam vsatn 84797.435157815547
+batchparam vsatp 76804.609628656501
+batchparam eta0n 0.072681913443992566
+batchparam eta0p 0.076904680161051148
+batchparam ws0 0.96637383766074592
+batchparam ws1 1.0936261048364564
+batchparam ws2 0.97963402345185935
+batchparam ws3 1.0355523577848089
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.44941504008520444
+batchparam vthp -0.44624441591507163
+batchparam u0n 0.053684313112904614
+batchparam u0p 0.019873354421621598
+batchparam rdswn 109.09200030598491
+batchparam rdswp 114.94906565121849
+batchparam vsatn 87010.765804406357
+batchparam vsatp 86977.928589783056
+batchparam eta0n 0.072406256073965017
+batchparam eta0p 0.082682429648919795
+batchparam ws0 0.92243668953790825
+batchparam ws1 0.98662150403053395
+batchparam ws2 0.95467021186856349
+batchparam ws3 0.90516027205108962
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.4287053473595443
+batchparam vthp -0.45623222688532261
+batchparam u0n 0.050782948822173407
+batchparam u0p 0.018865391318337574
+batchparam rdswn 106.26867668728664
+batchparam rdswp 119.05687682870453
+batchparam vsatn 77771.426841183042
+batchparam vsatp 85657.001907128317
+batchparam eta0n 0.076296600482907873
+batchparam eta0p 0.087338531638395042
+batchparam ws0 0.96451998508297054
+batchparam ws1 1.0418039639230114
+batchparam ws2 0.93405471114098249
+batchparam ws3 0.99081727783982265
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42458274308321353
+batchparam vthp -0.47806377439067577
+batchparam u0n 0.051969044693871973
+batchparam u0p 0.019262255708281474
+batchparam rdswn 104.18988483679888
+batchparam rdswp 113.2889853306604
+batchparam vsatn 75854.525088645882
+batchparam vsatp 77452.056460172389
+batchparam eta0n 0.072904227261383944
+batchparam eta0p 0.080833532221615392
+batchparam ws0 1.0100307982564265
+batchparam ws1 1.0794540382318014
+batchparam ws2 0.97191753715423601
+batchparam ws3 0.90669682718237377
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.45717023761875675
+batchparam vthp -0.42944388733541572
+batchparam u0n 0.050941033190008964
+batchparam u0p 0.021024022536584478
+batchparam rdswn 97.84216610760528
+batchparam rdswp 109.92650186672385
+batchparam vsatn 83909.961067306358
+batchparam vsatp 84697.572208260506
+batchparam eta0n 0.087700623715637943
+batchparam eta0p 0.085288018444640401
+batchparam ws0 1.0412226683457102
+batchparam ws1 1.0393012297346951
+batchparam ws2 1.0249780124903607
+batchparam ws3 0.91745826771112737
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.46778139479323116
+batchparam vthp -0.43598382154775595
+batchparam u0n 0.053140011941643341
+batchparam u0p 0.018548038888764756
+batchparam rdswn 109.37466476243233
+batchparam rdswp 118.07077845905815
+batchparam vsatn 84324.624879808471
+batchparam vsatp 81495.178213255218
+batchparam eta0n 0.078906689591196802
+batchparam eta0p 0.072877226973487558
+batchparam ws0 1.0793979829922353
+batchparam ws1 0.9399813134488183
+batchparam ws2 1.0731697143228258
+batchparam ws3 0.91956741754512905
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.47100534002471717
+batchparam vthp -0.46200227947617656
+batchparam u0n 0.045158988858499095
+batchparam u0p 0.020030983874784438
+batchparam rdswn 101.81989911574331
+batchparam rdswp 129.57539528703131
+batchparam vsatn 79609.333317704324
+batchparam vsatp 73391.502997183954
+batchparam eta0n 0.077419018761324759
+batchparam eta0p 0.087324900990737947
+batchparam ws0 1.0410708099910131
+batchparam ws1 1.0245041584057519
+batchparam ws2 1.0789593296323989
+batchparam ws3 0.91661862032866914
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42561960453719627
+batchparam vthp -0.45064991379263297
+batchparam u0n 0.050201049879777387
+batchparam u0p 0.01810205584092929
+batchparam rdswn 97.600977846740051
+batchparam rdswp 110.75021786510801
+batchparam vsatn 81678.734762206252
+batchparam vsatp 75393.866319815672
+batchparam eta0n 0.078161520720021332
+batchparam eta0p 0.072415097204934692
+batchparam ws0 1.0221607141475535
+batchparam ws1 1.00001683979112
+batchparam ws2 0.90728371569014388
+batchparam ws3 0.9797329312456019
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.44532747810209117
+batchparam vthp -0.42759172877968071
+batchparam u0n 0.048031772286232226
+batchparam u0p 0.021366349436951385
+batchparam rdswn 105.04569267953801
+batchparam rdswp 113.78949375346234
+batchparam vsatn 76446.794228214625
+batchparam vsatp 72875.858231383565
+batchparam eta0n 0.077145944838808433
+batchparam eta0p 0.077129732554176697
+batchparam ws0 1.0498357623538193
+batchparam ws1 0.93248513981746228
+batchparam ws2 1.0892795182562733
+batchparam ws3 1.0834808574238894
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.43058979548298804
+batchparam vthp -0.45604953686275951
+batchparam u0n 0.049513290253177578
+batchparam u0p 0.019086037056737774
+batchparam rdswn 102.196818793909
+batchparam rdswp 114.30593553731023
+batchparam vsatn 79430.234545168321
+batchparam vsatp 81123.007784516129
+batchparam eta0n 0.074949993262998241
+batchparam eta0p 0.072850046001397412
+batchparam ws0 0.92753009167949496
+batchparam ws1 0.93790839516877411
+batchparam ws2 1.0944061887196246
+batchparam ws3 1.067865861867864
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.45347449468731343
+batchparam vthp -0.44405365209971914
+batchparam u0n 0.046325897469542639
+batchparam u0p 0.020511657400195914
+batchparam rdswn 97.385957303320083
+batchparam rdswp 123.03546335859474
+batchparam vsatn 73998.761404523
+batchparam vsatp 83341.732770111965
+batchparam eta0n 0.073505186685461021
+batchparam eta0p 0.083030500875796956
+batchparam ws0 1.0329253595250902
+batchparam ws1 0.93682889901940902
+batchparam ws2 1.0245484709204107
+batchparam ws3 0.95584000995769391
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.4563734013712033
+batchparam vthp -0.45836057254024848
+batchparam u0n 0.049616656607798411
+batchparam u0p 0.018586295227923644
+batchparam rdswn 106.38235400516439
+batchparam rdswp 108.72621259851023
+batchparam vsatn 86820.963010539213
+batchparam vsatp 81570.366272906453
+batchparam eta0n 0.087915790018983475
+batchparam eta0p 0.073524655099527936
+batchparam ws0 0.93522403433596446
+batchparam ws1 0.98573571500983825
+batchparam ws2 0.94377548544454137
+batchparam ws3 1.040180872670591
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.45560585135731285
+batchparam vthp -0.45542288585423768
+batchparam u0n 0.046405194005114253
+batchparam u0p 0.020220628619400414
+batchparam rdswn 92.400738383780151
+batchparam rdswp 118.59436788796789
+batchparam vsatn 84145.212761759627
+batchparam vsatp 77820.421426597532
+batchparam eta0n 0.081996302339492608
+batchparam eta0p 0.078255431735585565
+batchparam ws0 1.0643246055459181
+batchparam ws1 0.94732895200260658
+batchparam ws2 1.0752863583373411
+batchparam ws3 0.95931442576254111
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.4517027298299045
+batchparam vthp -0.42468934034669981
+batchparam u0n 0.04613100620876056
+batchparam u0p 0.01926702226937799
+batchparam rdswn 94.326812634922916
+batchparam rdswp 109.68279094963547
+batchparam vsatn 78009.586160662555
+batchparam vsatp 83487.857708905183
+batchparam eta0n 0.086369320485201198
+batchparam eta0p 0.075705644640004968
+batchparam ws0 1.0997282464855502
+batchparam ws1 0.93559586814103068
+batchparam ws2 0.97811729241485978
+batchparam ws3 1.077939244451217
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot
+batchparam vthn 0.42999917579907726
+batchparam vthp -0.46871542292817364
+batchparam u0n 0.046035428527725381
+batchparam u0p 0.019543602024094827
+batchparam rdswn 93.761999762338931
+batchparam rdswp 113.86304929849372
+batchparam vsatn 75985.889055620966
+batchparam vsatp 82422.711456301928
+batchparam eta0n 0.083979556093815438
+batchparam eta0p 0.079057848078298243
+batchparam ws0 1.0447677001657778
+batchparam ws1 0.95695384795244898
+batchparam ws2 0.90231261620065517
+batchparam ws3 1.0928830344806484
+tran 0.5n 40.0n 0 0.5n
+destroy $curplot

@@ -1,0 +1,166 @@
+{
+  "analysis": "tran",
+  "batch_profile": {},
+  "canonical_points": 0,
+  "canonical_samples_per_signal": 0,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29140,
+      "returncode": 0,
+      "system_s": 0.01,
+      "user_s": 14.59
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29776,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 15.16
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29988,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 15.91
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 28920,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.67
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29792,
+      "returncode": 0,
+      "system_s": 0.01,
+      "user_s": 15.06
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29120,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.59
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29580,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.87
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29428,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.9
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 30624,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 16.48
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 28868,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.59
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29348,
+      "returncode": 0,
+      "system_s": 0.01,
+      "user_s": 14.73
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29040,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.66
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29176,
+      "returncode": 0,
+      "system_s": 0.01,
+      "user_s": 14.63
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 30012,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 15.39
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29216,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.69
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29544,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 14.64
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29708,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 15.45
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29888,
+      "returncode": 0,
+      "system_s": 0.01,
+      "user_s": 15.15
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29648,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 15.05
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29628,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 15.55
+    }
+  ],
+  "cpu": 0,
+  "layer": "solver_only",
+  "logs_archive": "data/raw/logs/matrix_solver_only_tran_ngspice_optimized_independent_n20_r3.tar.gz",
+  "max_rss_kb": 30624,
+  "method": "ngspice_optimized_independent",
+  "observed_wall_s": 301.39533853298053,
+  "output_shape": {
+    "numeric_rows": 20,
+    "numeric_values": 40,
+    "raw_text_bytes": 442728
+  },
+  "rep": 3,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 20,
+  "system_s": 0.36,
+  "tag": "matrix",
+  "user_s": 300.76
+}

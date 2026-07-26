@@ -1,0 +1,33 @@
+{
+  "analysis": "dc",
+  "batch_profile": {},
+  "canonical_points": 0,
+  "canonical_samples_per_signal": 0,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 41456,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.54
+    }
+  ],
+  "cpu": 0,
+  "layer": "solver_only",
+  "logs_archive": "data/raw/logs/matrix_solver_only_dc_hspice_independent_n1_r1.tar.gz",
+  "max_rss_kb": 41456,
+  "method": "hspice_independent",
+  "observed_wall_s": 0.597084044944495,
+  "output_shape": {
+    "numeric_rows": 0,
+    "numeric_values": 0,
+    "raw_text_bytes": 3995
+  },
+  "rep": 1,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 1,
+  "system_s": 0.04,
+  "tag": "matrix",
+  "user_s": 0.54
+}

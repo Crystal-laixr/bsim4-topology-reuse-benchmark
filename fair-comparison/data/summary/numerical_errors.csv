@@ -1,0 +1,8 @@
+comparisons,max_abs_v,median_abs_v,p95_abs_v,analysis,left,right
+84000,0.0,0.0,0.0,dc,hspice_independent,hspice_alter
+84000,0.0,0.0,0.0,dc,ngspice_official_independent,ngspice_optimized_independent
+84000,1.0000000003187713e-15,0.0,9.999999992847955e-17,dc,ngspice_optimized_independent,ngspice_optimized_reuse
+84000,5.1000000001368084e-14,0.0,3.4000000000084875e-14,dc,hspice_independent,ngspice_official_independent
+12960,0.0,0.0,0.0,tran,hspice_independent,hspice_alter
+12960,0.0,0.0,0.0,tran,ngspice_official_independent,ngspice_optimized_independent
+12960,0.7718209,9.81060000000002e-07,0.0012802000000000004,tran,hspice_independent,ngspice_official_independent

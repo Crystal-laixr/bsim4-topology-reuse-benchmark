@@ -1,0 +1,37 @@
+{
+  "status": "fail",
+  "rows": [
+    {
+      "comparisons": 168,
+      "max_abs_v": 0.0,
+      "median_abs_v": 0.0,
+      "p95_abs_v": 0.0,
+      "analysis": "dc",
+      "method": "hspice_independent"
+    },
+    {
+      "comparisons": 168,
+      "max_abs_v": 6.0000000002582664e-15,
+      "median_abs_v": 0.0,
+      "p95_abs_v": 1.0000000003187713e-15,
+      "analysis": "dc",
+      "method": "ngspice_official_independent"
+    },
+    {
+      "comparisons": 648,
+      "max_abs_v": 1.999999999998959e-12,
+      "median_abs_v": 0.0,
+      "p95_abs_v": 0.0,
+      "analysis": "tran",
+      "method": "hspice_independent"
+    },
+    {
+      "comparisons": 648,
+      "max_abs_v": 0.005894799999999978,
+      "median_abs_v": 0.0,
+      "p95_abs_v": 1.700000000015578e-05,
+      "analysis": "tran",
+      "method": "ngspice_official_independent"
+    }
+  ]
+}

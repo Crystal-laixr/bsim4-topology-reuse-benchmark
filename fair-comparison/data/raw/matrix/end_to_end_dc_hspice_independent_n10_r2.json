@@ -1,0 +1,96 @@
+{
+  "analysis": "dc",
+  "batch_profile": {},
+  "canonical_points": 10,
+  "canonical_samples_per_signal": 21,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 56656,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.56
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 56656,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.58
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 56660,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.21
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 56656,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.57
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 56656,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.55
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 56656,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.6
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 56660,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.43
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 56660,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 0.2
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 56660,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.21
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 56656,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 0.56
+    }
+  ],
+  "cpu": 0,
+  "layer": "end_to_end",
+  "logs_archive": "data/raw/logs/matrix_end_to_end_dc_hspice_independent_n10_r2.tar.gz",
+  "max_rss_kb": 56660,
+  "method": "hspice_independent",
+  "observed_wall_s": 4.96849250595551,
+  "output_shape": {
+    "numeric_rows": 0,
+    "numeric_values": 0,
+    "raw_text_bytes": 72930
+  },
+  "rep": 2,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 10,
+  "system_s": 0.37,
+  "tag": "matrix",
+  "user_s": 4.47
+}

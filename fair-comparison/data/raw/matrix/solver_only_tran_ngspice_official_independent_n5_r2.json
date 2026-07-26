@@ -1,0 +1,61 @@
+{
+  "analysis": "tran",
+  "batch_profile": {},
+  "canonical_points": 0,
+  "canonical_samples_per_signal": 0,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29140,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 14.61
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29772,
+      "returncode": 0,
+      "system_s": 0.02,
+      "user_s": 15.06
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29984,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 15.96
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 28916,
+      "returncode": 0,
+      "system_s": 0.03,
+      "user_s": 14.66
+    },
+    {
+      "exit_status": 0,
+      "max_rss_kb": 29780,
+      "returncode": 0,
+      "system_s": 0.04,
+      "user_s": 15.09
+    }
+  ],
+  "cpu": 0,
+  "layer": "solver_only",
+  "logs_archive": "data/raw/logs/matrix_solver_only_tran_ngspice_official_independent_n5_r2.tar.gz",
+  "max_rss_kb": 29984,
+  "method": "ngspice_official_independent",
+  "observed_wall_s": 75.65085668000393,
+  "output_shape": {
+    "numeric_rows": 5,
+    "numeric_values": 10,
+    "raw_text_bytes": 110738
+  },
+  "rep": 2,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 5,
+  "system_s": 0.16,
+  "tag": "matrix",
+  "user_s": 75.38
+}

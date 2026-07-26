@@ -1,0 +1,33 @@
+{
+  "analysis": "tran",
+  "batch_profile": {},
+  "canonical_points": 1,
+  "canonical_samples_per_signal": 81,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 57580,
+      "returncode": 0,
+      "system_s": 0.06,
+      "user_s": 1.87
+    }
+  ],
+  "cpu": 0,
+  "layer": "tight_reference",
+  "logs_archive": "data/raw/logs/tight_gate_tight_reference_tran_hspice_independent_n1_r0.tar.gz",
+  "max_rss_kb": 57580,
+  "method": "hspice_independent",
+  "observed_wall_s": 1.9464292180491611,
+  "output_shape": {
+    "numeric_rows": 0,
+    "numeric_values": 0,
+    "raw_text_bytes": 25524
+  },
+  "rep": 0,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 1,
+  "system_s": 0.06,
+  "tag": "tight_gate",
+  "user_s": 1.87
+}

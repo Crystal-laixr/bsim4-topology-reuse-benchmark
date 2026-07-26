@@ -1,0 +1,33 @@
+{
+  "analysis": "tran",
+  "batch_profile": {},
+  "canonical_points": 1,
+  "canonical_samples_per_signal": 81,
+  "child_stats": [
+    {
+      "exit_status": 0,
+      "max_rss_kb": 57588,
+      "returncode": 0,
+      "system_s": 0.11,
+      "user_s": 1.74
+    }
+  ],
+  "cpu": 0,
+  "layer": "end_to_end",
+  "logs_archive": "data/raw/logs/carry_taper_end_to_end_tran_hspice_independent_n1_r3.tar.gz",
+  "max_rss_kb": 57588,
+  "method": "hspice_independent",
+  "observed_wall_s": 1.863864218001254,
+  "output_shape": {
+    "numeric_rows": 0,
+    "numeric_values": 0,
+    "raw_text_bytes": 25504
+  },
+  "rep": 3,
+  "schema_version": 2,
+  "simulation_wall_s": 0.0,
+  "size": 1,
+  "system_s": 0.11,
+  "tag": "carry_taper",
+  "user_s": 1.74
+}
