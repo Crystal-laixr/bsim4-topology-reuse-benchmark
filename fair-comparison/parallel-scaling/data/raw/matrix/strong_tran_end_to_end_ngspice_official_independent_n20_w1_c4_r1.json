@@ -1,0 +1,172 @@
+{
+  "scaling": "strong",
+  "workers": 1,
+  "effective_workers": 1,
+  "scheduled_concurrency": 1,
+  "hspice_license_concurrency_cap": null,
+  "method": "ngspice_official_independent",
+  "analysis": "tran",
+  "layer": "end_to_end",
+  "complexity": 4,
+  "rep": 1,
+  "total_points": 20,
+  "observed_wall_s": 300.6530009279959,
+  "total_cpu_s": 300.24,
+  "aggregate_max_rss_kb": 9416,
+  "workers_started": 1,
+  "workers_ok": 1,
+  "worker_rows": [
+    {
+      "worker": 0,
+      "cpu": 0,
+      "points": [
+        "p000000",
+        "p000001",
+        "p000002",
+        "p000003",
+        "p000004",
+        "p000005",
+        "p000006",
+        "p000007",
+        "p000008",
+        "p000009",
+        "p000010",
+        "p000011",
+        "p000012",
+        "p000013",
+        "p000014",
+        "p000015",
+        "p000016",
+        "p000017",
+        "p000018",
+        "p000019"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 14.92,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        },
+        {
+          "user_s": 14.86,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        },
+        {
+          "user_s": 14.65,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        },
+        {
+          "user_s": 14.79,
+          "system_s": 0.0,
+          "max_rss_kb": 9416
+        },
+        {
+          "user_s": 14.49,
+          "system_s": 0.0,
+          "max_rss_kb": 9416
+        },
+        {
+          "user_s": 14.73,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        },
+        {
+          "user_s": 14.88,
+          "system_s": 0.0,
+          "max_rss_kb": 9416
+        },
+        {
+          "user_s": 15.7,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        },
+        {
+          "user_s": 15.13,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        },
+        {
+          "user_s": 15.11,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        },
+        {
+          "user_s": 14.64,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        },
+        {
+          "user_s": 14.67,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        },
+        {
+          "user_s": 15.09,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        },
+        {
+          "user_s": 14.56,
+          "system_s": 0.0,
+          "max_rss_kb": 9416
+        },
+        {
+          "user_s": 15.0,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        },
+        {
+          "user_s": 15.23,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        },
+        {
+          "user_s": 16.04,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        },
+        {
+          "user_s": 15.4,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        },
+        {
+          "user_s": 14.86,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        },
+        {
+          "user_s": 15.33,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w1_c4_r1_shard000.tar.gz",
+      "ok": true
+    }
+  ]
+}

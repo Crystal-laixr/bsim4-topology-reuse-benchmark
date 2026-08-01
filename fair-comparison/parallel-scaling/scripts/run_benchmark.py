@@ -26,6 +26,7 @@ import generate_inputs as circuit  # noqa: E402
 METHODS = ("hspice_independent", "hspice_alter", "ngspice_official_independent", "ngspice_optimized_independent", "ngspice_optimized_reuse")
 OBSERVED = circuit.OBSERVED
 VECTOR_LOCK = threading.Lock()
+BASE_LOGIC_VECTORS = circuit.logic_vectors
 
 
 def read_points(path: Path) -> list[dict[str, float | str]]:
@@ -44,7 +45,7 @@ def dc_line(count: int) -> str:
 
 
 def vectors(count: int) -> list[tuple[int, int, int]]:
-    base = circuit.logic_vectors()
+    base = BASE_LOGIC_VECTORS()
     if count <= len(base): return base[:count]
     result = list(base)
     state = 717

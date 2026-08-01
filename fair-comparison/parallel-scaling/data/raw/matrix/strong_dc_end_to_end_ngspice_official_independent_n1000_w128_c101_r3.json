@@ -1,0 +1,8556 @@
+{
+  "scaling": "strong",
+  "workers": 128,
+  "effective_workers": 128,
+  "scheduled_concurrency": 128,
+  "hspice_license_concurrency_cap": null,
+  "method": "ngspice_official_independent",
+  "analysis": "dc",
+  "layer": "end_to_end",
+  "complexity": 101,
+  "rep": 3,
+  "total_points": 1000,
+  "observed_wall_s": 4.649240067927167,
+  "total_cpu_s": 121.98,
+  "aggregate_max_rss_kb": 1518152,
+  "workers_started": 128,
+  "workers_ok": 128,
+  "worker_rows": [
+    {
+      "worker": 0,
+      "cpu": 0,
+      "points": [
+        "p000000",
+        "p000128",
+        "p000256",
+        "p000384",
+        "p000512",
+        "p000640",
+        "p000768",
+        "p000896"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard000.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 1,
+      "cpu": 1,
+      "points": [
+        "p000001",
+        "p000129",
+        "p000257",
+        "p000385",
+        "p000513",
+        "p000641",
+        "p000769",
+        "p000897"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard001.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 2,
+      "cpu": 2,
+      "points": [
+        "p000002",
+        "p000130",
+        "p000258",
+        "p000386",
+        "p000514",
+        "p000642",
+        "p000770",
+        "p000898"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard002.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 3,
+      "cpu": 3,
+      "points": [
+        "p000003",
+        "p000131",
+        "p000259",
+        "p000387",
+        "p000515",
+        "p000643",
+        "p000771",
+        "p000899"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.22,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard003.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 4,
+      "cpu": 4,
+      "points": [
+        "p000004",
+        "p000132",
+        "p000260",
+        "p000388",
+        "p000516",
+        "p000644",
+        "p000772",
+        "p000900"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.08,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.08,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard004.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 5,
+      "cpu": 5,
+      "points": [
+        "p000005",
+        "p000133",
+        "p000261",
+        "p000389",
+        "p000517",
+        "p000645",
+        "p000773",
+        "p000901"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard005.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 6,
+      "cpu": 6,
+      "points": [
+        "p000006",
+        "p000134",
+        "p000262",
+        "p000390",
+        "p000518",
+        "p000646",
+        "p000774",
+        "p000902"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard006.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 7,
+      "cpu": 7,
+      "points": [
+        "p000007",
+        "p000135",
+        "p000263",
+        "p000391",
+        "p000519",
+        "p000647",
+        "p000775",
+        "p000903"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.08,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard007.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 8,
+      "cpu": 8,
+      "points": [
+        "p000008",
+        "p000136",
+        "p000264",
+        "p000392",
+        "p000520",
+        "p000648",
+        "p000776",
+        "p000904"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard008.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 9,
+      "cpu": 9,
+      "points": [
+        "p000009",
+        "p000137",
+        "p000265",
+        "p000393",
+        "p000521",
+        "p000649",
+        "p000777",
+        "p000905"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard009.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 10,
+      "cpu": 10,
+      "points": [
+        "p000010",
+        "p000138",
+        "p000266",
+        "p000394",
+        "p000522",
+        "p000650",
+        "p000778",
+        "p000906"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard010.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 11,
+      "cpu": 11,
+      "points": [
+        "p000011",
+        "p000139",
+        "p000267",
+        "p000395",
+        "p000523",
+        "p000651",
+        "p000779",
+        "p000907"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard011.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 12,
+      "cpu": 12,
+      "points": [
+        "p000012",
+        "p000140",
+        "p000268",
+        "p000396",
+        "p000524",
+        "p000652",
+        "p000780",
+        "p000908"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard012.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 13,
+      "cpu": 13,
+      "points": [
+        "p000013",
+        "p000141",
+        "p000269",
+        "p000397",
+        "p000525",
+        "p000653",
+        "p000781",
+        "p000909"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.17,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard013.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 14,
+      "cpu": 14,
+      "points": [
+        "p000014",
+        "p000142",
+        "p000270",
+        "p000398",
+        "p000526",
+        "p000654",
+        "p000782",
+        "p000910"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard014.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 15,
+      "cpu": 15,
+      "points": [
+        "p000015",
+        "p000143",
+        "p000271",
+        "p000399",
+        "p000527",
+        "p000655",
+        "p000783",
+        "p000911"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard015.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 16,
+      "cpu": 16,
+      "points": [
+        "p000016",
+        "p000144",
+        "p000272",
+        "p000400",
+        "p000528",
+        "p000656",
+        "p000784",
+        "p000912"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard016.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 17,
+      "cpu": 17,
+      "points": [
+        "p000017",
+        "p000145",
+        "p000273",
+        "p000401",
+        "p000529",
+        "p000657",
+        "p000785",
+        "p000913"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard017.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 18,
+      "cpu": 18,
+      "points": [
+        "p000018",
+        "p000146",
+        "p000274",
+        "p000402",
+        "p000530",
+        "p000658",
+        "p000786",
+        "p000914"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard018.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 19,
+      "cpu": 19,
+      "points": [
+        "p000019",
+        "p000147",
+        "p000275",
+        "p000403",
+        "p000531",
+        "p000659",
+        "p000787",
+        "p000915"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard019.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 20,
+      "cpu": 20,
+      "points": [
+        "p000020",
+        "p000148",
+        "p000276",
+        "p000404",
+        "p000532",
+        "p000660",
+        "p000788",
+        "p000916"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.18,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.18,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard020.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 21,
+      "cpu": 21,
+      "points": [
+        "p000021",
+        "p000149",
+        "p000277",
+        "p000405",
+        "p000533",
+        "p000661",
+        "p000789",
+        "p000917"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard021.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 22,
+      "cpu": 22,
+      "points": [
+        "p000022",
+        "p000150",
+        "p000278",
+        "p000406",
+        "p000534",
+        "p000662",
+        "p000790",
+        "p000918"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard022.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 23,
+      "cpu": 23,
+      "points": [
+        "p000023",
+        "p000151",
+        "p000279",
+        "p000407",
+        "p000535",
+        "p000663",
+        "p000791",
+        "p000919"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard023.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 24,
+      "cpu": 24,
+      "points": [
+        "p000024",
+        "p000152",
+        "p000280",
+        "p000408",
+        "p000536",
+        "p000664",
+        "p000792",
+        "p000920"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard024.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 25,
+      "cpu": 25,
+      "points": [
+        "p000025",
+        "p000153",
+        "p000281",
+        "p000409",
+        "p000537",
+        "p000665",
+        "p000793",
+        "p000921"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard025.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 26,
+      "cpu": 26,
+      "points": [
+        "p000026",
+        "p000154",
+        "p000282",
+        "p000410",
+        "p000538",
+        "p000666",
+        "p000794",
+        "p000922"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard026.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 27,
+      "cpu": 27,
+      "points": [
+        "p000027",
+        "p000155",
+        "p000283",
+        "p000411",
+        "p000539",
+        "p000667",
+        "p000795",
+        "p000923"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard027.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 28,
+      "cpu": 28,
+      "points": [
+        "p000028",
+        "p000156",
+        "p000284",
+        "p000412",
+        "p000540",
+        "p000668",
+        "p000796",
+        "p000924"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard028.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 29,
+      "cpu": 29,
+      "points": [
+        "p000029",
+        "p000157",
+        "p000285",
+        "p000413",
+        "p000541",
+        "p000669",
+        "p000797",
+        "p000925"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard029.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 30,
+      "cpu": 30,
+      "points": [
+        "p000030",
+        "p000158",
+        "p000286",
+        "p000414",
+        "p000542",
+        "p000670",
+        "p000798",
+        "p000926"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard030.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 31,
+      "cpu": 31,
+      "points": [
+        "p000031",
+        "p000159",
+        "p000287",
+        "p000415",
+        "p000543",
+        "p000671",
+        "p000799",
+        "p000927"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard031.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 32,
+      "cpu": 32,
+      "points": [
+        "p000032",
+        "p000160",
+        "p000288",
+        "p000416",
+        "p000544",
+        "p000672",
+        "p000800",
+        "p000928"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard032.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 33,
+      "cpu": 33,
+      "points": [
+        "p000033",
+        "p000161",
+        "p000289",
+        "p000417",
+        "p000545",
+        "p000673",
+        "p000801",
+        "p000929"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard033.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 34,
+      "cpu": 34,
+      "points": [
+        "p000034",
+        "p000162",
+        "p000290",
+        "p000418",
+        "p000546",
+        "p000674",
+        "p000802",
+        "p000930"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard034.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 35,
+      "cpu": 35,
+      "points": [
+        "p000035",
+        "p000163",
+        "p000291",
+        "p000419",
+        "p000547",
+        "p000675",
+        "p000803",
+        "p000931"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard035.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 36,
+      "cpu": 36,
+      "points": [
+        "p000036",
+        "p000164",
+        "p000292",
+        "p000420",
+        "p000548",
+        "p000676",
+        "p000804",
+        "p000932"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard036.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 37,
+      "cpu": 37,
+      "points": [
+        "p000037",
+        "p000165",
+        "p000293",
+        "p000421",
+        "p000549",
+        "p000677",
+        "p000805",
+        "p000933"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard037.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 38,
+      "cpu": 38,
+      "points": [
+        "p000038",
+        "p000166",
+        "p000294",
+        "p000422",
+        "p000550",
+        "p000678",
+        "p000806",
+        "p000934"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard038.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 39,
+      "cpu": 39,
+      "points": [
+        "p000039",
+        "p000167",
+        "p000295",
+        "p000423",
+        "p000551",
+        "p000679",
+        "p000807",
+        "p000935"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard039.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 40,
+      "cpu": 40,
+      "points": [
+        "p000040",
+        "p000168",
+        "p000296",
+        "p000424",
+        "p000552",
+        "p000680",
+        "p000808",
+        "p000936"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard040.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 41,
+      "cpu": 41,
+      "points": [
+        "p000041",
+        "p000169",
+        "p000297",
+        "p000425",
+        "p000553",
+        "p000681",
+        "p000809",
+        "p000937"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard041.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 42,
+      "cpu": 42,
+      "points": [
+        "p000042",
+        "p000170",
+        "p000298",
+        "p000426",
+        "p000554",
+        "p000682",
+        "p000810",
+        "p000938"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard042.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 43,
+      "cpu": 43,
+      "points": [
+        "p000043",
+        "p000171",
+        "p000299",
+        "p000427",
+        "p000555",
+        "p000683",
+        "p000811",
+        "p000939"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard043.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 44,
+      "cpu": 44,
+      "points": [
+        "p000044",
+        "p000172",
+        "p000300",
+        "p000428",
+        "p000556",
+        "p000684",
+        "p000812",
+        "p000940"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard044.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 45,
+      "cpu": 45,
+      "points": [
+        "p000045",
+        "p000173",
+        "p000301",
+        "p000429",
+        "p000557",
+        "p000685",
+        "p000813",
+        "p000941"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard045.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 46,
+      "cpu": 46,
+      "points": [
+        "p000046",
+        "p000174",
+        "p000302",
+        "p000430",
+        "p000558",
+        "p000686",
+        "p000814",
+        "p000942"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard046.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 47,
+      "cpu": 47,
+      "points": [
+        "p000047",
+        "p000175",
+        "p000303",
+        "p000431",
+        "p000559",
+        "p000687",
+        "p000815",
+        "p000943"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard047.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 48,
+      "cpu": 48,
+      "points": [
+        "p000048",
+        "p000176",
+        "p000304",
+        "p000432",
+        "p000560",
+        "p000688",
+        "p000816",
+        "p000944"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.24,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard048.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 49,
+      "cpu": 49,
+      "points": [
+        "p000049",
+        "p000177",
+        "p000305",
+        "p000433",
+        "p000561",
+        "p000689",
+        "p000817",
+        "p000945"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard049.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 50,
+      "cpu": 50,
+      "points": [
+        "p000050",
+        "p000178",
+        "p000306",
+        "p000434",
+        "p000562",
+        "p000690",
+        "p000818",
+        "p000946"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard050.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 51,
+      "cpu": 51,
+      "points": [
+        "p000051",
+        "p000179",
+        "p000307",
+        "p000435",
+        "p000563",
+        "p000691",
+        "p000819",
+        "p000947"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.08,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.08,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard051.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 52,
+      "cpu": 52,
+      "points": [
+        "p000052",
+        "p000180",
+        "p000308",
+        "p000436",
+        "p000564",
+        "p000692",
+        "p000820",
+        "p000948"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard052.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 53,
+      "cpu": 53,
+      "points": [
+        "p000053",
+        "p000181",
+        "p000309",
+        "p000437",
+        "p000565",
+        "p000693",
+        "p000821",
+        "p000949"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard053.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 54,
+      "cpu": 54,
+      "points": [
+        "p000054",
+        "p000182",
+        "p000310",
+        "p000438",
+        "p000566",
+        "p000694",
+        "p000822",
+        "p000950"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard054.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 55,
+      "cpu": 55,
+      "points": [
+        "p000055",
+        "p000183",
+        "p000311",
+        "p000439",
+        "p000567",
+        "p000695",
+        "p000823",
+        "p000951"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard055.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 56,
+      "cpu": 56,
+      "points": [
+        "p000056",
+        "p000184",
+        "p000312",
+        "p000440",
+        "p000568",
+        "p000696",
+        "p000824",
+        "p000952"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard056.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 57,
+      "cpu": 57,
+      "points": [
+        "p000057",
+        "p000185",
+        "p000313",
+        "p000441",
+        "p000569",
+        "p000697",
+        "p000825",
+        "p000953"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard057.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 58,
+      "cpu": 58,
+      "points": [
+        "p000058",
+        "p000186",
+        "p000314",
+        "p000442",
+        "p000570",
+        "p000698",
+        "p000826",
+        "p000954"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard058.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 59,
+      "cpu": 59,
+      "points": [
+        "p000059",
+        "p000187",
+        "p000315",
+        "p000443",
+        "p000571",
+        "p000699",
+        "p000827",
+        "p000955"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard059.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 60,
+      "cpu": 60,
+      "points": [
+        "p000060",
+        "p000188",
+        "p000316",
+        "p000444",
+        "p000572",
+        "p000700",
+        "p000828",
+        "p000956"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard060.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 61,
+      "cpu": 61,
+      "points": [
+        "p000061",
+        "p000189",
+        "p000317",
+        "p000445",
+        "p000573",
+        "p000701",
+        "p000829",
+        "p000957"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard061.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 62,
+      "cpu": 62,
+      "points": [
+        "p000062",
+        "p000190",
+        "p000318",
+        "p000446",
+        "p000574",
+        "p000702",
+        "p000830",
+        "p000958"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.08,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard062.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 63,
+      "cpu": 63,
+      "points": [
+        "p000063",
+        "p000191",
+        "p000319",
+        "p000447",
+        "p000575",
+        "p000703",
+        "p000831",
+        "p000959"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard063.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 64,
+      "cpu": 64,
+      "points": [
+        "p000064",
+        "p000192",
+        "p000320",
+        "p000448",
+        "p000576",
+        "p000704",
+        "p000832",
+        "p000960"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard064.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 65,
+      "cpu": 65,
+      "points": [
+        "p000065",
+        "p000193",
+        "p000321",
+        "p000449",
+        "p000577",
+        "p000705",
+        "p000833",
+        "p000961"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard065.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 66,
+      "cpu": 66,
+      "points": [
+        "p000066",
+        "p000194",
+        "p000322",
+        "p000450",
+        "p000578",
+        "p000706",
+        "p000834",
+        "p000962"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard066.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 67,
+      "cpu": 67,
+      "points": [
+        "p000067",
+        "p000195",
+        "p000323",
+        "p000451",
+        "p000579",
+        "p000707",
+        "p000835",
+        "p000963"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard067.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 68,
+      "cpu": 68,
+      "points": [
+        "p000068",
+        "p000196",
+        "p000324",
+        "p000452",
+        "p000580",
+        "p000708",
+        "p000836",
+        "p000964"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard068.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 69,
+      "cpu": 69,
+      "points": [
+        "p000069",
+        "p000197",
+        "p000325",
+        "p000453",
+        "p000581",
+        "p000709",
+        "p000837",
+        "p000965"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard069.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 70,
+      "cpu": 70,
+      "points": [
+        "p000070",
+        "p000198",
+        "p000326",
+        "p000454",
+        "p000582",
+        "p000710",
+        "p000838",
+        "p000966"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard070.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 71,
+      "cpu": 71,
+      "points": [
+        "p000071",
+        "p000199",
+        "p000327",
+        "p000455",
+        "p000583",
+        "p000711",
+        "p000839",
+        "p000967"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard071.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 72,
+      "cpu": 72,
+      "points": [
+        "p000072",
+        "p000200",
+        "p000328",
+        "p000456",
+        "p000584",
+        "p000712",
+        "p000840",
+        "p000968"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard072.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 73,
+      "cpu": 73,
+      "points": [
+        "p000073",
+        "p000201",
+        "p000329",
+        "p000457",
+        "p000585",
+        "p000713",
+        "p000841",
+        "p000969"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard073.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 74,
+      "cpu": 74,
+      "points": [
+        "p000074",
+        "p000202",
+        "p000330",
+        "p000458",
+        "p000586",
+        "p000714",
+        "p000842",
+        "p000970"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard074.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 75,
+      "cpu": 75,
+      "points": [
+        "p000075",
+        "p000203",
+        "p000331",
+        "p000459",
+        "p000587",
+        "p000715",
+        "p000843",
+        "p000971"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard075.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 76,
+      "cpu": 76,
+      "points": [
+        "p000076",
+        "p000204",
+        "p000332",
+        "p000460",
+        "p000588",
+        "p000716",
+        "p000844",
+        "p000972"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard076.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 77,
+      "cpu": 77,
+      "points": [
+        "p000077",
+        "p000205",
+        "p000333",
+        "p000461",
+        "p000589",
+        "p000717",
+        "p000845",
+        "p000973"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard077.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 78,
+      "cpu": 78,
+      "points": [
+        "p000078",
+        "p000206",
+        "p000334",
+        "p000462",
+        "p000590",
+        "p000718",
+        "p000846",
+        "p000974"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard078.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 79,
+      "cpu": 79,
+      "points": [
+        "p000079",
+        "p000207",
+        "p000335",
+        "p000463",
+        "p000591",
+        "p000719",
+        "p000847",
+        "p000975"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard079.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 80,
+      "cpu": 80,
+      "points": [
+        "p000080",
+        "p000208",
+        "p000336",
+        "p000464",
+        "p000592",
+        "p000720",
+        "p000848",
+        "p000976"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard080.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 81,
+      "cpu": 81,
+      "points": [
+        "p000081",
+        "p000209",
+        "p000337",
+        "p000465",
+        "p000593",
+        "p000721",
+        "p000849",
+        "p000977"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard081.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 82,
+      "cpu": 82,
+      "points": [
+        "p000082",
+        "p000210",
+        "p000338",
+        "p000466",
+        "p000594",
+        "p000722",
+        "p000850",
+        "p000978"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard082.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 83,
+      "cpu": 83,
+      "points": [
+        "p000083",
+        "p000211",
+        "p000339",
+        "p000467",
+        "p000595",
+        "p000723",
+        "p000851",
+        "p000979"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard083.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 84,
+      "cpu": 84,
+      "points": [
+        "p000084",
+        "p000212",
+        "p000340",
+        "p000468",
+        "p000596",
+        "p000724",
+        "p000852",
+        "p000980"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard084.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 85,
+      "cpu": 85,
+      "points": [
+        "p000085",
+        "p000213",
+        "p000341",
+        "p000469",
+        "p000597",
+        "p000725",
+        "p000853",
+        "p000981"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11852
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard085.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 86,
+      "cpu": 86,
+      "points": [
+        "p000086",
+        "p000214",
+        "p000342",
+        "p000470",
+        "p000598",
+        "p000726",
+        "p000854",
+        "p000982"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard086.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 87,
+      "cpu": 87,
+      "points": [
+        "p000087",
+        "p000215",
+        "p000343",
+        "p000471",
+        "p000599",
+        "p000727",
+        "p000855",
+        "p000983"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard087.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 88,
+      "cpu": 88,
+      "points": [
+        "p000088",
+        "p000216",
+        "p000344",
+        "p000472",
+        "p000600",
+        "p000728",
+        "p000856",
+        "p000984"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard088.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 89,
+      "cpu": 89,
+      "points": [
+        "p000089",
+        "p000217",
+        "p000345",
+        "p000473",
+        "p000601",
+        "p000729",
+        "p000857",
+        "p000985"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard089.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 90,
+      "cpu": 90,
+      "points": [
+        "p000090",
+        "p000218",
+        "p000346",
+        "p000474",
+        "p000602",
+        "p000730",
+        "p000858",
+        "p000986"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.17,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard090.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 91,
+      "cpu": 91,
+      "points": [
+        "p000091",
+        "p000219",
+        "p000347",
+        "p000475",
+        "p000603",
+        "p000731",
+        "p000859",
+        "p000987"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard091.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 92,
+      "cpu": 92,
+      "points": [
+        "p000092",
+        "p000220",
+        "p000348",
+        "p000476",
+        "p000604",
+        "p000732",
+        "p000860",
+        "p000988"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard092.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 93,
+      "cpu": 93,
+      "points": [
+        "p000093",
+        "p000221",
+        "p000349",
+        "p000477",
+        "p000605",
+        "p000733",
+        "p000861",
+        "p000989"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard093.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 94,
+      "cpu": 94,
+      "points": [
+        "p000094",
+        "p000222",
+        "p000350",
+        "p000478",
+        "p000606",
+        "p000734",
+        "p000862",
+        "p000990"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard094.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 95,
+      "cpu": 95,
+      "points": [
+        "p000095",
+        "p000223",
+        "p000351",
+        "p000479",
+        "p000607",
+        "p000735",
+        "p000863",
+        "p000991"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard095.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 96,
+      "cpu": 96,
+      "points": [
+        "p000096",
+        "p000224",
+        "p000352",
+        "p000480",
+        "p000608",
+        "p000736",
+        "p000864",
+        "p000992"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard096.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 97,
+      "cpu": 97,
+      "points": [
+        "p000097",
+        "p000225",
+        "p000353",
+        "p000481",
+        "p000609",
+        "p000737",
+        "p000865",
+        "p000993"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard097.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 98,
+      "cpu": 98,
+      "points": [
+        "p000098",
+        "p000226",
+        "p000354",
+        "p000482",
+        "p000610",
+        "p000738",
+        "p000866",
+        "p000994"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard098.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 99,
+      "cpu": 99,
+      "points": [
+        "p000099",
+        "p000227",
+        "p000355",
+        "p000483",
+        "p000611",
+        "p000739",
+        "p000867",
+        "p000995"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.08,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard099.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 100,
+      "cpu": 100,
+      "points": [
+        "p000100",
+        "p000228",
+        "p000356",
+        "p000484",
+        "p000612",
+        "p000740",
+        "p000868",
+        "p000996"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard100.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 101,
+      "cpu": 101,
+      "points": [
+        "p000101",
+        "p000229",
+        "p000357",
+        "p000485",
+        "p000613",
+        "p000741",
+        "p000869",
+        "p000997"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.08,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard101.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 102,
+      "cpu": 102,
+      "points": [
+        "p000102",
+        "p000230",
+        "p000358",
+        "p000486",
+        "p000614",
+        "p000742",
+        "p000870",
+        "p000998"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard102.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 103,
+      "cpu": 103,
+      "points": [
+        "p000103",
+        "p000231",
+        "p000359",
+        "p000487",
+        "p000615",
+        "p000743",
+        "p000871",
+        "p000999"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard103.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 104,
+      "cpu": 104,
+      "points": [
+        "p000104",
+        "p000232",
+        "p000360",
+        "p000488",
+        "p000616",
+        "p000744",
+        "p000872"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard104.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 105,
+      "cpu": 105,
+      "points": [
+        "p000105",
+        "p000233",
+        "p000361",
+        "p000489",
+        "p000617",
+        "p000745",
+        "p000873"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard105.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 106,
+      "cpu": 106,
+      "points": [
+        "p000106",
+        "p000234",
+        "p000362",
+        "p000490",
+        "p000618",
+        "p000746",
+        "p000874"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard106.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 107,
+      "cpu": 107,
+      "points": [
+        "p000107",
+        "p000235",
+        "p000363",
+        "p000491",
+        "p000619",
+        "p000747",
+        "p000875"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard107.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 108,
+      "cpu": 108,
+      "points": [
+        "p000108",
+        "p000236",
+        "p000364",
+        "p000492",
+        "p000620",
+        "p000748",
+        "p000876"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.17,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard108.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 109,
+      "cpu": 109,
+      "points": [
+        "p000109",
+        "p000237",
+        "p000365",
+        "p000493",
+        "p000621",
+        "p000749",
+        "p000877"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard109.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 110,
+      "cpu": 110,
+      "points": [
+        "p000110",
+        "p000238",
+        "p000366",
+        "p000494",
+        "p000622",
+        "p000750",
+        "p000878"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard110.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 111,
+      "cpu": 111,
+      "points": [
+        "p000111",
+        "p000239",
+        "p000367",
+        "p000495",
+        "p000623",
+        "p000751",
+        "p000879"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard111.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 112,
+      "cpu": 112,
+      "points": [
+        "p000112",
+        "p000240",
+        "p000368",
+        "p000496",
+        "p000624",
+        "p000752",
+        "p000880"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard112.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 113,
+      "cpu": 113,
+      "points": [
+        "p000113",
+        "p000241",
+        "p000369",
+        "p000497",
+        "p000625",
+        "p000753",
+        "p000881"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard113.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 114,
+      "cpu": 114,
+      "points": [
+        "p000114",
+        "p000242",
+        "p000370",
+        "p000498",
+        "p000626",
+        "p000754",
+        "p000882"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard114.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 115,
+      "cpu": 115,
+      "points": [
+        "p000115",
+        "p000243",
+        "p000371",
+        "p000499",
+        "p000627",
+        "p000755",
+        "p000883"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard115.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 116,
+      "cpu": 116,
+      "points": [
+        "p000116",
+        "p000244",
+        "p000372",
+        "p000500",
+        "p000628",
+        "p000756",
+        "p000884"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard116.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 117,
+      "cpu": 117,
+      "points": [
+        "p000117",
+        "p000245",
+        "p000373",
+        "p000501",
+        "p000629",
+        "p000757",
+        "p000885"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.16,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard117.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 118,
+      "cpu": 118,
+      "points": [
+        "p000118",
+        "p000246",
+        "p000374",
+        "p000502",
+        "p000630",
+        "p000758",
+        "p000886"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard118.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 119,
+      "cpu": 119,
+      "points": [
+        "p000119",
+        "p000247",
+        "p000375",
+        "p000503",
+        "p000631",
+        "p000759",
+        "p000887"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard119.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 120,
+      "cpu": 120,
+      "points": [
+        "p000120",
+        "p000248",
+        "p000376",
+        "p000504",
+        "p000632",
+        "p000760",
+        "p000888"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.18,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard120.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 121,
+      "cpu": 121,
+      "points": [
+        "p000121",
+        "p000249",
+        "p000377",
+        "p000505",
+        "p000633",
+        "p000761",
+        "p000889"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard121.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 122,
+      "cpu": 122,
+      "points": [
+        "p000122",
+        "p000250",
+        "p000378",
+        "p000506",
+        "p000634",
+        "p000762",
+        "p000890"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard122.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 123,
+      "cpu": 123,
+      "points": [
+        "p000123",
+        "p000251",
+        "p000379",
+        "p000507",
+        "p000635",
+        "p000763",
+        "p000891"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.16,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard123.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 124,
+      "cpu": 124,
+      "points": [
+        "p000124",
+        "p000252",
+        "p000380",
+        "p000508",
+        "p000636",
+        "p000764",
+        "p000892"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11852
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard124.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 125,
+      "cpu": 125,
+      "points": [
+        "p000125",
+        "p000253",
+        "p000381",
+        "p000509",
+        "p000637",
+        "p000765",
+        "p000893"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11864
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard125.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 126,
+      "cpu": 126,
+      "points": [
+        "p000126",
+        "p000254",
+        "p000382",
+        "p000510",
+        "p000638",
+        "p000766",
+        "p000894"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.12,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard126.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 127,
+      "cpu": 127,
+      "points": [
+        "p000127",
+        "p000255",
+        "p000383",
+        "p000511",
+        "p000639",
+        "p000767",
+        "p000895"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.15,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.14,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.1,
+          "system_s": 0.01,
+          "max_rss_kb": 11856
+        },
+        {
+          "user_s": 0.13,
+          "system_s": 0.01,
+          "max_rss_kb": 11860
+        },
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_dc_end_to_end_ngspice_official_independent_w128_c101_r3_shard127.tar.gz",
+      "ok": true
+    }
+  ]
+}

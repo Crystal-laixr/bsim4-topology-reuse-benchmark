@@ -1,0 +1,51 @@
+{
+  "scaling": "strong",
+  "workers": 1,
+  "effective_workers": 1,
+  "method": "ngspice_optimized_independent",
+  "analysis": "dc",
+  "layer": "end_to_end",
+  "complexity": 21,
+  "rep": 0,
+  "total_points": 3,
+  "observed_wall_s": 0.44324118096847087,
+  "total_cpu_s": 0.27,
+  "aggregate_max_rss_kb": 11872,
+  "workers_started": 1,
+  "workers_ok": 1,
+  "worker_rows": [
+    {
+      "worker": 0,
+      "cpu": 0,
+      "points": [
+        "p000000",
+        "p000001",
+        "p000002"
+      ],
+      "returncodes": [
+        0,
+        0,
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11868
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11868
+        },
+        {
+          "user_s": 0.09,
+          "system_s": 0.0,
+          "max_rss_kb": 11872
+        }
+      ],
+      "archive": "data/raw/logs/smoke_strong_dc_end_to_end_ngspice_optimized_independent_w1_c21_r0_shard000.tar.gz",
+      "ok": true
+    }
+  ]
+}

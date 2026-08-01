@@ -1,0 +1,400 @@
+{
+  "scaling": "strong",
+  "workers": 32,
+  "effective_workers": 20,
+  "scheduled_concurrency": 20,
+  "hspice_license_concurrency_cap": null,
+  "method": "ngspice_official_independent",
+  "analysis": "tran",
+  "layer": "end_to_end",
+  "complexity": 4,
+  "rep": 1,
+  "total_points": 20,
+  "observed_wall_s": 17.612710492918268,
+  "total_cpu_s": 332.27000000000004,
+  "aggregate_max_rss_kb": 188288,
+  "workers_started": 20,
+  "workers_ok": 20,
+  "worker_rows": [
+    {
+      "worker": 0,
+      "cpu": 0,
+      "points": [
+        "p000000"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.58,
+          "system_s": 0.02,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard000.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 1,
+      "cpu": 1,
+      "points": [
+        "p000001"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.48,
+          "system_s": 0.02,
+          "max_rss_kb": 9412
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard001.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 2,
+      "cpu": 2,
+      "points": [
+        "p000002"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.36,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard002.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 3,
+      "cpu": 3,
+      "points": [
+        "p000003"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.48,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard003.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 4,
+      "cpu": 4,
+      "points": [
+        "p000004"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.24,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard004.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 5,
+      "cpu": 5,
+      "points": [
+        "p000005"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.31,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard005.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 6,
+      "cpu": 6,
+      "points": [
+        "p000006"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.5,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard006.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 7,
+      "cpu": 7,
+      "points": [
+        "p000007"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 17.42,
+          "system_s": 0.02,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard007.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 8,
+      "cpu": 8,
+      "points": [
+        "p000008"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.8,
+          "system_s": 0.02,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard008.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 9,
+      "cpu": 9,
+      "points": [
+        "p000009"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.69,
+          "system_s": 0.02,
+          "max_rss_kb": 9412
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard009.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 10,
+      "cpu": 10,
+      "points": [
+        "p000010"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.16,
+          "system_s": 0.01,
+          "max_rss_kb": 9412
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard010.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 11,
+      "cpu": 11,
+      "points": [
+        "p000011"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.24,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard011.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 12,
+      "cpu": 12,
+      "points": [
+        "p000012"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.67,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard012.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 13,
+      "cpu": 13,
+      "points": [
+        "p000013"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.09,
+          "system_s": 0.02,
+          "max_rss_kb": 9412
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard013.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 14,
+      "cpu": 14,
+      "points": [
+        "p000014"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.78,
+          "system_s": 0.02,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard014.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 15,
+      "cpu": 15,
+      "points": [
+        "p000015"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.77,
+          "system_s": 0.02,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard015.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 16,
+      "cpu": 16,
+      "points": [
+        "p000016"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 17.46,
+          "system_s": 0.0,
+          "max_rss_kb": 9412
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard016.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 17,
+      "cpu": 17,
+      "points": [
+        "p000017"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.87,
+          "system_s": 0.01,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard017.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 18,
+      "cpu": 18,
+      "points": [
+        "p000018"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.3,
+          "system_s": 0.02,
+          "max_rss_kb": 9412
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard018.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 19,
+      "cpu": 19,
+      "points": [
+        "p000019"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 16.78,
+          "system_s": 0.02,
+          "max_rss_kb": 9416
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_ngspice_official_independent_w32_c4_r1_shard019.tar.gz",
+      "ok": true
+    }
+  ]
+}

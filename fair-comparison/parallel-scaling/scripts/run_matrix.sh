@@ -37,22 +37,20 @@ for complexity in 5 21 101; do
     done
   done
 done
-for layer in solver_only end_to_end; do
-  for rep in 1 2 3; do
-    for worker in "${workers[@]}"; do
-      for method in "${methods[@]}"; do run --scaling weak --total-points $((1000 * worker)) --workers "$worker" --method "$method" --analysis dc --layer "$layer" --complexity 21 --rep "$rep" --tag matrix; done
-    done
+# Keep the complete solver-only weak-scaling curve.  End-to-end output work is
+# sampled after the solver curve because high-worker HSPICE process startup and
+# license scheduling dominate runtime.
+for rep in 1 2 3; do
+  for worker in "${workers[@]}"; do
+    for method in "${methods[@]}"; do run --scaling weak --total-points $((1000 * worker)) --workers "$worker" --method "$method" --analysis dc --layer solver_only --complexity 21 --rep "$rep" --tag matrix; done
   done
 done
+for worker in 1 8 32; do
+  for method in "${methods[@]}"; do run --scaling weak --total-points $((1000 * worker)) --workers "$worker" --method "$method" --analysis dc --layer end_to_end --complexity 21 --rep 1 --tag matrix; done
+done
 tran_methods=(hspice_independent hspice_alter ngspice_official_independent ngspice_optimized_independent)
-for complexity in 4 16; do
-  for layer in solver_only end_to_end; do
-    for rep in 1 2 3; do
-      for worker in 1 8 32 128; do
-        for method in "${tran_methods[@]}"; do run --scaling strong --total-points 20 --workers "$worker" --method "$method" --analysis tran --layer "$layer" --complexity "$complexity" --rep "$rep" --tag matrix; done
-      done
-    done
-  done
+for worker in 1 8 32; do
+  for method in "${tran_methods[@]}"; do run --scaling strong --total-points 20 --workers "$worker" --method "$method" --analysis tran --layer end_to_end --complexity 4 --rep 1 --tag matrix; done
 done
 "$PYTHON_BIN" scripts/check_results.py --tag matrix
 "$PYTHON_BIN" scripts/analyze.py

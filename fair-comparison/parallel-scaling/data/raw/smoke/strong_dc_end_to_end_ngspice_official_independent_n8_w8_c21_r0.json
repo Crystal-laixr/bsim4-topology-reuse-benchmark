@@ -1,0 +1,170 @@
+{
+  "scaling": "strong",
+  "workers": 8,
+  "effective_workers": 8,
+  "method": "ngspice_official_independent",
+  "analysis": "dc",
+  "layer": "end_to_end",
+  "complexity": 21,
+  "rep": 0,
+  "total_points": 8,
+  "observed_wall_s": 0.26021187007427216,
+  "total_cpu_s": 0.8300000000000001,
+  "aggregate_max_rss_kb": 94856,
+  "workers_started": 8,
+  "workers_ok": 8,
+  "worker_rows": [
+    {
+      "worker": 0,
+      "cpu": 0,
+      "points": [
+        "p000000"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/smoke_strong_dc_end_to_end_ngspice_official_independent_w8_c21_r0_shard000.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 1,
+      "cpu": 1,
+      "points": [
+        "p000001"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/smoke_strong_dc_end_to_end_ngspice_official_independent_w8_c21_r0_shard001.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 2,
+      "cpu": 2,
+      "points": [
+        "p000002"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/smoke_strong_dc_end_to_end_ngspice_official_independent_w8_c21_r0_shard002.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 3,
+      "cpu": 3,
+      "points": [
+        "p000003"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/smoke_strong_dc_end_to_end_ngspice_official_independent_w8_c21_r0_shard003.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 4,
+      "cpu": 4,
+      "points": [
+        "p000004"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/smoke_strong_dc_end_to_end_ngspice_official_independent_w8_c21_r0_shard004.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 5,
+      "cpu": 5,
+      "points": [
+        "p000005"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.11,
+          "system_s": 0.0,
+          "max_rss_kb": 11856
+        }
+      ],
+      "archive": "data/raw/logs/smoke_strong_dc_end_to_end_ngspice_official_independent_w8_c21_r0_shard005.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 6,
+      "cpu": 6,
+      "points": [
+        "p000006"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/smoke_strong_dc_end_to_end_ngspice_official_independent_w8_c21_r0_shard006.tar.gz",
+      "ok": true
+    },
+    {
+      "worker": 7,
+      "cpu": 7,
+      "points": [
+        "p000007"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 0.1,
+          "system_s": 0.0,
+          "max_rss_kb": 11860
+        }
+      ],
+      "archive": "data/raw/logs/smoke_strong_dc_end_to_end_ngspice_official_independent_w8_c21_r0_shard007.tar.gz",
+      "ok": true
+    }
+  ]
+}

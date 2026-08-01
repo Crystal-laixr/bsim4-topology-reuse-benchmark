@@ -1,0 +1,58 @@
+{
+  "scaling": "strong",
+  "workers": 1,
+  "effective_workers": 1,
+  "scheduled_concurrency": 1,
+  "hspice_license_concurrency_cap": 128,
+  "method": "hspice_alter",
+  "analysis": "tran",
+  "layer": "end_to_end",
+  "complexity": 4,
+  "rep": 1,
+  "total_points": 20,
+  "observed_wall_s": 21.009991271886975,
+  "total_cpu_s": 20.88,
+  "aggregate_max_rss_kb": 44044,
+  "workers_started": 1,
+  "workers_ok": 1,
+  "worker_rows": [
+    {
+      "worker": 0,
+      "cpu": 0,
+      "points": [
+        "p000000",
+        "p000001",
+        "p000002",
+        "p000003",
+        "p000004",
+        "p000005",
+        "p000006",
+        "p000007",
+        "p000008",
+        "p000009",
+        "p000010",
+        "p000011",
+        "p000012",
+        "p000013",
+        "p000014",
+        "p000015",
+        "p000016",
+        "p000017",
+        "p000018",
+        "p000019"
+      ],
+      "returncodes": [
+        0
+      ],
+      "stats": [
+        {
+          "user_s": 20.8,
+          "system_s": 0.08,
+          "max_rss_kb": 44044
+        }
+      ],
+      "archive": "data/raw/logs/matrix_strong_tran_end_to_end_hspice_alter_w1_c4_r1_shard000.tar.gz",
+      "ok": true
+    }
+  ]
+}
