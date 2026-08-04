@@ -4,26 +4,11 @@ set -euo pipefail
 ROOT=$(cd "$(dirname "$0")/.." && pwd)
 cd "$ROOT"
 
-NGSPICE_BIN=${NGSPICE_BIN:-/home/LaiXinran/ngspice_for_sizing/build/src/ngspice}
-HSPICE_BIN=${HSPICE_BIN:-/home/LaiXinran/.local/eda/hspice/bin/hspice}
-PYTHON_BIN=${PYTHON_BIN:-/usr/local/python312/bin/python3.12}
-export NGSPICE_BIN HSPICE_BIN PYTHON_BIN OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 LC_ALL=C LANG=C
-
-if [ -f /home/LaiXinran/.hspice_env ]; then
-    source /home/LaiXinran/.hspice_env
-fi
-
-if ! pgrep -f '/home/LaiXinran/.local/eda/new/lmgrd' >/dev/null 2>&1; then
-    nohup /home/LaiXinran/.local/eda/new/lmgrd \
-        -c /home/LaiXinran/.local/eda/new/synopsys.dat \
-        -l /home/LaiXinran/.local/eda/new/license.log \
-        >/home/LaiXinran/.local/eda/new/lmgrd.stdout 2>&1 &
-    sleep 3
-fi
-
-test -x "$NGSPICE_BIN"
-test -x "$HSPICE_BIN"
-test -x "$PYTHON_BIN"
+source "$ROOT/scripts/runtime_env.sh"
+benchmark_load_env "$ROOT"
+benchmark_require_executable PYTHON_BIN "$PYTHON_BIN"
+benchmark_require_executable HSPICE_BIN "$HSPICE_BIN"
+benchmark_require_executable NGSPICE_BIN "$NGSPICE_BIN"
 test -x /usr/bin/time
 command -v taskset >/dev/null
 
@@ -36,7 +21,7 @@ mkdir -p data/raw/system data/raw/smoke data/raw/gate data/raw/matrix data/raw/l
     cat /etc/os-release
     lscpu
     free -h
-    git -C /home/LaiXinran/ngspice_for_sizing rev-parse HEAD
+    benchmark_git_revision "$NGSPICE_OPTIMIZED_SOURCE" optimized-ngspice
     "$NGSPICE_BIN" -v
     "$HSPICE_BIN" -v
 } > data/raw/system/environment.txt 2>&1

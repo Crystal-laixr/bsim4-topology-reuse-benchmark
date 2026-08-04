@@ -2,13 +2,16 @@
 set -euo pipefail
 
 ROOT=$(cd "$(dirname "$0")/.." && pwd)
+REPO_ROOT=$(cd "$ROOT/../.." && pwd)
 cd "$ROOT"
-PYTHON_BIN=${PYTHON_BIN:-/usr/local/python312/bin/python3.12}
-HSPICE_BIN=${HSPICE_BIN:-/home/LaiXinran/.local/eda/hspice/bin/hspice}
-NGSPICE_OFFICIAL_BIN=${NGSPICE_OFFICIAL_BIN:-/home/LaiXinran/ngspice_official_fair/build/src/ngspice}
-NGSPICE_OPTIMIZED_BIN=${NGSPICE_OPTIMIZED_BIN:-/home/LaiXinran/ngspice_for_sizing/build/src/ngspice}
-export PYTHON_BIN HSPICE_BIN NGSPICE_OFFICIAL_BIN NGSPICE_OPTIMIZED_BIN OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 LC_ALL=C LANG=C HSPICE_CONCURRENCY_CAP=${HSPICE_CONCURRENCY_CAP:-128}
-[[ -f /home/LaiXinran/.hspice_env ]] && source /home/LaiXinran/.hspice_env
+source "$REPO_ROOT/scripts/runtime_env.sh"
+benchmark_load_env "$REPO_ROOT"
+benchmark_require_executable PYTHON_BIN "$PYTHON_BIN"
+benchmark_require_executable HSPICE_BIN "$HSPICE_BIN"
+benchmark_require_executable NGSPICE_OFFICIAL_BIN "$NGSPICE_OFFICIAL_BIN"
+benchmark_require_executable NGSPICE_OPTIMIZED_BIN "$NGSPICE_OPTIMIZED_BIN"
+test -x /usr/bin/time
+command -v taskset >/dev/null
 mkdir -p data/raw/{system,smoke,matrix,logs} data/summary figures
 "$PYTHON_BIN" scripts/generate_inputs.py --points 1000 --seed 717
 { date -Is; uname -a; lscpu; grep Swap /proc/meminfo; echo HSPICE_CONCURRENCY_CAP=$HSPICE_CONCURRENCY_CAP; "$HSPICE_BIN" -v; "$NGSPICE_OFFICIAL_BIN" -v; "$NGSPICE_OPTIMIZED_BIN" -v; } > data/raw/system/environment.txt 2>&1

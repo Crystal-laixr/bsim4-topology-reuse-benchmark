@@ -79,7 +79,7 @@ def main() -> None:
         svg(figures / f"{scaling}_dc21_{metric}.svg", f"{scaling} DC-21 {metric}", selected, metric)
     lines = ["# 第三轮：并行 worker、批长度与分析复杂度", "", f"完成正式记录 {len(paths)} 个，汇总单元 {len(summary)} 个。", "", "## 结果口径", "", "- 强扩展固定 1000 点，比较同一批任务的完成时间。", "- 弱扩展每 worker 固定 1000 点，比较整机总吞吐和并行效率。", "- `effective_workers` 小于请求 worker 时，表示任务数不足以让所有 worker 都有工作。", "- HSPICE 许可证排队属于端到端时间；共同 worker 上限内的记录用于严格公平比较。", "", "## 交叉点", ""]
     for row in crossings: lines.append(f"- `{row['analysis']}/{row['layer']}` complexity={row['complexity']} `{row['comparison']}`：首次实测 {row['first_measured_worker']}，speedup={row['first_measured_speedup']}。")
-    (ROOT / "REPORT.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    (output / "generated_report.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(json.dumps({"records": len(paths), "summary_rows": len(summary), "crossovers": len(crossings)}, sort_keys=True))
 
 

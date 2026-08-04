@@ -173,7 +173,7 @@ def main() -> None:
     parser.add_argument("--method", choices=METHODS, required=True); parser.add_argument("--analysis", choices=("dc", "tran"), required=True)
     parser.add_argument("--layer", choices=("solver_only", "end_to_end"), required=True); parser.add_argument("--complexity", type=int, required=True)
     parser.add_argument("--rep", type=int, required=True); parser.add_argument("--tag", required=True); parser.add_argument("--skip-existing", action="store_true")
-    parser.add_argument("--hspice", default=os.environ.get("HSPICE_BIN", "/home/LaiXinran/.local/eda/hspice/bin/hspice")); parser.add_argument("--ngspice-official", default=os.environ.get("NGSPICE_OFFICIAL_BIN", "/home/LaiXinran/ngspice_official_fair/build/src/ngspice")); parser.add_argument("--ngspice-optimized", default=os.environ.get("NGSPICE_OPTIMIZED_BIN", "/home/LaiXinran/ngspice_for_sizing/build/src/ngspice")); parser.add_argument("--hspice-concurrency-cap", type=int, default=int(os.environ.get("HSPICE_CONCURRENCY_CAP", "128")))
+    parser.add_argument("--hspice", default=os.environ.get("HSPICE_BIN", "hspice")); parser.add_argument("--ngspice-official", default=os.environ.get("NGSPICE_OFFICIAL_BIN", "ngspice")); parser.add_argument("--ngspice-optimized", default=os.environ.get("NGSPICE_OPTIMIZED_BIN", "upstream/ngspice_for_sizing/build/src/ngspice")); parser.add_argument("--hspice-concurrency-cap", type=int, default=int(os.environ.get("HSPICE_CONCURRENCY_CAP", "1")))
     args = parser.parse_args()
     if args.workers < 1 or args.workers > 256: raise ValueError("workers must be in 1..256")
     output = ROOT / "data" / "raw" / args.tag; output.mkdir(parents=True, exist_ok=True)

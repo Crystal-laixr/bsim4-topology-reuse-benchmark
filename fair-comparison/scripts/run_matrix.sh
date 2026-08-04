@@ -2,13 +2,10 @@
 set -euo pipefail
 
 ROOT=$(cd "$(dirname "$0")/.." && pwd)
+REPO_ROOT=$(cd "$ROOT/.." && pwd)
 cd "$ROOT"
-PYTHON_BIN=${PYTHON_BIN:-/usr/local/python312/bin/python3.12}
-HSPICE_BIN=${HSPICE_BIN:-/home/LaiXinran/.local/eda/hspice/bin/hspice}
-NGSPICE_OFFICIAL_BIN=${NGSPICE_OFFICIAL_BIN:-/home/LaiXinran/ngspice_official_fair/build/src/ngspice}
-NGSPICE_OPTIMIZED_BIN=${NGSPICE_OPTIMIZED_BIN:-/home/LaiXinran/ngspice_for_sizing/build/src/ngspice}
-export PYTHON_BIN HSPICE_BIN NGSPICE_OFFICIAL_BIN NGSPICE_OPTIMIZED_BIN
-export OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 LC_ALL=C LANG=C
+source "$REPO_ROOT/scripts/runtime_env.sh"
+benchmark_load_env "$REPO_ROOT"
 
 run_case() {
     local method=$1 analysis=$2 layer=$3 size=$4 rep=$5 tag=$6
@@ -20,8 +17,12 @@ run_case() {
     "$PYTHON_BIN" scripts/run_benchmark.py --method "$method" --analysis "$analysis" --layer "$layer" --size "$size" --rep "$rep" --tag "$tag"
 }
 
-if [[ -f /home/LaiXinran/.hspice_env ]]; then source /home/LaiXinran/.hspice_env; fi
-test -x "$PYTHON_BIN"; test -x "$HSPICE_BIN"; test -x "$NGSPICE_OFFICIAL_BIN"; test -x "$NGSPICE_OPTIMIZED_BIN"
+benchmark_require_executable PYTHON_BIN "$PYTHON_BIN"
+benchmark_require_executable HSPICE_BIN "$HSPICE_BIN"
+benchmark_require_executable NGSPICE_OFFICIAL_BIN "$NGSPICE_OFFICIAL_BIN"
+benchmark_require_executable NGSPICE_OPTIMIZED_BIN "$NGSPICE_OPTIMIZED_BIN"
+test -x /usr/bin/time
+command -v taskset >/dev/null
 mkdir -p data/raw/{system,warmup,smoke,accuracy,matrix,logs} data/summary figures
 "$PYTHON_BIN" scripts/generate_inputs.py --points 500 --seed 717
 
@@ -30,8 +31,8 @@ sha256sum "$NGSPICE_OFFICIAL_BIN" "$NGSPICE_OPTIMIZED_BIN" > data/raw/system/bin
     date -Is
     uname -a
     lscpu
-    git -C /home/LaiXinran/ngspice_official_fair rev-parse HEAD
-    git -C /home/LaiXinran/ngspice_for_sizing rev-parse HEAD
+    benchmark_git_revision "$NGSPICE_OFFICIAL_SOURCE" official-ngspice
+    benchmark_git_revision "$NGSPICE_OPTIMIZED_SOURCE" optimized-ngspice
     "$NGSPICE_OFFICIAL_BIN" -v
     "$NGSPICE_OPTIMIZED_BIN" -v
     "$HSPICE_BIN" -v

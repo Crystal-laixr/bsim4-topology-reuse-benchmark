@@ -1,0 +1,22 @@
+# Copy this file to .benchmark-env and adjust paths for the local machine.
+# Do not commit .benchmark-env: it may contain site-specific license settings.
+
+PYTHON_BIN=/usr/bin/python3
+
+# Public ngspice installed on the machine or built from the official source.
+NGSPICE_OFFICIAL_BIN=/usr/local/bin/ngspice
+NGSPICE_OFFICIAL_SOURCE=/path/to/official/ngspice
+
+# Optimized source is included as a Git submodule in this repository.
+NGSPICE_OPTIMIZED_BIN=/path/to/bsim4-topology-reuse-benchmark/upstream/ngspice_for_sizing/build/src/ngspice
+NGSPICE_OPTIMIZED_SOURCE=/path/to/bsim4-topology-reuse-benchmark/upstream/ngspice_for_sizing
+
+# HSPICE is optional for result analysis, but required for the full comparison.
+HSPICE_BIN=/path/to/hspice
+
+# Optional site-owned shell file that exports license variables such as
+# SNPSLMD_LICENSE_FILE. The benchmark never starts a license daemon itself.
+HSPICE_ENV_FILE=/path/to/company/hspice_env.sh
+
+# Set to the number of licenses the site allows the benchmark to consume.
+HSPICE_CONCURRENCY_CAP=1

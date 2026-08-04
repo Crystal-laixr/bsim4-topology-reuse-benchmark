@@ -267,8 +267,8 @@ def main() -> None:
     parser.add_argument("--tag", default="matrix")
     parser.add_argument("--cpu", type=int, default=0)
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
-    parser.add_argument("--ngspice", default=os.environ.get("NGSPICE_BIN", "/home/LaiXinran/ngspice_for_sizing/build/src/ngspice"))
-    parser.add_argument("--hspice", default=os.environ.get("HSPICE_BIN", "/home/LaiXinran/.local/eda/hspice/bin/hspice"))
+    parser.add_argument("--ngspice", default=os.environ.get("NGSPICE_BIN", "ngspice"))
+    parser.add_argument("--hspice", default=os.environ.get("HSPICE_BIN", "hspice"))
     args = parser.parse_args()
     root = args.root.resolve()
     output_dir = root / "data" / "raw" / args.tag

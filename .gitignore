@@ -1,7 +1,9 @@
 __pycache__/
 *.pyc
 .venv/
+.benchmark-env
 data/work/
 data/raw/**/*.tmp
 upstream/ngspice_for_sizing/
+upstream/ngspice_official/
 
