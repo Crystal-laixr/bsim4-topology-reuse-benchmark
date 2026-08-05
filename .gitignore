@@ -4,6 +4,12 @@ __pycache__/
 .benchmark-env
 data/work/
 data/raw/**/*.tmp
+fair-comparison/parallel-scaling/data/raw/invalid/
+fair-comparison/parallel-scaling/data/raw/license_preflight*/
+fair-comparison/parallel-scaling/data/raw/logs/
+fair-comparison/parallel-scaling/data/raw/system/*.pid
+fair-comparison/parallel-scaling/data/raw/system/full_matrix.stdout
+fair-comparison/parallel-scaling/data/raw/system/reduced_scope_switch.log
 upstream/ngspice_for_sizing/
 upstream/ngspice_official/
 

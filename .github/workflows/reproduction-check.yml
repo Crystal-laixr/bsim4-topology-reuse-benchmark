@@ -1,0 +1,39 @@
+name: Reproduction check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  clean-build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Install build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential autoconf automake libtool bison flex libreadline-dev libncurses-dev libfftw3-dev python3
+
+      - name: Verify pinned optimized source
+        run: |
+          expected=$(sed -n 's/^OPTIMIZED_COMMIT=//p' fair-comparison/scripts/setup_binaries.sh)
+          actual=$(git -C upstream/ngspice_for_sizing rev-parse HEAD)
+          test "$actual" = "$expected"
+
+      - name: Reject author-specific paths
+        run: |
+          if git grep -n -I -E '(/home/LaiXinran|C:\\Users\\admin|D:\\)' -- '*.sh' '*.py' '*.example'; then
+            echo 'author-specific path found in a tracked executable or configuration file' >&2
+            exit 1
+          fi
+
+      - name: Check script syntax
+        run: |
+          bash -n scripts/runtime_env.sh scripts/run_matrix.sh fair-comparison/scripts/setup_binaries.sh fair-comparison/scripts/run_matrix.sh fair-comparison/parallel-scaling/scripts/run_matrix.sh
+          python3 -m py_compile scripts/*.py fair-comparison/scripts/*.py fair-comparison/parallel-scaling/scripts/*.py
+
+      - name: Clean optimized NGSPICE build
+        run: JOBS=2 bash upstream/ngspice_for_sizing/tools/build_and_verify.sh --quick
