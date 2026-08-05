@@ -25,7 +25,7 @@
 
 ## 3. 仓库中已经包含什么
 
-- 优化 NGSPICE 源码以 Git submodule 固定在提交 `7a76e17d46ba49aa74f417151f8b8311c488760a`，其官方基线为 ngspice `pre-master-47` 提交 `eb68de42d0ca8c97efd92f8d7528e7e7841f5fc9`。
+- 优化 NGSPICE 源码以 Git submodule 固定在提交 `828d455865fe1b530672de4be6519703826057be`，其官方基线为 ngspice `pre-master-47` 提交 `eb68de42d0ca8c97efd92f8d7528e7e7841f5fc9`。
 - 三轮实验的网表生成器、模型卡、固定参数点、运行脚本、门槛检查和分析脚本。
 - 已发布的原始记录、汇总 CSV、图表和报告，可在没有 HSPICE 的机器上直接审阅和重新分析。
 - 不包含 HSPICE binary、许可证文件、许可证服务日志、账号凭据或公司内部路径配置。
@@ -34,6 +34,10 @@
 ## 4. 获取源码
 
 推荐 Linux x86_64、Ubuntu 24.04 或 WSL2 Ubuntu 24.04。CentOS/RHEL 也可以，但包名和工具版本需要按系统调整。
+
+在 CentOS 7/RHEL 7 等旧系统上，先确认 `gcc --version` 可执行；若编译器来自 Software Collections，需要在同一 shell 中启用对应 devtoolset，例如 `source /opt/rh/devtoolset-9/enable`，再运行构建脚本。
+
+源码自测需要 Python 3.9 或更高版本。脚本会优先寻找 `python3.12`、`python3.11`、`python3.10`、`python3.9`，也可显式设置 `PYTHON_BIN=/path/to/python3.12`。系统默认 `python3` 较旧时，不要让它覆盖新版本解释器。
 
 ```bash
 git clone --recurse-submodules https://github.com/Crystal-laixr/bsim4-topology-reuse-benchmark.git
@@ -47,7 +51,7 @@ git submodule status
 git submodule update --init --recursive
 ```
 
-`git submodule status` 应显示优化源码提交 `7a76e17...`。公司若要修改优化逻辑，应在 `upstream/ngspice_for_sizing/` 对应的源码仓库中建立自己的分支，并同步更新本仓库的 submodule 指针；不要只复制一个本地 build 目录。
+`git submodule status` 应显示优化源码提交 `828d455...`。公司若要修改优化逻辑，应在 `upstream/ngspice_for_sizing/` 对应的源码仓库中建立自己的分支，并同步更新本仓库的 submodule 指针；不要只复制一个本地 build 目录。
 
 ## 5. 构建优化 NGSPICE
 
